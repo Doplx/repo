@@ -10,7 +10,7 @@
 # supported CodeQL languages.
 #
 name: "CodeQL"
-
+[![CodeQL](https://github.com/Doplx/repo/actions/workflows/codeql.yml/badge.svg?branch=Repo)](https://github.com/Doplx/repo/actions/workflows/codeql.yml)
 on:
   push:
     branches: [ "repo" ]
