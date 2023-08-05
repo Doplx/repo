@@ -1,4 +1,3 @@
-
 Package: com.snail.always120.rootless
 Version: 1.0.9
 Architecture: iphoneos-arm64
@@ -9,7 +8,7 @@ Size: 20018
 Section: Rootless
 Maintainer: Snail <mu514983786@gmail.com>
 Author: Snail <mu514983786@gmail.com>
-MD5: c03e0da1e0b196f9ceab24f07f6c7eb3
-SHA1: 883861badaf274af0c6317a87e38569c5ced86a9
-SHA265: 0a229d63409dff57af1b661ef6958e016312e013eca1dc10b710dfe6136b367d
-Filename: deb/com.snail.always120.rootless_1.0.9_iphoneos-arm64.deb
+MD5: 1d268a7b23d05c0d092d020b468046e5
+SHA1: 46faf23ef2c331aa501b316e61b6d58d6c84eb38
+SHA265: 5afe946dc7a0137ba8549d8664685917f19668ef448123a6d6fc9ea4237dd79a
+Filename: deb/Always120.deb
