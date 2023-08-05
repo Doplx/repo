@@ -8,7 +8,7 @@ Size: 200414
 Section: Rootless
 Maintainer: Snail <mu514983786@gmail.com>
 Author: Snail <mu514983786@gmail.com>
-MD5sum: 1d268a7b23d05c0d092d020b468046e5
-SHA1: 46faf23ef2c331aa501b316e61b6d58d6c84eb38
-SHA265: 5afe946dc7a0137ba8549d8664685917f19668ef448123a6d6fc9ea4237dd79a
+MD5sum: 8aa98b97b98bfbd0b3520c419bad2be6
+SHA1: 8ecaea316e75b2c826d497d0abd6a45765189380
+SHA265: 3d389136148c524b4b6bb05f1238ced5ae4696a01d11da754dae0bd6fe49ba00
 Filename: deb/Always120.deb
