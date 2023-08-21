@@ -13,14 +13,12 @@ Size: 59962
 MD5sum: cc389056b950a6d9a108a44e78b3e073
 SHA1: 8792547c3bd60eb46709d2ecb4d1efb9b7fcb215
 SHA256: 13fc3990506825e6d83d1db66aad81a0c0ebb346eeec1fed9a2c0b0802535491
-Section: Utilities
-Priority: standard
-Homepage: https://github.com/akemin-dayo/AppSync
+Section: Tweaks
 Description: A command-line IPA app installer.
 Tag: role::enduser, purpose::console
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
-Depiction: https://cydia.akemi.ai/?page/ai.akemi.appinst
-Name: appinst (App Installer)
+Depiction: https://doplx.github.io/repo/
+Name: (App Installer)تثبيت التطبيقات بدون شهادة
 
 Package: ai.akemi.appsyncunified
 Version: 112.0
@@ -37,11 +35,10 @@ MD5sum: 8c021dd4b7a708a879b3a3b60dab063b
 SHA1: 0bb7e3fe91b8034d229d268e33133eb727c247b7
 SHA256: 400913a5de0f78345e14ed3e05fedaacbf12bb280a443a2ca880e04396460e73
 Section: Tweaks
-Homepage: https://cydia.akemi.ai/
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
-Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
-Name: AppSync Unified
+Depiction: https://doplx.github.io/repo/
+Name: AppSync تثبيت التطبيقات من مدير الملفات
 
 Package: alias20.coolcc
 Version: 2.0
@@ -57,7 +54,8 @@ SHA256: 41ace674b0e77d9f3b1cf9774f1d9e5aa2af117d537ca341276f93199844e071
 Section: Tweaks
 Description: This tweak makes ControlCenter cool! Compatible with iOS 15/rootless.
 Author: alias20
-Name: CoolCC Reborn
+Name: CoolCC تغيير مظهر مركز التحكم
+Depiction: https://doplx.github.io/repo/
 
 Package: alias20.speedy
 Version: 0.2
@@ -73,7 +71,8 @@ SHA256: a7590e042795c06a051dc5c7e3db6c87f9e56144f47646dcd1d5f4f65272b5ee
 Section: Tweaks
 Description: Next generation of FastAnimator
 Author: alias20
-Name: Speedy
+Name: Speedy تسريع الأنيميشن للجهاز
+Depiction: https://doplx.github.io/repo/
 
 Package: cc.igerman.tiktokusregion
 Version: 0.0.1
@@ -86,14 +85,12 @@ MD5sum: 66a11f1f4189ae78136b475798c80872
 SHA1: c33bae208d03687d54cbd8ea9d59c20475296f25
 SHA256: 23cc3080287d23a04120215956b6dd2e7d12576ab5179f47c34b1df8c91b1f56
 Section: Tweaks
-Homepage: https://shuga.co/
 Description: Very simple TikTok tweak. Changes the region to the US, protects against jailbreak detection, removes ads.
 Author: iGerman <igerman@igerman.cc>
-Depiction: https://repo.igerman.cc/depiction/web/cc.igerman.tiktokusregion.html
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.igerman.cc/assets/cc.igerman.tiktokusregion/icon.png
 Moderndepiction: https://repo.igerman.cc/depiction/native/cc.igerman.tiktokusregion.json
-Name: TikTokUSregion
-Sileodepiction: https://repo.igerman.cc/depiction/native/cc.igerman.tiktokusregion.json
+Name: TikTokUSregion تغيير المنطقة للتيك توك
 Tags: compatible_min::ios15.0, compatible_max::ios15.4.1
 
 Package: com.0xkuj.3dappversionspoofer
@@ -110,7 +107,8 @@ SHA256: ae10b13f0cd15911045fb2a3f3a4f964c9aeaaf79b3acb1f1b91a19feb0bfeca
 Section: Tweaks
 Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
 Author: 0xkuj
-Name: 3DAppVersionSpoofer
+Name: 3DAppVersionSpoofer تزوير إصدار التطبيقات
+Depiction: https://doplx.github.io/repo/
 
 Package: com.0xkuj.iparanger
 Version: 1.8
