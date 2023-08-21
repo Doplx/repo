@@ -1,3 +1,97 @@
+
+Package: com.squ1dd13.cleo
+Version: 2.6.0
+Architecture: iphoneos-arm
+Maintainer: squ1dd13
+Depends: mobilesubstrate
+Conflicts: com.squ1dd13.csios, com.squ1dd13.zinc, com.brend0n.gtasa60fps
+Replaces: com.squ1dd13.csios, com.squ1dd13.zinc
+Provides: com.squ1dd13.csios, com.squ1dd13.zinc
+Filename: ./debs/cleo-v2.6.0-stable.deb
+Size: 3025584
+MD5sum: d7031b16115999ef1563a9a4d522c44c
+SHA1: 5b8b999bea68468d63f294fbe6e73c413e5493ac
+SHA256: ce705d9187e9a9a773291042722eb79140708f5688ffdbf5f38172c51e2430da
+Section: Tweaks
+Description: CLEO for GTA:SA. Now with extra Rust!
+Author: squ1dd13
+Name: CLEO ModMenuهاك لعبة سان أندريس
+Depiction: https://doplx.github.io/repo/
+
+Package: emt.paisseon.erika
+Version: 1.13.3
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 368
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: ./debs/emt.paisseon.erika_1.13.3_iphoneos-arm64.deb
+Size: 92162
+MD5sum: bab331e4f39bc5a4f9e753d01b87a877
+SHA1: 3b544573d3c9d037f4b97685ab7f1293fd1a9d45
+SHA256: 66270edb31c79f000d5059266f0d5ca53dac2ef989f878b40707a5f3318e21c0
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://doplx.github.io/repo/
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erikaسحب الأدوات المدفوعة مجاناً
+Section: Tweaks
+
+Package: emt.paisseon.satella
+Version: 1.8.1
+Architecture: iphoneos-arm64
+Maintainer: Lilliana
+Installed-Size: 488
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: ./debs/emt.paisseon.satella_1.8.1_iphoneos-arm64.deb
+Size: 95982
+MD5sum: e951c9c54b7b646d3c58aa3d2d3946a5
+SHA1: b1a2a6e9c10ac9cfb62c31a6bfccff90e96111f7
+SHA256: cadbe4d4bf8e4e9317d450792e0cf1548c288b9016dee3241e72ee4bdeedd20d
+Section: Tweaks
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: https://doplx.github.io/repo/
+Icon: https://paisseon.github.io/icons/Satella.png
+Name: Satellaالشراء من داخل التطبيقات
+
+Package: lilliana.apphider
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 596
+Depends: mobilesubstrate, firmware (>= 12.2), com.opa334.altlist
+Filename: ./debs/lilliana.apphider_0.0.2_iphoneos-arm64.deb
+Size: 76876
+MD5sum: 87bb11c5013ba6353ed0c41dea3e2c40
+SHA1: b211ee1b47812d3f6257c00bd946af83652ce299
+SHA256: 2ea0cec64aa9864a6b6440a8dbfda58ef1487bed34c26d61499a4146ca72783e
+Section: Tweaks
+Description: Hide apps from your homescreen, library, spotlight
+Author: Paisseon
+Depiction: https://doplx.github.io/repo/
+Icon: https://paisseon.github.io/icons/AppHider.png
+Name: App Hiderإخفاء التطبيقات من الشاشة
+
+Package: lilliana.ishtar
+Version: 0.0.7
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 456
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: ./debs/lilliana.ishtar_0.0.7_iphoneos-arm64.deb
+Size: 73950
+MD5sum: 81f5a935ba912b93e3c271cb2109d9bd
+SHA1: 86b979e9d2537e790ea7b047690c33e530d4eaae
+SHA256: 7f5172b18b1dda641bad40c8fc9baa52d1f66cba848d193e55541dee42512056
+Section: Tweaks (Piracy)
+Description: iOSGods VIP cheats for free
+Author: Paisseon
+Depiction: https://doplx.github.io/repo/
+Icon: https://paisseon.github.io/icons/Ishtar.png
+Name: Ishtar IosGodsVipفتح هاكات ال
+Section: Tweaks
+
 Package: ai.akemi.appinst
 Version: 2.1
 Architecture: iphoneos-arm64
@@ -1294,7 +1388,7 @@ SHA256: bc21f86ff2a1e00b38517950ab4a9c9eb5d70f0744863ac2c5e9862985b4737d
 Section: Tweaks
 Description: Change your now playing app icon to the album artwork of currently playing music!
 Author: Ethan Whited
-Name: NowPlayingIconإطهار لقطة الفيديو عبر أيقونة التطبيق
+Name: NowPlayingIconإظهار لقطة الفيديو عبر أيقونة التطبيق
 
 Package: com.niceios.nicebarx15-rootless
 Version: 1.0.2.1-85
@@ -1379,9 +1473,9 @@ Section: Tweaks
 Description: Bigger and bolder folders, remade!
 Tag: compatible_min::ios14.0
 Author: Nightwind <nightwinddev@gmail.com>
-Depiction: https://chariz.com/get/boldersreborn
+Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/boldersreborn/icon@3x.png
-Name: Bolders Reborn
+Name: Boldersتعديل المجلدات
 
 Package: com.nightwind.searchdots
 Version: 1.1.5
@@ -1398,9 +1492,9 @@ Section: Tweaks
 Description: Search Pill Ported from iOS 16
 Tag: compatible_min::ios14.0
 Author: Nightwind <nightwinddev@gmail.com>
-Depiction: https://chariz.com/get/searchdots
+Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/searchdots/icon@3x.png
-Name: SearchDots
+Name: SearchDots Ios16ميزة البحث كإصدار
 
 Package: com.opa334.altlist
 Version: 1.0.10
@@ -1418,10 +1512,10 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
 Description: A modern AppList alternative
 Tag: purpose::library
 Author: opa334 <opa334@protonmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Depiction: https://doplx.github.io/repo/
 Dev: opa334
 Name: AltList
-Sponsor: thebigboss.org <http://thebigboss.org>
+
 
 Package: com.opa334.ccsupport
 Version: 1.3.10-2
@@ -1438,14 +1532,12 @@ MD5sum: 4d7c268713deb29d0d8e23157d33bb2d
 SHA1: c18168922244561b9d13cb23886f314868dcaf40
 SHA256: c5097a205e6cc8370dd69c245b918fd69e2022ddf6a29624b645aaf881b755dd
 Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Depiction: https://doplx.github.io/repo/
 Description: Support tweak for CC modules!
 Tag: purpose::extension
 Author: opa334 <opa334@protonmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Dev: opa334
-Name: CCSupport
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: CCSupportإضافة إختصارات لمركز التحكم
 
 Package: com.opa334.choicy
 Version: 1.4.10-3
@@ -1461,8 +1553,8 @@ SHA256: 66a503737a9e0b14d7050d6f91ce82ebc7bcc44ff5eabac28f01ca4d8663471e
 Section: Tweaks
 Description: Advanced Tweak Configuration!
 Author: opa334 <opa334@protonmail.com>
-Depiction: https://opa334.github.io/depic/Choicy/index.html
-Name: Choicy
+Depiction: https://doplx.github.io/repo/
+Name: Choicyتشغيل التطبيقات بدون حقن أدوات
 
 Package: com.opa334.libsandy
 Version: 1.1.3
@@ -1477,14 +1569,12 @@ MD5sum: a2099b625b88b2172ef02e7dbb28ee9f
 SHA1: caee28af0d3f8d84abc81c449edabc8fcb7c9272
 SHA256: 3118fd15dd840f92af63a659aae86f330d333950f252ddd93295aee76bb23fde
 Section: System
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
 Description: Securely extend the sandbox of system processes and user applications
 Tag: purpose::extension, role::developer
 Author: opa334 <opa334@protonmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Depiction: https://doplx.github.io/repo/
 Dev: opa334
 Name: libSandy
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.opa334.libsandy
 Version: 1.1.3
@@ -1501,7 +1591,7 @@ Section: System
 Description: Securely extend the sandbox of system processes and user applications
 Tag: role::developer
 Author: opa334
-Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Depiction: https://doplx.github.io/repo/
 Name: libSandy
 
 Package: com.opa334.notrecording
@@ -1518,7 +1608,8 @@ SHA256: 3f4dba6865847eff845dc8157632b559c9ff180163eb119c6d0ad5a3f734b444
 Section: Tweaks
 Description: Spoof screen recording detection!
 Author: opa334
-Name: NotRecording
+Name: NotRecordingمنع إكتشاف تصوير الشاشة
+Depiction: https://doplx.github.io/repo/
 
 Package: com.opa334.timebomb
 Version: 1.0.1
@@ -1535,6 +1626,7 @@ Section: Tweaks
 Description: Spinlock timeout with ease!
 Author: opa334
 Name: TimeBomb
+Depiction: https://doplx.github.io/repo/
 
 Package: com.opa334.whitepointmodule
 Version: 1.2.2
@@ -1547,13 +1639,12 @@ Size: 14950
 MD5sum: dda37c21e8ed67c1eb7ddfd60a978002
 SHA1: 7e34a06cb39600b43a16d33dc0800257ce8a7e20
 SHA256: 85d78767cf8746f8809aceea74b70120fcd0fd36e9d58dda5fc614fdcab1174d
-Section: Control Center (Modules)
+Section: Tweaks
 Description: Reduce White Point from Control Center!
 Author: opa334
-Depiction: https://opa334.github.io/depic/WhitePointModule/index.html
+Depiction: https://doplx.github.io/repo/
 Icon: https://opa334.github.io/depic/WhitePointModule/Resources/icon.png
-Name: White Point Module
-Sileodepiction: https://opa334.github.io/depic/WhitePointModule/sileo.json
+Name: White Point تقليص حدة الضوء الأبيض
 
 Package: com.p2kdev.alarmtime
 Version: 1.0
@@ -1569,10 +1660,9 @@ SHA256: ea9c63ad28dd22faf704c0cf2e2bc9d50c74b8e4593e14042f83ce289853722f
 Section: Tweaks
 Description: Show Time until alarm in the clock App!
 Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.alarmtime
+Depiction: https://doplx.github.io/repo/
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.alarmtime/icon.png
-Name: AlarmTime
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.alarmtime.json
+Name: AlarmTimeإظهار الوقت المتبقي للمنبه
 
 Package: com.p2kdev.nospotlightonls
 Version: 1.0
@@ -1588,10 +1678,9 @@ SHA256: f3b6aa577da91165946eae1a6a733f6dd33a46645752bc0f8927deb2893014c0
 Section: Tweaks
 Description: Disable swipe down on LS to open spotlight!
 Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.nospotlightonls
+Depiction: https://doplx.github.io/repo/
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.nospotlightonls/icon.png
-Name: NoSpotlightOnLS
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.nospotlightonls.json
+Name: NoSpotlightOnLSإلغاء خاصية السبوتلايت
 
 Package: com.ps.amber
 Version: 1.2.0
@@ -1607,9 +1696,7 @@ SHA256: fe165aabe7c030d0548c009d5d3667a269560146a6268c2a484beeeebed6c8a4
 Section: Tweaks
 Description: Amber-ify your flashlight LEDs.
 Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/amber.html
-Name: Amber
-Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/amber.json
+Name: Amberتغيير لون إضاءة الكشاف
 
 Package: com.ps.cahighfps
 Version: 1.3.1
@@ -1625,9 +1712,8 @@ SHA256: 11ef66d9807a24e6bd5aae1793cfffb1bb447999e7092f845b136b979831926f
 Section: Tweaks
 Description: Make CoreAnimation apps use the highest available FPS.
 Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/cahighfps.html
-Name: CAHighFPS
-Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/cahighfps.json
+Depiction: https://doplx.github.io/repo/
+Name: CAHighFPSرفع كفاءة الفريمات
 
 Package: com.ps.cconandoff
 Version: 1.1.0
@@ -1644,9 +1730,8 @@ SHA256: 9bdcc2d78cfb71045dc3b24ab4079a20e3c5897f990377f6e657edf785ab26c2
 Section: Tweaks
 Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).
 Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
-Name: CC On & Off
-Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
+Depiction: https://doplx.github.io/repo/
+Name: CCOn&Offإغلاق الوايفاي من مركز التحكم
 
 Package: com.ps.youquality
 Version: 1.1.4
@@ -1662,9 +1747,8 @@ SHA256: b7c6844733e8b109f3042163faf148f086cbeec68d1ae0fbd46841d6a83813c1
 Section: Tweaks
 Description: View/change video quality in YouTube faster.
 Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/youquality.html
-Name: YouQuality
-Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/youquality.json
+Name: YouQualityتحديد جودة فيديوهات اليوتيوب
+Depiction: https://doplx.github.io/repo/
 
 Package: com.qiop1379.swipeextenderx
 Version: 1.6.1~2
@@ -1681,9 +1765,9 @@ Section: Tweaks
 Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
 Tag: compatible_min::ios14.0
 Author: MiRO <tweaks_support@miro92.com>
-Depiction: https://chariz.com/get/swipeextenderx
+Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
-Name: SwipeExtenderX
+Name: SwipeExtenderXإضافة ميزة السحب للكيبورد
 
 Package: com.rpgfarm.a-font
 Version: 1.10
@@ -1699,7 +1783,8 @@ SHA256: a6bf4885a091109e32fc4fcf031fab58ecb534f9f2ffcb45827641c9dd349e7e
 Section: Tweaks
 Description: Change your font!
 Author: Baw Appie <pp121324@gmail.com>
-Name: A-Font
+Name: A-Fontتغيير خطوط الجهاز
+Depiction: https://doplx.github.io/repo/
 
 Package: com.rpgfarm.a-shields
 Version: 1.7
@@ -1715,7 +1800,8 @@ SHA256: eb0fbe0dd91776a8bb05a92f50ab16434938e4645c4f693cbb6288a03cc3c773
 Section: Tweaks
 Description: Protect your device
 Author: Baw Appie <pp121324@gmail.com>
-Name: A-Shields
+Name: A-Shieldsحماية التطبيقات من التطفل
+Depiction: https://doplx.github.io/repo/
 
 Package: com.rpgfarm.noti-fi
 Version: 1.0.1
@@ -1731,7 +1817,8 @@ SHA256: 5abcd44f0fc465f0518dca00727e4ce6eb6c63e31fd4ad8e60711f1fd781348f
 Section: Tweaks
 Description: Android WiFi connection notification
 Author: Baw Appie <pp121324@gmail.com>
-Name: Noti-Fi
+Name: Noti-Fiتنبيه عند الإتصال بالوايفاي
+Depiction: https://doplx.github.io/repo/
 
 Package: com.ryannair05.cask3
 Version: 1.0.2
@@ -1749,9 +1836,9 @@ Section: Tweaks
 Description: Animated table scrolling
 Tag: compatible_min::ios14.0
 Author: Ryan Nair <ryannairtweaks@gmail.com>
-Depiction: https://chariz.com/get/cask-3
+Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/cask-3/icon@3x.png
-Name: Cask 3
+Name: Cask-3تأثير عند التنقل بين الصفحات
 
 Package: com.ryannair05.cylinder
 Version: 1.1.1
@@ -1768,9 +1855,9 @@ Section: Tweaks
 Description: Make your icons dance
 Tag: compatible_min::ios11.0
 Author: Ryan Nair <ryannairtweaks@gmail.com>
-Depiction: https://chariz.com/get/cylinder-reborn
+Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
-Name: Cylinder Reborn
+Name: Cylinderتأثير عند التنقل بالهوم سكرين
 
 Package: com.semvis.sonitus
 Version: 1.0.7
@@ -1788,9 +1875,9 @@ Section: Tweaks
 Description: Sonitus, bring the noise cancellation control of your headphones to the built-in iOS menu.
 Tag: compatible_min::ios13.0
 Author: semvis <semvisscher10@gmail.com>
-Depiction: https://chariz.com/get/sonitus
+Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/sonitus/icon@3x.png
-Name: Sonitus
+Name: Sonitusإلغاء الضجيج للسماعات
 
 Package: com.shepgoba.downloadbar13
 Version: 1.0.2
@@ -1806,7 +1893,8 @@ SHA256: fcbda154ec108da873bb9debc4ff03b0f5d4a8afd3409333f2292e08dd7f98e1
 Section: Tweaks
 Description: Show a progress bar for downloading apps instead! Confirmed worked on iOS 15/rootless.
 Author: shepgoba
-Name: DownloadBar13
+Name: DownloadBarإظهار نسبة تحميل التطبيقات
+Depiction: https://doplx.github.io/repo/
 
 Package: com.skypain.ccautobrightness
 Version: 1.0.0-1
@@ -1819,14 +1907,12 @@ Size: 18238
 MD5sum: 2c54561c7abef76d5e19e3b67ba480e0
 SHA1: d37b98927f799ec33a0b9992a75742c4f034cd67
 SHA256: d7c798a23c8488a8b359b9d901d146675553f4ff9782d0ed2a568dd9ea22e19e
-Section: Control Center (Modules)
-Homepage: https://skypain.github.io/repo/
-Description: 控制中心自动亮度模块
+Section: Tweaks
+Description: auto brightness cc
 Author: Mr.Zhang <mr_zhang_00@163.com>
-Depiction: https://skypain.github.io/repo/static/view/?p=ccautobrightness
+Depiction: https://doplx.github.io/repo/
 Icon: https://skypain.github.io/repo/src/ccautobrightness/Icon.png
-Name: CCAutoBrightness
-Sileodepiction: https://skypain.github.io/repo/src/ccautobrightness/config/sileo/depiction.json
+Name: CCAutoBrightnessإختصار للسطوع التلقائي
 
 Package: com.skypain.cclocation
 Version: 1.1.0-1
@@ -1839,14 +1925,12 @@ Size: 14412
 MD5sum: b0851ff3d077140c03fa9d8a4336dd14
 SHA1: 01283091d4bc89b731816d148ccddf609da8fcfa
 SHA256: c0ea6a66c53999144bfa021867615e74263cac5493b17fd25726ecee6e17a0b7
-Section: Control Center (Modules)
-Homepage: https://skypain.github.io/repo/
-Description: 控制中心定位开关模块
+Section: Tweaks
+Description: location service cc
 Author: Mr.Zhang <mr_zhang_00@163.com>
-Depiction: https://skypain.github.io/repo/static/view/?p=cclocation
+Depiction: https://doplx.github.io/repo/
 Icon: https://skypain.github.io/repo/src/cclocation/Icon.png
-Name: CCLocation
-Sileodepiction: https://skypain.github.io/repo/src/cclocation/config/sileo/depiction.json
+Name: CCLocationإختصار لخدمة الموقع
 
 Package: com.skypain.ccrespring
 Version: 1.1.0-2
@@ -1859,14 +1943,12 @@ Size: 13224
 MD5sum: 90befd5bb8639a1be437c4fdd9c5a516
 SHA1: 061cbfc8993a796ea4bd83ce5eb411def769d489
 SHA256: 13e31b8db540df08e0ba37a293290f810eace8a746598f0fbad8be48b2452602
-Section: Control Center (Modules)
-Homepage: https://skypain.github.io/repo/
-Description: 控制中心注销模块
+Section: Tweaks
+Description: cc respring
 Author: Mr.Zhang <mr_zhang_00@163.com>
-Depiction: https://skypain.github.io/repo/static/view/?p=ccrespring
+Depiction: https://doplx.github.io/repo/
 Icon: https://skypain.github.io/repo/src/ccrespring/Icon.png
-Name: CCRespring
-Sileodepiction: https://skypain.github.io/repo/src/ccrespring/config/sileo/depiction.json
+Name: CCRespringإختصار لعمل ريسبرنق
 
 Package: com.smokin1337.togglow
 Version: 1.0.8
@@ -1882,10 +1964,9 @@ SHA256: ee03fef6e685a6f9348db574d83994ab3205752bf6a0c5e8d1b120146cbf4dfb
 Section: Tweaks
 Description: Make the control center your own !
 Author: smokin1337 <smokin1337@gmail.com>
-Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
+Depiction: https://doplx.github.io/repo/
 Icon: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/icon.png
-Name: Togglow (rootless)
-Sileodepiction: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/Togglow
+Name: Togglowالتعديل على مركز التحكم
 
 Package: com.snail.always120.rootless
 Version: 1.0.9
@@ -1898,12 +1979,13 @@ Size: 200414
 MD5sum: 64cd3c56c24dedc306569e72162a19fa
 SHA1: 9595e77e9bbbee3f36ba46ddbc2636f56ad07784
 SHA256: 3232770b5ca7b745bade9f2df8f7a0e01745b192553cec317a9623257a2e19b5
-Section: Rootless
+Section: Tweaks
 Description: Always120
 Author: Snail <mu514983786@gmail.com>
 Md5: c03e0da1e0b196f9ceab24f07f6c7eb3
-Name: Always120
+Name: Always120تثبيت الفريمات للتطبيقات
 Sha265: 0a229d63409dff57af1b661ef6958e016312e013eca1dc10b710dfe6136b367d
+Depiction: https://doplx.github.io/repo/
 
 Package: com.sop.cachemagicrootless
 Version: 1.1
@@ -1916,12 +1998,12 @@ Size: 26396
 MD5sum: 9df11da67334bbd1d689ae4bd0f426b7
 SHA1: 14e232dfba696c864d69f9e20116eebf2d998095
 SHA256: 99ad01921d9608d7be076aa6bb791efb5c611c19bdc6e8813f3c336d7bf9dfdf
-Section: Control Center (Modules)
+Section: Tweaks
 Description: Add a button to your Control Center to clear the cache for the entire system. Simply tap the button and confirm the action to remove all cache files and see how much space you have freed up.
 Author: SOPPPra
 Icon: https://i.postimg.cc/cJRLqR79/ss.png
-Name: Cache Magic rootless
-Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.cachemagic.json
+Name: Cache Magicإختصار لحذف المخلفات
+Depiction: https://doplx.github.io/repo/
 
 Package: com.sop.settingsrevamp
 Version: 2.0.4
@@ -1938,10 +2020,9 @@ SHA256: 76a748a96cafb7b990c499ce3d753bbbdda5b40d75fd14bdb8756b40d23c271a
 Section: Tweaks
 Description: Customize the ios settings page
 Author: SOPPPra
-Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
+Depiction: https://doplx.github.io/repo/
 Icon: https://i.postimg.cc/ry1s499R/icon-3x.png
-Name: SettingsRevamp
-Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
+Name: SettingsRevampترتيب مظهر الإعدادات
 
 Package: com.sop.statustime
 Version: 1.3
@@ -1958,8 +2039,8 @@ Section: Tweaks
 Description: This tweak allows users to customize the date and time format displayed on their device's status bar. Users can choose from a variety of date and time formats, as well as adjust the font size and position of the date and time elements.
 Author: SOPPPra
 Icon: https://i.postimg.cc/430z6Q0x/statustime.png
-Name: StatusTime
-Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.statustime.json
+Name: StatusTimeإضافةالتاريخ بالستاتوس
+Depiction: https://doplx.github.io/repo/
 
 Package: com.spark.autounlockx
 Version: 1.1.0-rootless
@@ -1975,7 +2056,8 @@ SHA256: 9c422475cedc276aa2cc846d3ad40ecde2c71c87f0ad6af30b3bc4f5ec521524
 Section: Tweaks
 Description: Unless there are notifications, the device will automatically unlock when valid Face ID is detected
 Author: Spark
-Name: AutoUnlockX
+Name: AutoUnlockXفتح تلقائي للجهاز 
+Depiction: https://doplx.github.io/repo/
 
 Package: com.spark.laetus
 Version: 3.5.1-rootless
@@ -1991,7 +2073,8 @@ SHA256: b0df3116eba0a73f83c85443d212ff4a2885dcc73b507f746abf12e58459e3b2
 Section: Tweaks
 Description: Unparalleled Keyboard Customisation
 Author: Spark
-Name: Laetus
+Name: Laetusتعديل لوحة المفاتيح
+Depiction: https://doplx.github.io/repo/
 
 Package: com.spark.libsparkapplist
 Version: 1.1.0~rootless
@@ -2008,6 +2091,7 @@ Description: AppList alternative
 Tag: role::developer
 Author: Spark
 Name: libSparkAppList
+Depiction: https://doplx.github.io/repo/
 
 Package: com.spark.libsparkcolourpicker
 Version: 1.0.3-rootless
@@ -2024,6 +2108,7 @@ Description: Simple to implement, simple to use colour picker library. Built by 
 Tag: role::developer
 Author: Spark
 Name: libsparkcolourpicker
+Depiction: https://doplx.github.io/repo/
 
 Package: com.spark.libsparkmessage
 Version: 1.1.0~rootless
@@ -2040,6 +2125,7 @@ Description: Super lightweight IPC messaging library
 Tag: role::developer
 Author: Spark
 Name: libSparkMessage
+Depiction: https://doplx.github.io/repo/
 
 Package: com.spark.nomoresmallapps
 Version: 2.0.1
@@ -2055,7 +2141,8 @@ SHA256: 5f3eebaca43ec7f85325df4d0137915269b527be019db759a68edd2e7bada65b
 Section: Tweaks
 Description: Make all apps full screen on notched devices
 Author: Spark
-Name: NoMoreSmallApps
+Name: NoMoreSmallAppsفتح التطبيقات بكامل الشاشة
+Depiction: https://doplx.github.io/repo/
 
 Package: com.spark.snowboard
 Version: 1.5.21-Beta3-rootless
@@ -2074,7 +2161,8 @@ SHA256: 7388536dcbca307da803138eabc466592d3df7f0a7562433ca389d9d8de488ef
 Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
-Name: SnowBoard
+Name: SnowBoard🎟مدير الثيمات
+Depiction: https://doplx.github.io/repo/
 
 Package: com.spark.snowboard.dock
 Version: 1.1.3~Beta4-rootless
@@ -2091,6 +2179,7 @@ Section: SnowBoard Extensions
 Description: Dock for SnowBoard
 Author: Spark
 Name: SnowBoard Dock Extension
+Depiction: https://doplx.github.io/repo/
 
 Package: com.spark.snowboard.effects
 Version: 1.2.2-Beta2-rootless
@@ -2107,6 +2196,7 @@ Section: SnowBoard Extensions
 Description: Icon Effects for SnowBoard
 Author: Spark
 Name: SnowBoard Icon Effects Extension
+Depiction: https://doplx.github.io/repo/
 
 Package: com.spark.snowboard.fonts
 Version: 1.1.0~Beta4-rootless
@@ -2126,6 +2216,7 @@ Section: SnowBoard Extensions
 Description: Fonts for SnowBoard
 Author: Spark
 Name: SnowBoard Fonts Extension
+Depiction: https://doplx.github.io/repo/
 
 Package: com.spark.snowboard.labels
 Version: 1.1.1~Beta4-rootless
@@ -2142,6 +2233,7 @@ Section: SnowBoard Extensions
 Description: Labels for SnowBoard
 Author: Spark
 Name: SnowBoard Labels Extension
+Depiction: https://doplx.github.io/repo/
 
 Package: com.spark.snowboard.masks
 Version: 1.2.2-Beta2-rootless
@@ -2158,6 +2250,7 @@ Section: SnowBoard Extensions
 Description: Icon masks for SnowBoard
 Author: Spark
 Name: SnowBoard Icon Masks Extension
+Depiction: https://doplx.github.io/repo/
 
 Package: com.spark.snowboard.presetextension
 Version: 1.1.0~Beta4-rootless
@@ -2174,6 +2267,7 @@ Section: SnowBoard Extensions
 Description: SnowBoard Presets Extension
 Author: Spark
 Name: SnowBoard Preset Extension
+Depiction: https://doplx.github.io/repo/
 
 Package: com.spark.snowboard.settingsicons
 Version: 1.0.26~Beta3-rootless
@@ -2190,6 +2284,7 @@ Section: SnowBoard Extensions
 Description: Settings Icons for SnowBoard
 Author: Spark
 Name: SnowBoard Settings Icons Extension
+Depiction: https://doplx.github.io/repo/
 
 Package: com.spark.snowboard.statusbar
 Version: 1.1.0-Beta4-rootless
@@ -2206,6 +2301,7 @@ Section: SnowBoard Extensions
 Description: StatusBar for SnowBoard
 Author: Spark
 Name: SnowBoard StatusBar Extension
+Depiction: https://doplx.github.io/repo/
 
 Package: com.spark.snowboard.ui
 Version: 1.3.0~Beta2-rootless
@@ -2222,22 +2318,7 @@ Section: SnowBoard Extensions
 Description: UI Extension for SnowBoard
 Author: Spark
 Name: SnowBoard UI Extension
-
-Package: com.spark.snowboardapplication
-Version: 1.1.0~Beta4-rootless
-Architecture: iphoneos-arm64
-Maintainer: Spark
-Installed-Size: 992
-Depends: com.spark.snowboard
-Filename: ./debs/1.1.0~Beta4-rootless.deb
-Size: 607836
-MD5sum: 444df49de498d4de314abe5d3170e70d
-SHA1: 56495891554c40a86b7779b9a1b05409f8ff5942
-SHA256: ac5db855173c67b6751f32c8a5d09a1f5f1ba652a3c01bbe992e870a8beaaa86
-Section: Utilities
-Description: An awesome application!
-Author: Spark
-Name: SnowBoard
+Depiction: https://doplx.github.io/repo/
 
 Package: com.thuthuatjb.appdataplus
 Version: 1.4.0-p
@@ -2252,13 +2333,12 @@ MD5sum: 8f0355e29d1fc5aa9303eb0124202f5a
 SHA1: 33015ceb40587278e52ec96950ea8a501dae5da3
 SHA256: 0145622e2fb76d8bc5b9bb625f86d3353b119639c711109615e354ef2c1ae52d
 Section: Tweaks
-Description: Quản lý dữ liệu ứng dụng từ màn hình chính phiên bản được bổ sung thêm chức năng.
+Description: appdata plus
 Tag: purpose::extension
 Author: Fouad Raheb & Netskao
-Depiction: https://repo.thuthuatjb.com/index.php?pid=641
+Depiction: https://doplx.github.io/repo/
 Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
-Name: AppData Plus
-Sileodepiction: https://repo.thuthuatjb.com/sileo/com.thuthuatjb.appdataplus.json
+Name: AppDataميزات عبر الضغط المطول للتطبيق
 
 Package: com.tigisoftware.appdatamanager
 Version: 1.8.2-5
@@ -2271,17 +2351,15 @@ Size: 2517320
 MD5sum: c21dd211678c92b797c45629cadb9f51
 SHA1: e68b83818605efa719084932753444283b971acb
 SHA256: d8ce1ed3d5ca7eea030e65221cc77ffce5a0bf2ae18690a84b02349ec1f0ab64
-Section: Utilities
+Section: Tweaks
 Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
 Description: Tool to WIPE, BACKUP, RESTORE AppData for installed Apps
 Tag: purpose::uikit
 Author: TIGI Software <satashi2009@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
+Depiction: https://doplx.github.io/repo/
 Dev: satashi2009
 Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
-Name: Apps Manager
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: Apps ManagerⓂ️مدير التطبيقات
 
 Package: com.tigisoftware.filza
 Version: 4.0.1-2
@@ -2295,10 +2373,11 @@ Size: 13930160
 MD5sum: 334436fb8aa3a8d8911f2c76afa9ef48
 SHA1: 7f0a13ca9638a6dd9218ca795741f50130e86175
 SHA256: 0cefbaf52f293dca9a3068e4288e3e159e20d72b6d5047281608671944c08ad3
-Section: Utilities
+Section: Tweaks
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Author: TIGI Software
-Name: Filza File Manager
+Name: Filza File ManagerⓂ️مدير الملفات
+Depiction: https://doplx.github.io/repo/
 
 Package: com.tigisoftware.filza64bit
 Version: 4.0.1-4
@@ -2312,10 +2391,10 @@ Size: 8700882
 MD5sum: 3ba64c6c17e4a92c3afc89a95a224532
 SHA1: edaaf4766eeafcbc2186eecdc99a519b8eca2ed5
 SHA256: 5d354834ad5d44fcd2c1e3bdb4d082c25df6f8ba48f837745c2be1aec3f8f981
-Section: Utilities
+Section: Tweaks
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
 Author: TIGI Software
-Name: Filza File Manager 64-bit
+Name: Filza FileManager64Ⓜ️مدير الملفات
 
 Package: com.tomaszpoliszuk.applibrarydisabler
 Version: 1.1.1
@@ -2330,14 +2409,13 @@ MD5sum: 176258c1a1872596a36dbea31f63c462
 SHA1: 6d90e763e037e5124165a016dfa80a7cea42529e
 SHA256: a15150249b58969949f06d55e92049d954009d6e8faa3d0c779df7a23eb450fd
 Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
 Description: Turn off App Library
 Tag: purpose::extension
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
+Depiction: https://doplx.github.io/repo/
 Dev: tomaszpoliszuk
-Name: App Library Disabler
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: App Library Disablerتعطيل المكتبة
+Depiction: https://doplx.github.io/repo/
 
 Package: com.tomaszpoliszuk.dockcontroller
 Version: 2.1
@@ -2351,15 +2429,13 @@ MD5sum: 93e441de4b90edd9c404b64f310d93c7
 SHA1: 634096fa7e2b4f161e72a2df7450e7a293538342
 SHA256: ce8896da6cd730b31a1854bb70e5be3a2739baac44655357907b47f1dbb48cf5
 Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dockcontrollerDp
 Description: Control Your Dock
 Tag: purpose::extension
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dockcontrollerDp
+Depiction: https://doplx.github.io/repo/
 Dev: tomaszpoliszuk
 Icon: file:///Library/PreferenceBundles/DockControllerSettings.bundle/icons/DockController@3x.png
-Name: Dock Controller
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: Dock Controllerتعديل شريط الدوك
 
 Package: com.tomaszpoliszuk.keyboardcontroller
 Version: 1.2.3
@@ -2373,15 +2449,13 @@ MD5sum: 67b8519b1339cf1bb8e6bd12398a5be3
 SHA1: b85ee0e1f4a15521d7c9b7f6c6e5bd6efa49d7fa
 SHA256: e8777b401606cb8308f5e4e6535a342f3209ad147e6d19660bc549d39b5bd012
 Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyboardcontrollerDp
 Description: Control your Keyboard
 Tag: purpose::extension
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyboardcontrollerDp
+Depiction: https://doplx.github.io/repo/
 Dev: tomaszpoliszuk
 Icon: file:///Library/PreferenceBundles/KeyboardControllerPreferences.bundle/icons/KeyboardController@3x.png
-Name: Keyboard Controller
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: Keyboard Controllerتعديل الكيبورد
 
 Package: com.twickd.john-sklikas.3dbadgeclear
 Version: 1.6.8
@@ -2400,10 +2474,9 @@ SHA256: 7383016a023397cc32e17760bfc8f7121e97e55cea878fbdde043438cfc1fc91
 Section: Tweaks
 Description: Clear your badges from the Force Touch / 3D Touch Menu! Only appears on apps that have badges.
 Author: isklikas
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.twickd.john-sklikas.3dbadgeclear
+Depiction: https://doplx.github.io/repo/
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.twickd.john-sklikas.3dbadgeclear/icon.png
-Name: 3DBadgeClear
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.twickd.john-sklikas.3dbadgeclear.json
+Name: 3DBadgeClearمسح نقطة الإشعار بالضغط المطول
 
 Package: com.udevs.vpnindicator
 Version: 1.1.6
@@ -2417,10 +2490,11 @@ MD5sum: 571cacff074966ac37ffc7c00ac1c4d4
 SHA1: 51d4a92d39e56e4337746b4eb219b4d5b3792133
 SHA256: fa2ee7006da7e824cc336f1e4c1c586c23b4e6a91060d993e543ac420d03c398
 Section: Tweaks
-Description: Indicates VPN state in status bar. 在状态栏的Wifi或蜂窝数据图标显示VPN状态。修复支持rootless
+Description: Indicates VPN state in status bar
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
-Name: VPNIndicator
+Name: VPNIndicator Vpnإختيار لون لل
+Depiction: https://doplx.github.io/repo/
 
 Package: com.yan.anouk
 Version: 1.1.1
@@ -2436,10 +2510,9 @@ SHA256: 98cdb1c236b8f58cd3ee1fbe1f5c2741f166e473182c5fd8928a114546c1f557
 Section: Tweaks
 Description: Authentication for the hidden album.
 Author: yan
-Depiction: https://yandevelop.github.io/depic/Anouk/index.html
+Depiction: https://doplx.github.io/repo/
 Icon: https://yandevelop.github.io/assets/icons/anouk/icon.png
-Name: Anouk
-Sileodepiction: https://yandevelop.github.io/depic/Anouk/AnoukDepiction.json
+Name: Anoukقفل الألبوم المخفي ببصمة الوجه
 
 Package: dev.extbh.tbb.jodelemproved
 Version: 1.1.7
@@ -2453,14 +2526,13 @@ MD5sum: 57ab29b27ea0d3c5f85d98cc15de5c56
 SHA1: d7fff3f6b636f212c5058f86b136f0358dda1cea
 SHA256: de36af4de3df9cb8fe46a635e27ef2930e988b98af216bdebf3c1cba9902da07
 Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jodelemprovedDp
 Description: Customizing the Jodel app
 Tag: purpose::extension
 Author: ExTBH <natheer@extbh.dev>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jodelemprovedDp
+Depiction: https://doplx.github.io/repo/
 Dev: extbh
-Name: Jodel EMPROVED
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: Jodel EMPROVEDميزات لتطبيق اليودل
+Depiction: https://doplx.github.io/repo/
 
 Package: dev.ploosh.batterypercent
 Version: 1.0.1
@@ -2476,8 +2548,8 @@ SHA256: 1aa6e98b38195b89a284ce9dea2a15cdc333ab4be95f7c39e728452564a870dc
 Description: Enables the battery percentage in the icon that Apple hides from you.
 Author: Ploosh
 Icon: https://repo.ploosh.dev/assets/batterypercent.png
-Name: BatteryPercent
-Sileodepiction: https://repo.ploosh.dev/meta/batterypercent.json
+Name: BatteryPercentإظهار نسبة البطارية
+Depiction: https://doplx.github.io/repo/
 
 Package: dev.theos.orion14
 Version: 1.0.1
@@ -2495,7 +2567,7 @@ Section: System
 Description: Runtime for tweaks built using Orion and Swift
 Tag: role::developer, compatible_min::ios14.0
 Author: Theos Team <support@theos.dev>
-Depiction: https://chariz.com/get/orion-runtime14
+Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/orion-runtime14/icon@3x.png
 Name: Orion Runtime (iOS 14 – 16)
 
@@ -2511,12 +2583,13 @@ Size: 462818
 MD5sum: e07abe93f50748c8d17675bb734e7082
 SHA1: 908e512dcf643e642bfa8fea2c067c7e2a166e3d
 SHA256: c0ab1e9a7a6c526f71d3247a8ae4a3cea4be8e178b9a2dac0e800550b1436325
-Section: Tweak Injection
+Section: Tweaks
 Priority: optional
 Description: ElleKit tweak injection libraries and loader
 Author: Evelyn
 Icon: https://ellekit.space/logos/logo.png
-Name: ElleKit
+Name: ElleKitحزمة أساسية لتفعيل الأدوات
+Depiction: https://doplx.github.io/repo/
 
 Package: in.tnttaol.darker
 Version: 2.14
@@ -2528,10 +2601,9 @@ MD5sum: fda24b93b35d12b7b53af1e2b9436225
 SHA1: c944285be527e8c5ed5e508d5ff95992a6d0f095
 SHA256: a6511fd12b3637676a4ec2081e575adff98bd034e52222410e77bbadf726df18
 Section: Themes
-Homepage: https://darker.tntt.me
 Description: Same icons, same style, just darker.
 Author: ItsTNT <hi@tntt.me>
-Name: Darker Plus
+Name: Darker Plusثيم الوضع الداكن
 
 Package: jp.akusio.backgrounderaction15
 Version: 0.1.0
@@ -2547,8 +2619,8 @@ SHA256: c497c404ffff941c5fe757f634f5c392f88564e6dcd5fc266a1eeea51b3b948d
 Section: Tweaks
 Description: [iOS15]Add "Toggle Background Mode" action to ControlCenter.
 Author: @akusio_RR
-Depiction: https://akusio.github.io/descriptions/backgrounderaction15/index.html
-Name: BackgrounderAction15 CCSupport
+Depiction: https://doplx.github.io/repo/
+Name: BackgrounderActionإختصار عمل التطبيق بالخلفية
 
 Package: jp.akusio.milkyway4
 Version: 0.1.1
@@ -2564,8 +2636,8 @@ SHA256: 2e9fa59ded0856ca107f58249f1f626fda12e0743fbb4a04d05fcb3aef69f825
 Section: Tweaks
 Description: multitasking for iOS15 rootless.
 Author: @akusio_RR
-Depiction: https://akusio.github.io/descriptions/milkyway4/index.html
-Name: MilkyWay4-rootless
+Depiction: https://doplx.github.io/repo/
+Name: MilkyWay4
 
 Package: jp.dcsyhi.adkeyboard
 Version: 1.3
@@ -2581,7 +2653,8 @@ SHA256: 368523c86c11893e628c5f64ddfc2f09f1fd3915ddbe848129ceaad3d115114d
 Section: Tweaks
 Description: Make keyboard color adaptive to app color.
 Author: Dcsyhi
-Name: ADKeyboard
+Name: ADKeyboardتغير لون لوحة المفاتيح
+Depiction: https://doplx.github.io/repo/
 
 Package: jp.dcsyhi.kbappdock
 Version: 1.5
@@ -2598,7 +2671,7 @@ Section: Tweaks
 Description: You can arrange apps on the dock of keyboard ⌨️.
 Author: Dcsyhi
 Icon: https://dcsyhi1998.github.io/icons/kbappdock/icon@2x.png
-Name: KBApp
+Name: KBAppإضافة تطبيقات بالكيبورد
 
 Package: kr.xsf1re.vnodebypass
 Version: 0.3.2
@@ -2611,13 +2684,13 @@ Size: 72476
 MD5sum: be4a2627f7f2eb3cc8cde202284251b6
 SHA1: 4334fe0d1bb78be2087eb0a9ece2150e7be0b80a
 SHA256: f6e864195153f1558eccd9207ccb3b80855415303e3ce77b2243575392766cdb
-Section: System
+Section: Tweaks
 Description: An expermental tool to hide jailbreak files for bypass detection. (Only iOS 15/rootless)
 Tag: role::hacker, compatible::ios15
 Author: XsF1re, ichitaso, level3tjg
-Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
+Depiction: https://doplx.github.io/repo/
 Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
-Name: vnodebypass
+Name: vnodebypassمنع إكتشاف الجلبريك
 
 Package: me.autotouch.autotouch.ios8
 Version: 8.0.11
@@ -2631,13 +2704,13 @@ Size: 15579150
 MD5sum: ca188be997cce5a8fe753ded86b27d54
 SHA1: 1ef5eeccbcc14713c48265d352a6d11690395526
 SHA256: d52016cd83a82b87a5c91f20aec70df4c95637fce4a6a77c947e216ff4cd171c
-Section: Utilities
+Section: Tweaks
 Priority: optional
-Homepage: https://autotouch.net
+Depiction: https://doplx.github.io/repo/
 Description: Record and playback touch operations, play macro scripts automatically.
 Author: Kent Krantz <kentkrantz@gmail.com>
 Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
-Name: AutoTouch
+Name: AutoTouchاللمس التلقائي بعد التصوير
 
 Package: me.autotouch.autotouch.ios8.inputtext
 Version: 8.0.11
@@ -2651,13 +2724,13 @@ Size: 15579104
 MD5sum: 108a6536506e18754c50b40f4876527c
 SHA1: dbd3bebe05dbb3af700ca2270cee9fd7199fc522
 SHA256: 36cc9117bb81a7b0dd915039777f13e88165202ca73683748236786c3d1fc1ce
-Section: Utilities
+Section: Tweaks
 Priority: optional
-Homepage: https://autotouch.net
+Depiction: https://doplx.github.io/repo/
 Description: Record and playback touch operations, play macro scripts automatically.
 Author: Kent Krantz <kentkrantz@gmail.com>
 Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
-Name: AutoTouch InputText
+Name: AutoTouch InputTextكتابة نصوص باللمس التلقائي
 
 Package: me.ikghd.ikset
 Version: 3.3
@@ -2676,10 +2749,9 @@ Section: Tweaks
 Description: redefind Settings app !
 Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.8
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ikset
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ikset.png
-Name: iKSettings
-Sileodepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ikset.json
+Name: iKSettingsتعديل مظهر الإعدادات
 
 Package: me.ikghd.inkplus
 Version: 2.2
@@ -2697,10 +2769,9 @@ Section: Tweaks
 Description: a whole new Instagram Experience!
 Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.6
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
-Name: iNKillerPlus
-Sileodepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
+Name: iNKillerPlusإضافة ميزات للإنستا
 
 Package: me.ikghd.instakiller
 Version: 1.9
@@ -2719,10 +2790,9 @@ Section: Tweaks
 Description: iNstagram app no ad’s Media Downloads and much more...
 Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.8
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.instakiller
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.instakiller.png
-Name: iNstaKiller
-Sileodepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.instakiller.json
+Name: iNstaKillerإضافة ميزات للإنستا
 
 Package: me.ikghd.ol3dtube
 Version: 1.8-5
@@ -2741,10 +2811,9 @@ Section: Tweaks
 Description: Ol3d Dark Mode For YouTube!
 Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.8
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ol3dtube
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ol3dtube.png
-Name: OL3DTube
-Sileodepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ol3dtube.json
+Name: OL3DTubeالوضع الليلي لليوتيوب
 
 Package: me.ikghd.packed
 Version: 1.0.0
@@ -2761,10 +2830,9 @@ Section: Tweaks
 Description: YouTubeKiller, iCTMiZ XiV, iNstaKiller, OL3DTube.
 Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.8
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.packed
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.packed.png
-Name: iKGPacked
-Sileodepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.packed.json
+Name: iKGPackedبكج لإضافة ميزات للتطبيقات المذكورة
 
 Package: me.ikghd.youtubekiller
 Version: 1.11
@@ -2782,10 +2850,9 @@ Section: Tweaks
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.8
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.youtubekiller
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.youtubekiller.png
-Name: YouTubeKiller
-Sileodepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.youtubekiller.json
+Name: YouTubeKillerإضافة ميزات لليوتيوب
 
 Package: me.ikghd.ytkplus
 Version: 2.3.0
@@ -2803,10 +2870,9 @@ Section: Tweaks
 Description: a whole new YouTube Experience!
 Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.6
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
-Name: YTKillerPlus
-Sileodepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
+Name: YTKillerPlusإضافة ميزات للتطبيقات
 
 Package: me.jjolano.fmwk.hookkit
 Version: 1.0.15
@@ -2824,6 +2890,7 @@ Description: An iOS developer framework for unified hooking methods.
 Tag: role::developer
 Author: jjolano
 Name: HookKit Framework
+Depiction: https://doplx.github.io/repo/
 
 Package: me.jjolano.fmwk.modulous
 Version: 1.0.8
@@ -2841,6 +2908,7 @@ Description: An iOS developer framework for modular software.
 Tag: role::developer
 Author: jjolano
 Name: Modulous Framework
+Depiction: https://doplx.github.io/repo/
 
 Package: me.jjolano.fmwk.rootbridge
 Version: 1.0.1
@@ -2858,6 +2926,7 @@ Description: An iOS developer framework for rootless tweak development.
 Tag: role::developer
 Author: jjolano
 Name: RootBridge Framework
+Depiction: https://doplx.github.io/repo/
 
 Package: me.jjolano.fmwk.rootbridge
 Version: 1.0.1
@@ -2875,6 +2944,7 @@ Description: An iOS developer framework for rootless tweak development.
 Tag: role::developer
 Author: jjolano
 Name: RootBridge Framework
+Depiction: https://doplx.github.io/repo/
 
 Package: me.jjolano.hkmodule.dobby
 Version: 1.0.7
@@ -2892,6 +2962,7 @@ Section: HookKit (Modules)
 Description: This module provides Dobby library support for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (Dobby)
+Depiction: https://doplx.github.io/repo/
 
 Package: me.jjolano.hkmodule.ellekit
 Version: 1.0.7
@@ -2910,6 +2981,7 @@ Section: HookKit (Modules)
 Description: This module provides the ElleKit API for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (ElleKit)
+Depiction: https://doplx.github.io/repo/
 
 Package: me.jjolano.hkmodule.fishhook
 Version: 1.0.8
@@ -2926,6 +2998,7 @@ Section: HookKit (Modules)
 Description: This module provides fishhook library support for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (fishhook)
+Depiction: https://doplx.github.io/repo/
 
 Package: me.jjolano.hkmodule.substrate
 Version: 1.0.8
@@ -2943,6 +3016,7 @@ Section: HookKit (Modules)
 Description: This module provides the Cydia Substrate API for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (Cydia Substrate)
+Depiction: https://doplx.github.io/repo/
 
 Package: me.jjolano.shadow
 Version: 3.7.6
@@ -2961,10 +3035,11 @@ Size: 100938
 MD5sum: d5d9e73e6fb80918eb95772361f123be
 SHA1: 22c6e9db9a75db1b4faff4292b7343d699e2de86
 SHA256: 52fdf82c814ab67700a51a13de0ca2138b5942b8b2e949493e04614aeef523d4
-Section: System
-Description: A modern jailbreak detection bypass.
+Section: Tweaks
+Description: jailbreak detection Shadow🥷أفضل أداة لإخفاء الجلبريك للببجي
 Author: jjolano
-Name: Shadow
+Name: Shadow🥷أفضل أداة لإخفاء الجلبريك للببجي
+Depiction: https://doplx.github.io/repo/
 
 Package: me.lau.atria
 Version: 1.4.1
@@ -2982,9 +3057,9 @@ Section: Tweaks
 Description: A proper homescreen layout editor for iOS 13-16
 Tag: compatible_min::ios13.0
 Author: ren7995 <lau7995ren@gmail.com>
-Depiction: https://chariz.com/get/atria
+Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/atria/icon@3x.png
-Name: Atria
+Name: Atriaالتعديل على الهوم سكرين
 
 Package: me.luki.amelija
 Version: 2.0
@@ -3000,10 +3075,9 @@ SHA256: 45d041bda0cdf8d941ff36768b89b5444498fc6b6551728b8d0ebecc3f2604fa
 Section: Tweaks
 Description: Take full control of your wallpapers on the fly
 Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.amelija
+Depiction: https://doplx.github.io/repo/
 Icon: https://raw.githubusercontent.com/Luki120/Amelija/main/Am%C4%93lijaPrefs/Resources/Assets/AMHotIcon.png
-Name: Amēlija
-Sileodepiction: https://luki120.github.io/depictions/native/me.luki.amelija/depiction.json
+Name: Amēlijaتعديل ضبابية خلفية الشاشة
 
 Package: me.luki.aria
 Version: 0.9.8~RC
@@ -3019,10 +3093,9 @@ SHA256: ea05e181c4deed7358dc8877543cb74d14d4b512b7a35574273dac5773e1de90
 Section: Tweaks
 Description: Enhance the stock CC or Prysm on the fly
 Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aria
+Depiction: https://doplx.github.io/repo/
 Icon: https://raw.githubusercontent.com/Luki120/Aria/main/AriaPrefs/Resources/Assets/AriaIcon.png
-Name: Aria
-Sileodepiction: https://luki120.github.io/depictions/native/me.luki.aria/depiction.json
+Name: Ariaمظهر جميل لمركز التحكم
 
 Package: me.luki.arizona
 Version: 0.9.2
@@ -3038,10 +3111,9 @@ SHA256: 6db005d99ac5abdf605fb20c2f699cc7f392f3ca2940364b6f2a2c6070034b52
 Section: Tweaks
 Description: Move the stock clock, date and lock glyph on the fly
 Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.arizona
+Depiction: https://doplx.github.io/repo/
 Icon: https://raw.githubusercontent.com/Luki120/SmallTweaks/main/SpringBoard/Arizona/ArizonaPrefs/Resources/Assets/ArizonaHotIcon.png
-Name: Arizona
-Sileodepiction: https://luki120.github.io/depictions/native/me.luki.arizona/depiction.json
+Name: Arizonaتحريك الساعة بدون قيود لشاشة القفل
 
 Package: me.luki.canna
 Version: 0.9.0
@@ -3057,9 +3129,8 @@ SHA256: 3fabcc97b73c385c22c661eb4a3e3d92758af6261dab95af03c0b6b71336ec3f
 Section: Tweaks
 Description: Record on the LS without authenticating for ⇝ iOS 14 +
 Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.canna
-Name: Canna
-Sileodepiction: https://luki120.github.io/depictions/native/me.luki.canna/depiction.json
+Depiction: https://doplx.github.io/repo/
+Name: Cannaتصوير الشاشة بالوضع الخفي
 
 Package: me.luki.marie
 Version: 1.0.6
@@ -3075,10 +3146,9 @@ SHA256: d61490aefa3f07d4705a60c22ccbbe368a84b37fc395b8089ddd7277dfc13b8b
 Section: Tweaks
 Description: Put an image for the dialer, passcode or sharesheet background on the fly
 Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
+Depiction: https://doplx.github.io/repo/
 Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Marie/MarieIcon.png
-Name: Marie
-Sileodepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
+Name: Marieوضع ضورة لرمز المرور
 
 Package: me.luki.stealthcc
 Version: 0.9.0
@@ -3094,10 +3164,9 @@ SHA256: 78ff0ea68af849917b86c6a5ea109420fb8437a78ca3d1ff130d6cb4aa784403
 Section: Tweaks
 Description: Control the intensity of the stock CC blur on the fly
 Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
+Depiction: https://doplx.github.io/repo/
 Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Misc/StealthCC.png
-Name: StealthCC
-Sileodepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
+Name: StealthCCتعديل ضبابية مركز التحكم
 
 Package: me.nepeta.axon
 Version: 1.4-1
@@ -3114,7 +3183,8 @@ SHA256: 71820fd713ee6035b24cbcd41841aadc42bd4387332151ec8864435fa2e10ef6
 Section: Tweaks
 Description: Priority Hub for iOS 15 (rootless/Ellekit)
 Author: Nepeta & Baw Appie
-Name: Axon
+Name: Axonتغيير مظهر الإشعارات لشاشة القفل
+Depiction: https://doplx.github.io/repo/
 
 Package: net.limneos.answeringmachinex-rootless
 Version: 2.0-2
@@ -3131,8 +3201,8 @@ SHA256: 0e96688214a81769324ca3656be911ef1605086523af5e8be5f0425bd657d101
 Section: Tweaks
 Description: AnsweringMachine XS (iOS 11 to 16)
 Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.answeringmachinex
-Name: AnsweringMachine XS (rootless)
+Depiction: https://doplx.github.io/repo/
+Name: AnsweringMachineالرد برسالة صوتية
 
 Package: net.limneos.aquaboardx-rootless
 Version: 2.0-3
@@ -3149,10 +3219,10 @@ SHA256: 76c70c93121d9a6ba89cadef8046c0164fa94b07234e6f8f5909fe25a148e3d1
 Section: Tweaks
 Description: Amazing Water Effects On SpringBoard
 Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.aquaboardx
+Depiction: https://doplx.github.io/repo/
 Icon: file:///Library/PreferenceBundles/AquaPrefs.bundle/AquaBoard@2x.png
 Mainlibmd5: 50d1adbd223be7e6e59494e2e3e8fca2
-Name: AquaBoard XS (rootless) (iOS 11 to 16)
+Name: AquaBoard XSتأثير مائي للهوم سكرين
 
 Package: net.limneos.audiorecorderxs-rootless
 Version: 5.0-5
@@ -3170,9 +3240,9 @@ SHA256: cbfbeb01c65c691cf65bc3bdbce47a370bdb879b14676c2df82b6f29c6f2773a
 Section: Tweaks
 Description: Most Advanced iOS Call Recorder Ever!
 Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorderxs
+Depiction: https://doplx.github.io/repo/
 Mainlibmd5: 2bd89895e747af47790b0eb2f6bac296
-Name: AudioRecorder XS (rootless) (iOS 12 to 16)
+Name: AudioRecorderXS🎙تسجيل المكالمات
 
 Package: net.limneos.autoanswerx-rootless
 Version: 2.0-2
@@ -3188,29 +3258,10 @@ SHA256: 7908713a04015adeb8ae2e224bf5bbf3b9ba8ed8b3687723ca0dad03c7bfbba9
 Section: Tweaks
 Description: Auto-answer any calls!
 Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: http://limneos.net/autoanswerx
+Depiction: https://doplx.github.io/repo/
 Icon: file:///Library/PreferenceBundles/AutoAnswer.bundle/AutoAnswerXSettings@2x.png
 Mainlibmd5: f5ea088a5aa89b09cd693dde75214053
-Name: AutoAnswer XS (rootless) (iOS 11 to 16)
-
-Package: net.limneos.autoanswerx-rootless
-Version: 2.0-2
-Architecture: iphoneos-arm64
-Maintainer: Elias Limneos <limneoselias@gmail.com>
-Installed-Size: 784
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/net.limneos.autoanswerx-rootless_2.0-2_iphoneos-arm64.deb
-Size: 151286
-MD5sum: 69e2d4edbc4afc6aaa4008283d50a35f
-SHA1: 0e579e5b29f80fbb7438cb447b9c84ed3d2b19b0
-SHA256: 7908713a04015adeb8ae2e224bf5bbf3b9ba8ed8b3687723ca0dad03c7bfbba9
-Section: Tweaks
-Description: Auto-answer any calls!
-Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: http://limneos.net/autoanswerx
-Icon: file:///Library/PreferenceBundles/AutoAnswer.bundle/AutoAnswerXSettings@2x.png
-Mainlibmd5: f5ea088a5aa89b09cd693dde75214053
-Name: AutoAnswer XS (rootless) (iOS 11 to 16)
+Name: AutoAnswer XSالرد التلقائي
 
 Package: net.limneos.bioprotectxs-rootless
 Version: 4.6-30
@@ -3227,10 +3278,10 @@ SHA256: 62f21a1697f7a709a7aa3b847c5f09b62926c5f98f6a6e30fb3ed13f7c349134
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: http://limneos.net/bioprotectxs
+Depiction: https://doplx.github.io/repo/
 Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
 Mainlibmd5: 4f1110aadbd864aa76fe9e6be32ac34d
-Name: BioProtect (rootless) (iOS 12 to 16)
+Name: BioProtectحماية الجهاز والتطبيقات ببصمة الوجه
 
 Package: net.limneos.dynamicpeninsula-rootless
 Version: 0.6-19
@@ -3246,9 +3297,9 @@ SHA256: ea5a4bae66aa7d2a2d460356977e2324141b8d5a1bc772369a30674167298741
 Section: Tweaks
 Description: Dynamic Island on your notch
 Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.dynamicpeninsula
+Depiction: https://doplx.github.io/repo/
 Mainlibmd5: 921b926fd501306429310a4e8659f913
-Name: DynamicPeninsula (rootless)
+Name: DynamicPeninsula 14النوتش الخاص بالأيفون 
 
 Package: net.limneos.glow-rootless
 Version: 0.5-11
@@ -3264,10 +3315,10 @@ SHA256: 6b9c206b8a7990a3f30cb36329f5d43029044aa3cabef9b9e92be2a1889100c5
 Section: Tweaks
 Description: Let your lockscreen glow!
 Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: http://limneos.net/glow/
+Depiction: https://doplx.github.io/repo/
 Icon: file:///Library/PreferenceBundles/Glow.bundle/icon.png
 Mainlibmd5: aceebb028badab927c88b011ff1ba9eb
-Name: Glow
+Name: Glowتأثيرات جميلة عند شحن الجهاز
 
 Package: net.limneos.libbulletin
 Version: 0.1-178
@@ -3283,7 +3334,8 @@ SHA256: a2b656fa9b05c7a98e2905c931d14d4701d629d78f5fbbf37fd51486fe9708d3
 Section: Tweaks
 Description: Simple library that displays bulletins
 Author: Elias Limneos
-Name: libbulletin
+Name: libbulletinحزمة أساسية لأدوات إلياس
+Depiction: https://doplx.github.io/repo/
 
 Package: net.limneos.simpleactivationactions-rootless
 Version: 0.1-1
@@ -3300,7 +3352,7 @@ Section: Tweaks
 Description: Simple Activation Actions
  Handles StatusBar actions for simple activation events
 Author: Elias Limneos <limneoselias@gmail.com>
-Name: SimpleActivationActions (rootless)
+Name: SimpleActivationActionsحزمة أساسية لأدوات إلياس
 
 Package: net.limneos.voicechangerx-rootless
 Version: 2.4-3
@@ -3317,10 +3369,10 @@ SHA256: 495b3bf2cc174250e6b3a86df65764f16b2c3586cb9207cb1b1aeb55d48bb58e
 Section: Tweaks
 Description: Change your voice during a call!
 Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
+Depiction: https://doplx.github.io/repo/
 Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
 Mainlibmd5: 8131809d9825837c841f8f54015f50b4
-Name: VoiceChanger XS (rootless) (iOS 11 to 16)
+Name: VoiceChanger XS🎙تغيير الصوت
 
 Package: netskao.filzacrack-rootless
 Version: 1.1-8
@@ -3334,10 +3386,10 @@ MD5sum: cd43968f8a3f52125e444195c2fbffda
 SHA1: 126e7bb7f748e1c54a9201d04be540d4f2f90afd
 SHA256: eec3ae35f6b41142c0c887ed94e9a9c176f78b51992b0ffd79b6f02bc5525b0d
 Section: Netskao-Cracks
-Homepage: https://tigisoftware.com/cydia/
+Depiction: https://doplx.github.io/repo/
 Description: Filza unlock full functionality, the main program please install in the official source
 Author: Netskao
-Name: Filza Crack-Rootless
+Name: Filza Crack🛠كراك مدير الملفات
 
 Package: oldabi
 Version: 0.3.2
@@ -3351,25 +3403,9 @@ SHA1: 0b64b91ab38623a10f8cf19fb5dd26e150cecf1e
 SHA256: 9834b99b01159722b4f7c2ce498ea1fd07eb36528c237be6899c26605e5dfbed
 Description: Support for legacy arm64e ABI in iOS 15.0+
 Author: Evelyn
-Name: Legacy arm64e Support
-
-Package: ploosh.debstealer
-Version: 1.0.4
-Architecture: iphoneos-arm64
-Maintainer: Ploosh <me@ploosh.dev>
-Installed-Size: 8
-Depends: firmware (>= 11.0)
-Filename: ./debs/ploosh.debstealer_1.0.4_iphoneos-arm64.deb
-Size: 1124
-MD5sum: f5a61a0313fcacbc7b161cd5ad90e6c2
-SHA1: 51b764b281efbe9ab429b29b252b65bb5216d7b4
-SHA256: eac4bbad7277d7d8b40e6ced033dee81ffa1a4c953aed03523b9e337259b61e9
-Section: Utilities
-Description: steal debs
-Author: Ploosh
-Icon: https://repo.ploosh.dev/assets/debstealer.png
-Name: DebStealer
-Sileodepiction: https://repo.ploosh.dev/meta/debstealer.json
+Name: Legacy arm64e Sup 64eدعم معالجات 
+Section: Tweaks
+Depiction: https://doplx.github.io/repo/
 
 Package: preferenceloader
 Version: 2.2.6-1
@@ -3382,39 +3418,13 @@ Size: 17604
 MD5sum: 7f8e8ed7a44c2c04c777ba823df0cc0e
 SHA1: abaeb05ac4b4161427d1cc877eaf3c078f575fb2
 SHA256: d5553f68d58fb5dd2ebda950f9b5e4d5119118cd5c8c49a08379521cc9636460
-Section: System
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Section: Tweaks
+Depiction: https://doplx.github.io/repo/
 Description: load preferences in style
 Tag: role::hacker, purpose::library
 Author: Dhinak G <dhinak@dhinak.net>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
 Dev: dhinakg
-Name: PreferenceLoader
-
-Package: pro.ikghd.ikset
-Version: 3.3
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 412
-Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
-Conflicts: com.yourepo.ikghd.ikset, pro.ikghd.iksettings
-Replaces: pro.ikghd.iksettings
-Filename: ./debs/ikset_3.3_iphoneos-arm64.deb
-Size: 48768
-MD5sum: 2741fed3b7c615ffbb3304dd5a6d1a3b
-SHA1: 6927029317732b08fa86307cd39e4292337bfe9c
-SHA256: e1aae1a833cc7f7ef9976e176206c610ff842d8f313f063df02b4726e301f71e
-Section: Tweaks
-Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iksetDp
-Description: Redefined Settings app!
-Tag: purpose::extension
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iksetDp
-Dev: ikghd
-Icon: file:///var/jb/Library/PreferenceBundles/iKSPrefs.bundle/icon@2x.png
-Name: iKSettings
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: PreferenceLoaderحزمة أساسية لتفعيل الأدوات
 
 Package: se.geometric.lendmyphone5
 Version: 1.0
@@ -3430,10 +3440,9 @@ SHA256: 962ea345a93e51b8ab004945311f88951c79f2aacb1d07337224b44590b5f597
 Section: Tweaks
 Description: A true guest mode for iOS
 Author: Geometric Software
-Depiction: https://repo.cypwn.xyz/depiction/1379
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/lendmyphone.png
-Name: LendMyPhone 5
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1379
+Name: LendMyPhoneتفعيل وضع الضيف
 
 Package: u.blanxd.opensshcc
 Version: 1.1.0
@@ -3448,16 +3457,14 @@ Size: 14268
 MD5sum: 4b489a0d501c3fdd06f960bcca1c9103
 SHA1: b451cb8ba235bcc399d585dab5a79fd600d28b7d
 SHA256: 20cea070b4b95b194672b6df4c0ea928e2a7c05b84e823e7fd722f6dcecd5173
-Section: Addons (ControlCenter)
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshccDp
+Section: Tweaks
 Description: OpenSSH toggle in CC
 Tag: purpose::extension
 Author: BlanxdH <blanxd.h@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshccDp
+Depiction: https://doplx.github.io/repo/
 Dev: blanxd
 Icon: file:///Library/ControlCenter/Bundles/SSHonCC.bundle/SettingsIcon@2x.png
-Name: OpenSSH CC Toggle
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: OpenSSH CC SSHإختصار لفتح منفذ
 
 Package: ws.hbang.alderis
 Version: 1.2.3
@@ -3496,10 +3503,9 @@ Section: Development
 Description: Support library for tweaks
 Tag: role::developer, compatible_min::ios15.0
 Author: HASHBANG Productions <support@hbang.ws>
-Depiction: https://chariz.com/get/cephei
+Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
 Name: Cephei Tweak Support
-Support: https://hashbang.productions/support/
 
 Package: ws.hbang.newterm3
 Version: 3.0~beta1
@@ -3514,14 +3520,13 @@ Size: 3836904
 MD5sum: fed66db963cb17131b239dc6deb7058c
 SHA1: 4c9327fb9cd3ccdade8247bab90bcf12338b6be2
 SHA256: cbd965fbdc25634e4e447ba4609598a67a0f354a63fce2dbf9e0dce99042b055
-Section: Terminal Support
+Section: Tweaks
 Description: Powerful terminal app for iOS
 Tag: compatible_min::ios14.0
 Author: HASHBANG Productions <support@hbang.ws>
-Depiction: https://chariz.com/get/newterm-beta
+Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
-Name: NewTerm 3 Beta
-Support: https://hashbang.productions/support/
+Name: NewTerm 3📑3تيرمنال 
 
 Package: xyz.cypwn.accentcustom
 Version: 2.0.5
@@ -3538,9 +3543,8 @@ SHA256: d0c90c10360cc7957521c5662f9f6ca805b82c9cd3b240f10d7edb6b96a8f45f
 Section: Tweaks
 Description: iOS Accent Colours In macOS Style
 Author: Lillie
-Depiction: https://repo.cypwn.xyz/depiction/1204
-Name: Accent Custom
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1204
+Depiction: https://doplx.github.io/repo/
+Name: Accentتغيير اللون مثل الماك بوك
 
 Package: xyz.cypwn.aimpro
 Version: 1.0.5
@@ -3556,10 +3560,9 @@ SHA256: 7bd44ecd3a6df4920e5eba5867700f1a84a5f1369d4dbf6402db56d6a0169d41
 Section: Tweaks
 Description: iOS 16 Style Time & Date Lockscreen
 Author: alimaulana
-Depiction: https://repo.cypwn.xyz/depiction/1259
+Depiction: https://doplx.github.io/repo/
 Icon: https://media.havoc.app/642009161ed06bb2ce43e2a1
-Name: AIM Pro
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1259
+Name: AIM Pro Ios16مظهر شاشة القفل ل
 
 Package: xyz.cypwn.aismithpremium
 Version: 1.0.0
@@ -3572,13 +3575,12 @@ Size: 45502
 MD5sum: 625160a10bc496cdaef1f1b83287f411
 SHA1: c27e12d89bf5ce851a118a81fb814a535f1afaf3
 SHA256: 51f5735f9d53994fef09280af8b433364c0dba2f66134d1bbee0eecf0fd471ff
-Section: Tweaks
+Section: Hacks
 Description: Yearly Membership Activated
 Author: Ravand <Ravand0010@gmail.com>
-Depiction: https://repo.cypwn.xyz/depiction/1353
+Depiction: https://doplx.github.io/repo/
 Icon: https://i.postimg.cc/W3xbgsP2/1503-A9-A3-713-B-4232-A556-C1-E034-D18067.png
-Name: AI Smith Premium
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1353
+Name: AI Smith Premium⚒️فتح ميزات تطبيق
 
 Package: xyz.cypwn.alpine
 Version: 1.2
@@ -3594,10 +3596,9 @@ SHA256: add4ae3ee4857c89cbf3fbd2eff9f93b6e09dbbb39555576c7ca3eb971a52dd2
 Section: Tweaks
 Description: tvOS alerts for iOS
 Author: MTAC
-Depiction: https://repo.cypwn.xyz/depiction/1444
+Depiction: https://doplx.github.io/repo/
 Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
-Name: Alpine
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1444
+Name: Alpineإشعارات نظام الماك بوك
 
 Package: xyz.cypwn.appstoreupdatestab
 Version: 1.2
@@ -3612,10 +3613,9 @@ SHA256: 0625786b33b5fd0567a01bc210e6a77f6cd54794d86082e80fae67cfd563a9e6
 Section: Tweaks
 Description: Replace Arcade button with "Updates" button in the AppStore app.
 Author: Johnzaro
-Depiction: https://repo.cypwn.xyz/depiction/1370
+Depiction: https://doplx.github.io/repo/
 Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.appstoreupdatestab13/icon.png
-Name: AppStoreUpdatesTab
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1370
+Name: AppStoreUpdatesTabخانة تحديث التطبيق بالأبستور
 
 Package: xyz.cypwn.autoscroll15
 Version: 1.0.0
@@ -3630,10 +3630,9 @@ SHA256: de0b3040784f695513cb7723e342849ef27de5f3993b09096ab4a1126d53b502
 Section: Tweaks
 Description: Prevent finger fatigue. No options to configure.
 Author: pxcex
-Depiction: https://repo.cypwn.xyz/depiction/1278
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/autoscroll.png
-Name: AutoScroll iOS15
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1278
+Name: AutoScrollالتمرير التلقائي
 
 Package: xyz.cypwn.badger
 Version: 1.2.1-1
@@ -3649,10 +3648,9 @@ SHA256: b9c7495080f139d96771fb57b5e83329da67726f3ca1e310a354ba62f0bda2a3
 Section: Tweaks
 Description: Notification badges. Reimagined.
 Author: Snoolie K
-Depiction: https://repo.cypwn.xyz/depiction/1223
+Depiction: https://doplx.github.io/repo/
 Icon: https://media.havoc.app/633e4b16226c3bbaf20eeec4
-Name: Badger
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1223
+Name: Badgerالتحكم بشارات الإشعارات
 
 Package: xyz.cypwn.betteralarmrootless
 Version: 1.4.1
@@ -3668,10 +3666,9 @@ SHA256: 221f13177ca6cec59db16c36c1a959496df5ccb59d4a4db95794575eb9d5c38f
 Section: Tweaks
 Description: A beautiful timer and alarm screen
 Author: NoisyFlake
-Depiction: https://repo.cypwn.xyz/depiction/1168
+Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/betteralarm/icon@3x.png
-Name: betterAlarm (rootless)
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1168
+Name: betterAlarmتعديل شكل المنبه
 
 Package: xyz.cypwn.bhtwitter
 Version: 3.9.1
@@ -3686,10 +3683,9 @@ SHA256: e4cc175afdf89c61968073257b54d5f9d9708517f851309ab46e52728f68ac0c
 Section: Tweaks
 Description: Awesome tweak for Twitter
 Author: BandarHelal
-Depiction: https://repo.cypwn.xyz/depiction/1371
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/bhtwitter.png
-Name: BHTwitter
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1371
+Name: BHTwitterإضافة ميزات للتويتر
 
 Package: xyz.cypwn.bigsurcenter
 Version: 1.4.4k
@@ -3704,10 +3700,9 @@ SHA256: f4d55a95eec6a63f93be1ccaaa867c372da4cdef1311cb15250d42de5843b765
 Section: Tweaks
 Description: BigSurCenter replaces the default iOS control center with a new lightweight and elegant one inspired by the control center in MacOS Big Sur
 Author: nicho1asdev
-Depiction: https://repo.cypwn.xyz/depiction/1460
+Depiction: https://doplx.github.io/repo/
 Icon: https://media.havoc.app/62a780880e4e7bb50110e25b
-Name: BigSurCenter
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1460
+Name: BigSurCenterمركز التحكم الخاص بالماك
 
 Package: xyz.cypwn.bluefinder
 Version: 1.1.2
@@ -3722,10 +3717,9 @@ SHA256: a8a7cc79d3c6df0f3f52d6ea2267fe4a0fff1a3af01a50e40028586287dd0486
 Section: Tweaks
 Description: Find your iPhone using your Bluetooth devices!
 Author: AnthoPak
-Depiction: https://repo.cypwn.xyz/depiction/1340
+Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/bluefinder/icon@3x.png
-Name: BlueFinder
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1340
+Name: BlueFinderالعثور على الأيفون بأجهزة البلوتوث
 
 Package: xyz.cypwn.bstat
 Version: 1.0.2
@@ -3737,31 +3731,12 @@ Size: 7060
 MD5sum: 6d35dba598062f8038bb806b4b7f898d
 SHA1: c279f65be314d08ec5b4abc3b332bbcf1f9605b7
 SHA256: 3eacd0b066ad0ae8e922670c516513e604ce6d5daf6d3e33946626ebe6bca383
-Section: System
+Section: Tweaks
 Description: Show battery and memory usage via Terminal with 'bstat'.
 Author: tateu
-Depiction: https://repo.cypwn.xyz/depiction/1367
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/bstat.png
-Name: bstat
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1367
-
-Package: xyz.cypwn.bstat
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: ncurses
-Filename: ./debs/xyz.cypwn.bstat_1.0.2_iphoneos-arm64.deb
-Size: 7060
-MD5sum: 6d35dba598062f8038bb806b4b7f898d
-SHA1: c279f65be314d08ec5b4abc3b332bbcf1f9605b7
-SHA256: 3eacd0b066ad0ae8e922670c516513e604ce6d5daf6d3e33946626ebe6bca383
-Section: System
-Description: Show battery and memory usage via Terminal with 'bstat'.
-Author: tateu
-Depiction: https://repo.cypwn.xyz/depiction/1367
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/bstat.png
-Name: bstat
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1367
+Name: bstatإظهار نسبة البطارية بالترمنال
 
 Package: xyz.cypwn.carbridge13
 Version: 2.0.12
@@ -3778,10 +3753,9 @@ SHA256: 7b9c9dc14d2d045fff96660f4f6926a24710bf88e45c60251e54ac4f6ab4e89f
 Section: Tweaks
 Description: Open any app in CarPlay! CarPlay
 Author: leftyfl1p
-Depiction: https://repo.cypwn.xyz/depiction/1220
+Depiction: https://doplx.github.io/repo/
 Icon: https://media.havoc.app/6393d4ecfb3fac29d26b9143
-Name: CarBridge13
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1220
+Name: CarBridgeتشغيل التطبيقات عبر
 
 Package: xyz.cypwn.cardculator
 Version: 2.1
@@ -3797,9 +3771,8 @@ SHA256: 2b19d2337b7f2494540b272c6bfa723097a0fbe6c7f041dd67832134a8666a57
 Section: Tweaks
 Description: Calculator, but smaller
 Author: sourcelocation
-Depiction: https://repo.cypwn.xyz/depiction/1368
-Name: Cardculator
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1368
+Depiction: https://doplx.github.io/repo/
+Name: Cardculatorإختصار للحاسبة
 
 Package: xyz.cypwn.celltic
 Version: 1.0
@@ -3814,10 +3787,9 @@ SHA256: 8867da3c1c5c3c5d32b2857dafe127dd160182e6c1b276ce80a4b6f180c9bd05
 Section: Tweaks
 Description: Haptic For everything!
 Author: mostafa89
-Depiction: https://repo.cypwn.xyz/depiction/1375
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/celltic.png
-Name: CellTic
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1375
+Name: CellTicميزة الإهتزاز للتطبيقات
 
 Package: xyz.cypwn.debra
 Version: 2.8.4
@@ -3832,10 +3804,9 @@ SHA256: ff0b483064ba8b251d8c05bcabb13a551d964b0b7bbb3e349eca08a4c34f05ef
 Section: Utilities
 Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal. For rooted & rootless jailbreaks.
 Author: Sudo & Paisseon
-Depiction: https://repo.cypwn.xyz/depiction/1459
+Depiction: https://doplx.github.io/repo/
 Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
-Name: Debra
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1459
+Name: Debraأوامر داخل التيرمنال
 
 Package: xyz.cypwn.designer
 Version: 1.1.8
@@ -3850,10 +3821,9 @@ SHA256: 3cab8399b102fc9ccd6a19a39664297cc16a636a6cb49b6eadc409c2a6216446
 Section: Addons (Tweaks)
 Description: Design layouts for lockscreen and homescreen
 Author: JunesiPhone
-Depiction: https://repo.cypwn.xyz/depiction/1474
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/designer.png
-Name: Designer
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1474
+Name: Designerتصميم شاشة القفل والهوم سكرين
 
 Package: xyz.cypwn.ding
 Version: 1.1.0
@@ -3868,10 +3838,9 @@ SHA256: 81150adccb59cc4b66a903b9cb18b35462bab79b242a0bcb8cb5fb872f69f95d
 Section: Tweaks
 Description: Take control of your ringer switch!
 Author: Nebula
-Depiction: https://repo.cypwn.xyz/depiction/1457
+Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/ding/icon@3x.png
-Name: Ding
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1457
+Name: Dingإضافة خيار لزر الصامت
 
 Package: xyz.cypwn.dismissalert
 Version: 1.0.0
@@ -3886,10 +3855,9 @@ SHA256: f61c77c2bdeb3e18b40e9503279df3211f790df0a893faa5f1b63304ba579984
 Section: Tweaks
 Description: Block system alerts per app. Lightweight alternative to AutoAlerts.
 Author: lly
-Depiction: https://repo.cypwn.xyz/depiction/1335
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/dismissalert.png
-Name: DismissAlert
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1335
+Name: DismissAlertمنع إنبثاق التحذيرات
 
 Package: xyz.cypwn.everest
 Version: 1.0.0
@@ -3904,10 +3872,9 @@ SHA256: 0119bfb44e9f7bc297b6753678a2ff709a9c262959351a1f2eb266881ee1ef9d
 Section: Tweaks
 Description: App icon animations
 Author: Christopher Anderson
-Depiction: https://repo.cypwn.xyz/depiction/1264
+Depiction: https://doplx.github.io/repo/
 Icon: https://media.havoc.app/642b56289fda5c6310b11898
-Name: Everest
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1264
+Name: Everestتأثير عند الضغط على أيقونة التطبيق
 
 Package: xyz.cypwn.icleanerprocrackrootless
 Version: 1.1
@@ -3923,9 +3890,8 @@ SHA256: 044f8877b7eb15503d36d1114ddb41750551417b05fefa10d2761b31443fbfc1
 Section: Tweaks
 Description: iCleaner Pro Crack
 Author: Anna
-Depiction: https://repo.cypwn.xyz/depiction/1172
-Name: iCleaner Pro Crack (rootless)
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1172
+Depiction: https://doplx.github.io/repo/
+Name: iCleaner Pro Crack🛠كراك منظف التطبيقات
 
 Package: xyz.cypwn.kayoko
 Version: 1.4
@@ -3941,9 +3907,8 @@ SHA256: 023708944fadaba762d427103a8569d6ede4ec9e2455f2eb9beb9a60f730bb20
 Section: Tweaks
 Description: Feature rich clipboard manager for iOS
 Author: Traurige <hello@traurige.dev>
-Depiction: https://repo.cypwn.xyz/depiction/1232
-Name: Kayoko
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1232
+Depiction: https://doplx.github.io/repo/
+Name: Kayokoإدارة حافظة النصوص
 
 Package: xyz.cypwn.lastlook
 Version: 3.6.5
@@ -3958,10 +3923,9 @@ SHA256: 1668a8f62a4d5b55e25c991a44497ab93acab972e44f24eba243411327c9b660
 Section: Tweaks
 Description: An AOD tweak that feels stock, with endless possibilities!
 Author: AnthoPak
-Depiction: https://repo.cypwn.xyz/depiction/1275
+Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/lastlook/icon@3x.png
 Name: LastLook
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1275
 
 Package: xyz.cypwn.little12
 Version: 1.0.0
@@ -3977,10 +3941,9 @@ SHA256: a242dc2b1519517ceeff96edc9e395997eae845544dad35ed1313ea0b9596daf
 Section: Tweaks
 Description: iPhone 12 gestures and more for iOS 15
 Author: Ryan Nair
-Depiction: https://repo.cypwn.xyz/depiction/1199
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/little12.png
-Name: Little12
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1199
+Name: Little12 12إيماءات أيفون 
 
 Package: xyz.cypwn.lynxtwo
 Version: 2.4.2
@@ -3995,10 +3958,9 @@ SHA256: c8d94f0fbb3df09901afc8543e569651efa51c274314d8314b170401bb777c2c
 Section: Tweaks
 Description: Ultimate iDevice Customization for iOS 14+
 Author: MTAC
-Depiction: https://repo.cypwn.xyz/depiction/1439
+Depiction: https://doplx.github.io/repo/
 Icon: https://media.havoc.app/61f896da1630a63286dc419c
-Name: Lynx 2
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1439
+Name: Lynx 2التعديل على نظام الأيفون
 
 Package: xyz.cypwn.panic
 Version: 1.1.2
@@ -4013,10 +3975,9 @@ SHA256: 05b879a436e2fc8d7b3117488ce060f3876f07574d5c96ca28468f751250d3c0
 Section: Tweaks
 Description: Respring or Safe Mode with hardware keys
 Author: Aarnav Tale
-Depiction: https://repo.cypwn.xyz/depiction/1338
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/panic.png
-Name: Panic
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1338
+Name: Panicعمل زر إختصار للسيف مود 
 
 Package: xyz.cypwn.power4options
 Version: 3.0-1
@@ -4031,10 +3992,9 @@ SHA256: 1edfc0c70123e576849fa86aa45ad7d08b81bf1c65116d0149811bd9871f39d9
 Section: Tweaks
 Description: A lightweight extension for PowerOptions. Tap the Power Slider to toggle through different options. Compatible with iOS 15+ rootless
 Author: XsF1re
-Depiction: https://repo.cypwn.xyz/depiction/1450
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/power4options.png
-Name: Power4Options Reborn
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1450
+Name: Power4Optionsإضافة خيارات للباور
 
 Package: xyz.cypwn.pulloverpro
 Version: 2.1.4-1
@@ -4050,10 +4010,9 @@ SHA256: 5ef72c2d62e2b57cbcdbc7c925afb31a0d68c45263741d92df43634acd0c28b8
 Section: Tweaks
 Description: A better way to multitask!
 Author: c1d3r
-Depiction: https://repo.cypwn.xyz/depiction/1398
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/pulloverpro.png
-Name: PullOver Pro
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1398
+Name: PullOver Proإضافة ميزة تعدد المهام
 
 Package: xyz.cypwn.rocket
 Version: 3.8.10k
@@ -4068,10 +4027,9 @@ SHA256: fc8fa3ea5b7546d7ff1488fdf7611036637f7cac0566c504212f78f0df046cb2
 Section: Tweaks
 Description: Save posts and view stories anonymously and do much more
 Author: Majd Alfhaily
-Depiction: https://repo.cypwn.xyz/depiction/1429
+Depiction: https://doplx.github.io/repo/
 Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
-Name: Rocket for Instagram
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1429
+Name: Rocket for Instaإضافة ميزات لل
 
 Package: xyz.cypwn.showtouch
 Version: 1.0.4-2
@@ -4086,10 +4044,9 @@ SHA256: 3d3d9f2da4cd298f7b30ed40b6e3fb3c393ed41a72f5e6b2384ccbee741b26ec
 Section: Tweaks
 Description: Shows where you touch the screen
 Author: LonestarX
-Depiction: https://repo.cypwn.xyz/depiction/1463
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/showtouch.png
-Name: ShowTouch
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1463
+Name: ShowTouchإظهار اللمسات
 
 Package: xyz.cypwn.systeminfo
 Version: 2.7.2-2
@@ -4104,10 +4061,9 @@ SHA256: 14a3ddc2ead2d06a711f06dbd0b73e123f2b795bd25563c8c6cdd7eee7ef2de3
 Section: Tweaks
 Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
 Author: ARX8x
-Depiction: https://repo.cypwn.xyz/depiction/1442
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/systeminfo.png
-Name: System Info
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1442
+Name: System Infoإظهار معلومات النظام
 
 Package: xyz.cypwn.teleport
 Version: 1.1
@@ -4122,10 +4078,9 @@ SHA256: 41879c18e11eba107e551981ba05cac62c9058f58716256170403ecc2f8fda2f
 Section: Tweaks
 Description: Spoof GPS location
 Author: SGWC
-Depiction: https://repo.cypwn.xyz/depiction/1305
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
-Name: Teleport
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1305
+Name: Teleportتزوير الموقع للأيفون
 
 Package: xyz.cypwn.termcolors
 Version: 2.1.0
@@ -4140,10 +4095,9 @@ SHA256: 41d222d3554fb32339cce8d42362a1d14ee1a3f75372dcc6096e50b88ebd1324
 Section: Utilities
 Description: Bash setup with colorized prompt, text, dircolors, cat (bat) syntax highlighting and nano colors. Random color prompt generator by typing 'random' in your terminal. XinaA15 and Dopamine/rootless support. Temporary 'sudo' and 'su' fix for Xina using 'toor' command.
 Author: Sudo & Paisseon
-Depiction: https://repo.cypwn.xyz/depiction/1244
+Depiction: https://doplx.github.io/repo/
 Icon: https://sudo9000.github.io/depictions/termcolors/assets/icon.png
-Name: Term Colors
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1244
+Name: Term Colorsتلوين أوامر التيرمنال
 
 Package: xyz.cypwn.truecallergold
 Version: 1.0.0
@@ -4159,9 +4113,8 @@ SHA256: 1e1c2f63adb525d96f895fb275674aad0bf2cfad05bf53d016df79f0ac96943a
 Section: Tweaks
 Description: Cracked By Ravand
 Author: Ravand
-Depiction: https://repo.cypwn.xyz/depiction/1282
-Name: Truecaller Gold
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1282
+Depiction: https://doplx.github.io/repo/
+Name: Truecaller Goldفتح ميزات الترو كولر
 
 Package: xyz.cypwn.watusicrack
 Version: 0.0.1
@@ -4176,9 +4129,8 @@ SHA256: 18ef5c923b34bcc75a4035ef3f7c7821c62648bb421e48b00c6d08083cf469b9
 Section: Cracks
 Description: Watusi Crack
 Author: CyPwn
-Depiction: https://repo.cypwn.xyz/depiction/900
-Name: Watusi Crack
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/900
+Depiction: https://doplx.github.io/repo/
+Name: Watusi Crack🛠كراك أداة واتوسي
 
 Package: xyz.cypwn.xinam1ne
 Version: 2.4-3
@@ -4195,8 +4147,7 @@ SHA256: 7d18711e82868f5701d78a012206f37d31cad02781b04934bef7e3ee29175e72
 Section: Utilities
 Description: Xinamine bundle. Includes linker, patcher2.4-3, 'chex' link checker, 'chix' link fixer, plus other supporting filza scripts.
 Author: Paisseon, Sudo, NoW4U2Kid
-Depiction: https://repo.cypwn.xyz/depiction/1476
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
-Name: Xinam1ne All-in-One
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1476
+Name: Xinam1ne All-in-Oneحزمة مهمة للأدوات
 
