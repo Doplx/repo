@@ -107,7 +107,7 @@ SHA256: ae10b13f0cd15911045fb2a3f3a4f964c9aeaaf79b3acb1f1b91a19feb0bfeca
 Section: Tweaks
 Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
 Author: 0xkuj
-Name: 3DAppVersionSpoofer تزوير إصدار التطبيقات
+Name: 3DAppVersionSpooferتزوير إصدار التطبيق
 Depiction: https://doplx.github.io/repo/
 
 Package: com.0xkuj.iparanger
@@ -124,23 +124,8 @@ SHA256: e29e788a22e88b473be649bce4d39636b9f3711b5e3d17d78489e079c3aa4699
 Section: Applications
 Description: GUI Based Application for ipatool
 Author: 0xkuj
-Name: IPA Ranger
-
-Package: com.2nd.34306
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: SileoTweak
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.2nd.34306_1.0_iphoneos-arm64.deb
-Size: 5692
-MD5sum: ab9e8a0dd5d58e8727727c6196d7097b
-SHA1: 1557da3db532c4f60d79b60438ad5791c53307d8
-SHA256: 43825d88e238aa09abed2ef42352e10257ff75f6b752136ba96b8058a80c3b6d
-Section: Tweaks
-Description: A simple tweak that enable day and date secondline in status bar
-Author: 34306
-Name: 2nd
+Name: IPA Rangerسحب التطبيقات من الأبستور
+Depiction: https://doplx.github.io/repo/
 
 Package: com.34306.2nd
 Version: 2.0-3+debug
@@ -156,7 +141,8 @@ SHA256: 42ec9a0c5dbe939224efb6c94d94fde5af463ea1c102196821b70404ccf25e51
 Section: Tweaks
 Description: Add second line to your time on statusbar
 Author: 34306
-Name: 2nd
+Name: 2ndإضافة التاريخ للستاتوس بار
+Depiction: https://doplx.github.io/repo/
 
 Package: com.3bod.syria
 Version: 0.0.1-1+debug
@@ -172,7 +158,8 @@ SHA256: 8fe05cba0d6a39f560d186997a32a4857b83e5300b8a0d815a5ded0be523994a
 Section: Tweaks
 Description: محذوف الاعلانات
 Author: @3bod_syr
-Name: الكلاسيكو Syr
+Name: ClassicoNoAdsحذف إعلانات تطبيق كلاسيكو
+Depiction: https://doplx.github.io/repo/
 
 Package: com.anthopak.addtofolder-rootless
 Version: 1.4
@@ -188,11 +175,9 @@ Section: Tweaks
 Homepage: https://repo.anthopak.dev
 Description: Easily move apps to your folders
 Author: AnthoPak <anthopakdev@gmail.com>
-Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder-rootless.php
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder-rootless/icon.png
-Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
-Name: AddToFolder (Rootless)
-Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
+Name: AddToFolderتنسيق التطبيقات داخل المجلد
 
 Package: com.anthopak.pancake-rootless
 Version: 2.2
@@ -205,14 +190,11 @@ MD5sum: 6a105fbcec401cb11d5775027e473d53
 SHA1: c7d23ede8c839f1a23f78471259c03f8f0868012
 SHA256: 47dbd0bc69f36e383563048af7e35fbd5d40183b9d83019de3514c088ebbed9c
 Section: Tweaks
-Homepage: https://repo.anthopak.dev
 Description: Interactive dismiss gesture on the whole screen in all apps and ability to restore previous page
 Author: AnthoPak <anthopakdev@gmail.com>
-Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.pancake-rootless.php
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.anthopak.dev/assets/com.anthopak.pancake-rootless/icon.png
-Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
-Name: PanCake (Rootless)
-Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
+Name: PanCakeالتحكم بإيماءات الجهاز
 
 Package: com.anthopak.quickccdismiss-rootless
 Version: 1.0
@@ -228,11 +210,9 @@ Section: Tweaks
 Homepage: https://repo.anthopak.dev
 Description: Quickly dismiss CC from expanded modules
 Author: AnthoPak <anthopakdev@gmail.com>
-Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.quickccdismiss-rootless.php
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.anthopak.dev/assets/com.anthopak.quickccdismiss-rootless/icon.png
-Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.quickccdismiss-rootless.json
-Name: QuickCCDismiss (Rootless)
-Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.quickccdismiss-rootless.json
+Name: QuickCCDismissإغلاق سريع لمركز التحكم
 
 Package: com.anthopak.videoswipes-rootless
 Version: 1.5
@@ -245,14 +225,11 @@ MD5sum: a31e1cce18df5c60a1e6fbe41a45e2e6
 SHA1: ad69aeafd5ea4dd967a65f321bca0497f6177176
 SHA256: cc0537ea84066f6ebd6383b62e170e35fe3bd62d7831fcf6815b36511e80b97c
 Section: Tweaks
-Homepage: https://repo.anthopak.dev
 Description: Swipe gestures for video players (native and Youtube)
 Author: AnthoPak <anthopakdev@gmail.com>
-Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.videoswipes-rootless.php
+Depiction: https://doplx.github.io/repo/
 Icon: https://repo.anthopak.dev/assets/com.anthopak.videoswipes-rootless/icon.png
-Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.videoswipes-rootless.json
-Name: VideoSwipes (Rootless)
-Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.videoswipes-rootless.json
+Name: VideoSwipesإضافةإيماءات للفيديو
 
 Package: com.brend0n.accdemo
 Version: 0.2.5
@@ -268,9 +245,8 @@ SHA256: 05722286c5176460706c7e8ed1d83dca79453fb226026b58e703b843b6d3b5ec
 Section: Tweaks
 Description: Control the speed of your game
 Author: Brend0n <brendonjkding@126.com>
-Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.accdemo
-Name: AccDemo
-Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.accdemo/depiction.json
+Depiction: https://doplx.github.io/repo/
+Name: AccDemoالتحكم بسرعة التطبيقات
 
 Package: com.brend0n.fgotw60fps
 Version: 0.1.4~b1
@@ -286,9 +262,8 @@ SHA256: 5df9c8ec62d8d02847f3eec5cd88d335d1f3a4219764281d10163a87648fbdc7
 Section: Tweaks
 Description: Force Unity Games/Apps render at custom framerate(60/30)
 Author: Brend0n <brendonjkding@126.com>
-Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.fgotw60fps
-Name: Unity60FPS
-Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.fgotw60fps/depiction.json
+Depiction: https://doplx.github.io/repo/
+Name: Unity60FPSتثبيت الفريمات للتطبيقات
 
 Package: com.brend0n.unityfpsindicator
 Version: 0.0.4.1
@@ -304,9 +279,8 @@ SHA256: 023b41d8f6c6f0169d445555320ab9b402785c0d5422c7d77396084900c332f1
 Section: Tweaks
 Description: real-time fps indicator for games
 Author: Brend0n <brendonjkding@126.com>
-Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.unityfpsindicator
-Name: FPSIndicator
-Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.unityfpsindicator/depiction.json
+Depiction: https://doplx.github.io/repo/
+Name: FPSIndicatorإضافة مؤشر الفريمات بالتطبيق
 
 Package: com.cameronkatri.quickactions
 Version: 1.0.0-2
@@ -323,9 +297,9 @@ Section: Tweaks
 Description: Quickly launch apps from the lockscreen
 Tag: compatible_min::ios14.0
 Author: Cameron Katri <me+quickactions@cameronkatri.com>
-Depiction: https://chariz.com/get/quickactions
+Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/quickactions/icon@3x.png
-Name: QuickActions
+Name: QuickActionsإضافة إختصار لشاشة القفل
 
 Package: com.cydiageek.confirmtosend
 Version: 1.1.6
@@ -340,15 +314,13 @@ SHA1: e18715ae3a56401d02afd3949fd055774ef533d3
 SHA256: 04cfc589954ff8d268085416d41b1221bc15972031bdf6a1bc3982f1f5b70a39
 Section: Tweaks
 Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confirmtosendDp
 Description: Show Confirmations Popup Before Calling and Sending Texts!
 Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confirmtosendDp
+Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/ConfirmToSend.bundle/icon@2x.png
-Name: ConfirmToSend
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: ConfirmToSendطلب التحقق قبل الإرسال
 
 Package: com.cydiageek.cthulhu
 Version: 1.0.9
@@ -363,15 +335,13 @@ SHA1: d5716892a02fcc3316bb1ba8b6f474d2fd5569ea
 SHA256: 3d0b282c3d50790c891f2cfe7bd8ed674f88526e449cc83c5d5fd75ace8857b3
 Section: Tweaks
 Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cthulhuDp
 Description: Custom Text below Press Home to Open/Swipe up to Unlock & More!
 Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cthulhuDp
+Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/Cthulhu.bundle/icon@2x.png
-Name: Cthulhu
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: Cthulhuتغير نصوص شاشة القفل
 
 Package: com.cydiageek.ermete
 Version: 1.0.4
@@ -386,15 +356,13 @@ SHA1: 73c1baf25bb40297dabdbdba8521c50746c87ea9
 SHA256: 43ad4b08e6d7bfa709f06be287d33d60d7a8cadc3e05abea34bd2a6d87f3feb3
 Section: Tweaks
 Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ermeteDp
 Description: Adjustable Speed Effects opening/closing Apps/Switcher!
 Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ermeteDp
+Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/Ermete.bundle/icon@2x.png
-Name: Ermete
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: Ermeteتأثير عند فتح التطبيقات
 
 Package: com.cydiageek.gyration
 Version: 1.1.3-1
@@ -409,15 +377,13 @@ SHA1: b9c94e7370562fe7df4befc73c1ffe486ed708ce
 SHA256: c9a28313f94c6170f1c3e4136eddd8950440c2aa15601dc49df7595f25e6bd1c
 Section: Tweaks
 Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gyrationDp
 Description: Enable Rotation Over All the Apps/LockScreen/HomeScreen on System Wide & More!
 Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gyrationDp
+Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
 Icon: file:///var/jb/Library/PreferenceBundles/Gyration.bundle/Gyration@2x.png
-Name: Gyration
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: Gyrationتفعيل دوران الشاشة للتطبيقات
 
 Package: com.cydiageek.igimagesave
 Version: 1.0.0
@@ -432,14 +398,12 @@ SHA1: 6f84c77e4ebd9db546167841494dd078b698cfea
 SHA256: ba02c1a2772e6481c8b81e0c6f246788397d502099d427ed8d0ddeccf588fc38
 Section: Tweaks
 Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=igimagesaveDp
 Description: Save Instagram Feed/Stories Pictures!
 Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=igimagesaveDp
+Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
-Name: IGImageSave
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: IGImageSaveحفظ صور الإنستا
 
 Package: com.cydiageek.marina
 Version: 1.2.3
@@ -454,15 +418,13 @@ SHA1: 88554ac2932628f46bd7ab018136e8381cab56ef
 SHA256: a1cfec449b21af99fe7073516e56b3ee08434065a93100ffd282f25b05ea4014
 Section: Tweaks
 Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=marinaDp
 Description: Change the Numbers of the Icons of the Dock & More!
 Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=marinaDp
+Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/Marina.bundle/Marina@2x.png
-Name: Marina
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: Marinaالتحكم بشريط الدوك
 
 Package: com.cydiageek.nomoredisabled
 Version: 1.0.2-1
@@ -477,14 +439,12 @@ SHA1: a06ead847ebcf5902a0bc08b0c776cb7b303e1e1
 SHA256: a3ddd5c8e8a27279505f8788ac88dd3ba10d37caac013045e64399e5f3d64b69
 Section: Tweaks
 Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomoredisabledDp
 Description: Prevent Permanent Passcode Locking by Mistake!
 Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomoredisabledDp
+Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
-Name: NoMoreDisabled
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: NoMoreDisabledمنع قفل رمز المرور الدائم
 
 Package: com.cydiageek.shycc
 Version: 1.0.1
@@ -499,15 +459,13 @@ SHA1: 7a9294c2648c4bc5cd8427003e9e59976e8b1046
 SHA256: 1d86f6b47699ef037378973d5fb6c8cabd9514e6ffa4a22e4af8d52575253a33
 Section: Tweaks
 Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shyccDp
 Description: Disable CC Gesture Everywhere & More!
 Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shyccDp
+Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/ShyCC.bundle/icon@2x.png
-Name: ShyCC
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: ShyCCمركز التحكم بشكل جميل
 
 Package: com.cydiageek.skinnysettings
 Version: 1.6.5-2
@@ -522,15 +480,13 @@ SHA1: 2c51ecee2bea43725bbd65d7f31f9836b99d522b
 SHA256: 03278e70aa1750d02ab5753f5865bc249e78711bf84e70aecdd112f0f692fee1
 Section: Tweaks
 Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=skinnysettingsDp
 Description: Make your Settings Minimal/Sleek & More!
 Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=skinnysettingsDp
+Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/SkinnySettings.bundle/SkinnySettings@2x.png
-Name: SkinnySettings
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: SkinnySettingsالتحكم بمظهر الإعدادات
 
 Package: com.cydiageek.springanimations
 Version: 1.1.1
@@ -545,15 +501,13 @@ SHA1: 6925137afc8ee6a5f3e3ffb46b9b41350e54075b
 SHA256: 28095e6a9211675aad3801b85b405d457578b794c37f1d43b651eb07961fd924
 Section: Tweaks
 Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springanimationsDp
 Description: Nice SpringBoard Animations Effects on iOS 11-15!
 Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springanimationsDp
+Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/SpringAnimations.bundle/SpringAnimations@2x.png
-Name: SpringAnimations
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: SpringAnimationsإضافة تأثيرات للأنيميشن
 
 Package: com.exile90.icleanerpro
 Version: 7.10.0
@@ -568,12 +522,11 @@ MD5sum: 6d52edf547d85ea5713e913d6293f3ba
 SHA1: d9fb1af260401829b101a3a3214698919d0dc1f6
 SHA256: eb1137e9ccf0d9c0b985011a42d969b214dccde19977c9398e300da50ae6a083
 Section: Utilities
-Homepage: http://ib-soft.net/icleaner
 Description: The first real iOS system cleanup and management utility
 Author: Ivano Bilenchi <support@ib-soft.net>
-Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Depiction: https://doplx.github.io/repo/
 Icon: file:///Applications/iCleaner.app/Icon.png
-Name: iCleaner Pro
+Name: iCleaner Pro🧹منظف التطبيقات
 
 Package: com.f0u4d.onlinenotify
 Version: 3.4.3
@@ -589,9 +542,9 @@ SHA256: f319f1a059504b416505658d50f15805c4ea40614a6e3d20fc4d2095d2101b46
 Section: Tweaks
 Description: Track your friends on WhatsApp Messenger!
 Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Depiction: https://doplx.github.io/repo/
 Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
-Name: OnlineNotify
+Name: OnlineNotifyتتبع ظهور أرقام الواتس
 
 Package: com.f0u4d.stalky
 Version: 4.1.22
@@ -609,8 +562,8 @@ SHA256: f40f1ce416666efe48652519d590c187d996a188da626b9f5b6efc2cb9e3fe2e
 Section: Tweaks
 Description: Track & download your contacts latest profile & statuses updates on WhatsApp
 Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
-Name: Stalky
+Depiction: https://doplx.github.io/repo/
+Name: Stalkyتحميل حالات الواتس 
 
 Package: com.f0u4d.watusitools
 Version: 2.4.12
@@ -626,8 +579,8 @@ SHA256: 36d7e6724d2cece62e323bca3ee20e68d99078115cbd38938d84d51f768feb9b
 Section: Development
 Description: Library for Watusi and WhatsApp tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-Name: WatusiTools
+Depiction: https://doplx.github.io/repo/
+Name: WatusiToolsأداة مهمة لعمل
 
 Package: com.fouadraheb.contactsync
 Version: 1.1.5
@@ -643,10 +596,9 @@ SHA256: 0115f7499e50109177487408b125ff1f1e8130be72d1dc658c4f4ed9d9e01bb3
 Section: Tweaks
 Description: Sync WhatsApp Profile Pictures to your Contacts
 Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Depiction: https://doplx.github.io/repo/
 Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
-Name: ContactSync
-Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Name: ContactSyncسحب صور الواتس لجهات الإتصال 
 
 Package: com.fouadraheb.watusi3
 Version: 1.2
@@ -663,9 +615,9 @@ SHA256: 3a2c91950966b73e4d4a9820c1619a8b1a066f9b38b7c65511ff6e7981ecb146
 Section: Tweaks
 Description: The all-in-one tweak for WhatsApp Messenger
 Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Depiction: https://doplx.github.io/repo/
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-Name: Watusi 3 for WhatsApp
+Name: Watusi 3ميزات عديدة للواتس
 
 Package: com.gamegod.igg.rootless
 Version: 0.4.2.1
@@ -681,7 +633,8 @@ SHA256: 4a3b3bb3b1dc907bcaa1fc5ad6b37454d73dbb40b8df52b9c95ab4ecba3287f7
 Section: Utilities
 Description: Be the god of your games!
 Author: iGameGod
-Name: iGameGod Rootless
+Name: iGameGodتهكير الألعاب والتطبيقات
+Depiction: https://doplx.github.io/repo/
 
 Package: com.ginsu.comet
 Version: 1.0.4
@@ -698,9 +651,9 @@ Section: Tweaks
 Description: A SwiftUI Prefs Framework
 Tag: compatible_min::ios14.0
 Author: Ginsu <njl02@outlook.com>
-Depiction: https://chariz.com/get/comet
+Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/comet/icon@3x.png
-Name: Comet
+Name: Comet ginsuادأة مهمة لأدوات 
 
 Package: com.ginsu.dodo
 Version: 4.2.1
@@ -716,10 +669,9 @@ SHA256: c86a03f68f745e780266798fbee5cc987c766f2ae9e8ff0b33c2ba55672a3aba
 Section: Tweaks
 Description: The perfect Lock Screen redesign.
 Author: Ginsu
-Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.dodo
+Depiction: https://doplx.github.io/repo/
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.dodo/icon.png
-Name: Dodo (Rootless)
-Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.dodo.json
+Name: Dodoمظهر أنيق لشاشة القفل
 
 Package: com.ginsu.dualclock2
 Version: 2.0.2
@@ -735,10 +687,9 @@ SHA256: 88f6211159c2b9744acf4ec72c7fe3418236468ec1b95aabcef91b290a785dda
 Section: Tweaks
 Description: Two time zones on the Lock Screen!
 Author: Ginsu
-Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.dualclock2
+Depiction: https://doplx.github.io/repo/
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.dualclock2/icon.png
-Name: DualClock 2 (Rootless)
-Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.dualclock2.json
+Name: DualClock 2تكرار الساعة لشاشة القفل
 
 Package: com.ginsu.gscore
 Version: 1.0.3
@@ -754,10 +705,9 @@ SHA256: a22872eb9d0d41cfb6de084cf7561c43fdbb67c8c94fc4572e9bb1c1a2dbc6ad
 Section: Tweaks
 Description: Environment and communication between my tweaks
 Author: Ginsu
-Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gscore
+Depiction: https://doplx.github.io/repo/
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gscore/icon.png
-Name: GSCore (Rootless)
-Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gscore.json
+Name: GSCore ginsuحزمة رئيسيةلأدوات
 
 Package: com.ginsu.gsweather
 Version: 1.1.0
@@ -773,10 +723,9 @@ SHA256: 77d073c0756c0764f2bcaceb86689cdd64600c2a86df013940964e97ed67b54d
 Section: Tweaks
 Description: A Weather fetching framework
 Author: Ginsu
-Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gsweather
+Depiction: https://doplx.github.io/repo/
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gsweather/icon.png
-Name: GSWeather (Rootless)
-Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gsweather.json
+Name: GSWeather dodoتحديث الطقس لأداة 
 
 Package: com.ginsu.pockettranslator
 Version: 2.1.0
@@ -792,10 +741,9 @@ SHA256: f40deb58a07659883e783f274b95c0c18b55e08d5ee39c6859771b962e55d032
 Section: Tweaks
 Description: Lightweight & convenient translator.
 Author: Ginsu
-Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.pockettranslator
+Depiction: https://doplx.github.io/repo/
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.pockettranslator/icon.png
-Name: PocketTranslator (Rootless)
-Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.pockettranslator.json
+Name: PocketTranslatorترجمة من مركز التحكم
 
 Package: com.ginsu.ytmusicultimate
 Version: 1.4.1
@@ -811,10 +759,9 @@ SHA256: 5e375a6ec81c243be5df6694edaa3dc1e140685d38dc45bfa5ce9b3eebc32bd1
 Section: Tweaks
 Description: YouTube Music Premium
 Author: Ginsu
-Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.ytmusicultimate
+Depiction: https://doplx.github.io/repo/
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.ytmusicultimate/icon.png
-Name: YTMusicUltimate
-Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.ytmusicultimate.json
+Name: YTMusicUltimateتفعيل يوتيوب ميوزك
 
 Package: com.ichitaso.iconorder
 Version: 1.0.2
@@ -832,12 +779,11 @@ MD5sum: f3156ef3e3b8b886e2b0789fb82109c0
 SHA1: 5c301728254cfc9dff3ad97955276ae63a826e11
 SHA256: 8256cd237ccd855589938df566eeee4e3abdbf2cdc918572365525cd2a9a3c7f
 Section: Tweaks
-Homepage: https://ichitaso.com/
-Description: Preserve custom icon layouts by Springboard Crash or reboots etc
+Depiction: https://doplx.github.io/repo/
 Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios16.3.1
 Author: ichitaso
 Dev: ichitaso
-Name: IconOrder
+Name: IconOrderحفظ تنسيق التطبيقات
 
 Package: com.ichitaso.powerselector11
 Version: 1.3.9
@@ -853,15 +799,14 @@ Size: 201282
 MD5sum: aa97fc38b763bc4d3b43c2f50126486e
 SHA1: fccb1f5ca56895c2e6d78427694288588a12ddee
 SHA256: d91cd320d6830948a4642e9d9d8fa1fda579a9fd8f71de16561a124571dca76a
-Section: Utilities
-Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Section: Tweaks
 Description: The power supply relation of a device is operated.
 Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.3
 Author: ichitaso <willfeeltips+ps11@gmail.com>
-Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Depiction: https://doplx.github.io/repo/
 Dev: ichitaso
 Icon: https://cydia.ichitaso.com/icons/PowerSelector.png
-Name: PowerSelector
+Name: PowerSelectorالتحكم بقفل الجهاز
 
 Package: com.ichitaso.primalfolder2
 Version: 0.1.1
@@ -881,10 +826,10 @@ Homepage: https://ichitaso.com
 Description: Display to folder as icon and launch action for Folders
 Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios16.4
 Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/primalfolder2.html
+Depiction: https://doplx.github.io/repo/
 Dev: ichitaso
 Icon: https://cydia.ichitaso.com/icons/PrimalFolder2.png
-Name: PrimalFolder 2
+Name: PrimalFolder 2إضافة أيقونة التطبيق للمجلد
 
 Package: com.ichitaso.regionchanger
 Version: 0.0.2
@@ -897,14 +842,13 @@ Size: 117828
 MD5sum: cb1a2accf436f2b92bd55f34e7690331
 SHA1: 073ef3db5044c488bf2c27edd92cfc278856ae87
 SHA256: abc49b8c0967cee828bff1b949e5c20523a1921b43eda3e885357fc156c96d5c
-Section: Utilities
-Homepage: https://ichitaso.com/
+Section: Tweaks
 Description: Set the System Region of your device to US. Mute the shutter sound of the camera in silent mode, etc.
 Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/regionchanger.html
+Depiction: https://doplx.github.io/repo/
 Dev: ichitaso
 Icon: https://raw.githubusercontent.com/ichitaso/RegionChanger/main/Resources/AppIcon60x60%403x.png
-Name: RegionChanger
+Name: RegionChangerتغير المنطقة للجهاز
 
 Package: com.icraze.darkpods
 Version: 2.1
@@ -920,7 +864,8 @@ SHA256: 8c82069153ef164ac09ddf9ca78bdccbf1fc48ac385247f74801888e3db1126c
 Section: Tweaks
 Description: Backport the iOS 17 AirPods popup to iOS 14-16
 Author: iCraze
-Name: DarkPods
+Name: DarkPodsإنبثاق داكن للسماعات
+Depiction: https://doplx.github.io/repo/
 
 Package: com.itznebbs.edge2
 Version: 1.0.3
@@ -938,7 +883,8 @@ SHA256: 389c94bfef314729d0e2c3d53637d895b222d8ba7dedfdb78e1d79543bb86932
 Section: Tweaks
 Description: Color your device in a beautiful and elegant way!
 Author: Nebbs + Max Bridgland
-Name: Edge 2
+Name: Edge 2إضافة إطار ملون للشاشة
+Depiction: https://doplx.github.io/repo/
 
 Package: com.itznebbs.quitallreborn
 Version: 1.0
@@ -954,7 +900,8 @@ SHA256: ce65149daf0426b38e559f35d0ab62de3975efde79aac3b9332396d9d7353dd3
 Section: Tweaks
 Description: Easily clear your App Switcher!
 Author: Nebbs
-Name: QuitAll Reborn
+Name: QuitAll Rebornإغلاق التطبيقات دفعة واحدة
+Depiction: https://doplx.github.io/repo/
 
 Package: com.jakeashacks.realcc
 Version: 0.0.4
@@ -970,7 +917,8 @@ SHA256: e3dd270e725c2b001516b6676578d0de8d77d2688d40a87d8f1f3422158a1879
 Section: Tweaks
 Description: Actually disable WiFI and Bluetooth from CC in iOS 11.
 Author: Jake James
-Name: RealCC
+Name: RealCCإغلاق الواي فاي من مركز التحكم
+Depiction: https://doplx.github.io/repo/
 
 Package: com.jaxroth.supporttheunsupportedrevived
 Version: 1.0.0
@@ -986,7 +934,8 @@ SHA256: e49bf9207ba933199c91d6dc2ab41aa500b4c8801fbf8970ac093ce855cdf345
 Section: Tweaks
 Description: Allows iPhones to use “unsupported” charging accessories
 Author: Jax Roth
-Name: SupportTheUnsupported Revived
+Name: SupportTheUnsupportedدعم وصلات الشحن المزورة
+Depiction: https://doplx.github.io/repo/
 
 Package: com.julioverne.autowall
 Version: 0.0~beta3
@@ -999,12 +948,12 @@ MD5sum: 136f2ab9bb659909e90c6baa572239d0
 SHA1: 455516c8f24fc7a56e0d882efa78c3fb6ef24c6a
 SHA256: 7303a95b42269f6f660cdd1e4ad678b0982297e02ce442f5d732b74e410da586
 Section: Tweaks
-Homepage: https://twitter.com/ijulioverne
 Description: Scheduled Wallpapers
 Author: julioverne
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autowall
 Icon: file:///Library/PreferenceBundles/AutoWallSettings.bundle/icon@2x.png
-Name: AutoWall (rootless)
+Name: AutoWallتبديل خلفية الشاشة تلقائياً
+Depiction: https://doplx.github.io/repo/
 
 Package: com.julioverne.goodwifi
 Version: 0.0~beta6
@@ -1021,27 +970,9 @@ Section: Tweaks
 Homepage: https://twitter.com/ijulioverne
 Description: Better WiFi Preferences
 Author: julioverne
-Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+Depiction: https://doplx.github.io/repo/
 Icon: file:///var/jb/Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
-Name: GoodWiFi
-
-Package: com.julioverne.goodwifi
-Version: 0.0~beta6
-Architecture: iphoneos-arm64
-Maintainer: Julio
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
-Size: 74788
-MD5sum: 368fa447b7c53724544efc2e2f19d83f
-SHA1: 8e9d7cec8aa0bd9f7deff8dc9fcb143917a59314
-SHA256: 89cb63f1c56cda890a7c8b8f2ae1aad6beda56e84310610d40dc7491fc390ff9
-Section: Tweaks
-Homepage: https://twitter.com/ijulioverne
-Description: Better WiFi Preferences
-Author: julioverne
-Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
-Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
-Name: GoodWiFi (rootless)
+Name: GoodWiFiتحسين الوايفاي للجهاز
 
 Package: com.junesiphone.applibraryplus
 Version: 0.2
@@ -1058,8 +989,8 @@ Section: Addons (Tweaks)
 Description: Customize app library
 Tag: cydia::paid
 Author: JunesiPhone <junesgraphics@gmail.com>
-Depiction: http://www.junesiphone.com/supersecret/depiction.php?iframe=depiction/applibraryplus
-Name: AppLibraryPlus
+Depiction: https://doplx.github.io/repo/
+Name: AppLibraryPlusتعديل مظهر المكتبة
 
 Package: com.kingpuffdaddi.control-center.ccvpn
 Version: 1.0.6
@@ -1073,14 +1004,13 @@ MD5sum: 92b2ebe26ff0023b260c39413cffbe80
 SHA1: 881eaeb8f9c22be798e65478940783ad672b0753
 SHA256: e65eafb89e52fef08e814323e43c1d5c7474955dc401504fd1783ff536fc6955
 Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
 Description: A Control Center Module to connect/disconnect VPN
 Tag: purpose::extension
 Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Depiction: https://doplx.github.io/repo/
 Dev: kingpuffdaddi
 Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
-Name: CCVPN
+Name: CCVPNلمركز التحكمvpnإختصار
 
 Package: com.lclrc.cccalc
 Version: 2.1.0
@@ -1095,8 +1025,8 @@ SHA1: 13ea508f2feb5581ddb25a99025378453a7e9a2f
 SHA256: 46eb19098e36ec662b43b5b0a1d5113c85e5e8f432edfb537a1d471406c3c192
 Description: 把控制中心的计算器变成真正的计算器，而不仅仅是复制上一个计算结果。
 Author: gilesgc & paisseon & lclrc
-Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
-Name: CCCalc
+Depiction: https://doplx.github.io/repo/
+Name: CCCalcإختصار الحاسبة لمركز التحكم
 
 Package: com.lclrc.hammerit
 Version: 1.3.4
@@ -1113,7 +1043,8 @@ Section: Tweaks
 Description: Control your text or translate as you wish.
 Author: lclrc(SquidForce)
 Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
-Name: Hammer It
+Name: Hammer Itتغيير نصوص النظام
+Depiction: https://doplx.github.io/repo/
 
 Package: com.lclrc.mdaus.latchkey
 Version: 2.3.2
@@ -1129,9 +1060,8 @@ SHA256: cd807377bee105a39d3dbd89aaa0baecf2ecbf362f18c39729a415ca9c262d59
 Section: Tweaks
 Description: Latchkey
 Author: Maxwell Dausch <max.dausch@gmail.com>
-Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
-Name: Latchkey
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.mdaus.latchkey/depiction.json
+Depiction: https://doplx.github.io/repo/
+Name: Latchkeyتغير شعار قفل بصمة الوجه
 
 Package: com.lclrc.squidgesture
 Version: 1.1.3
@@ -1148,7 +1078,7 @@ Section: Tweaks
 Description: Gestures
 Author: lclrc(SquidForce)
 Icon: file:///var/jb/Library/PreferenceBundles/SquidGesturePrefs.bundle/SquidGesture@3x.png
-Name: SquidGesture
+Name: SquidGesture Activatorأداة شبيهةب
 
 Package: com.level3tjg.10passcode
 Version: 1.0
@@ -1164,8 +1094,8 @@ SHA256: 8c90fffa3e29beb5f7bc19be3f625d6dfb5193207061eaa8f542808f476008ac
 Section: Tweaks
 Description: iOS 10 style passcode keypad for iOS 11+
 Author: level3tjg
-Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.10passcode
-Name: 10Passcode
+Depiction: https://doplx.github.io/repo/
+Name: 10Passcodeزيادة أرقام قفل الهاتف
 
 Package: com.level3tjg.bfdecrypt
 Version: 1.3.5
@@ -1181,8 +1111,8 @@ SHA256: 20c7d988a475b6bff1a2f915c77a737e9bff02ca7993c7b354d7e674a6ffdcf5
 Section: Tweaks
 Description: bfdecrypt for iOS 11+
 Author: BishopFox
-Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.bfdecrypt
-Name: bfdecrypt
+Depiction: https://doplx.github.io/repo/
+Name: bfdecrypt Ipaنسخ التطبيقات بصيغة 
 
 Package: com.lns.pogr
 Version: 0.3.0
@@ -1197,14 +1127,12 @@ SHA1: ec7e86b488f2cd3335f02c45f8d617c9ab91f487
 SHA256: 96eb776c85ab5abd2da6aeb6670ba83d4fbd8fc064d1435bc5930afddaf83aad
 Section: Tweaks
 Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=podsgrantDp
 Description: Treat AirPods Pro 2 correctly
 Tag: purpose::extension
 Author: Ruphane <lnsspsd@protonmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=podsgrantDp
+Depiction: https://doplx.github.io/repo/
 Dev: lns
-Name: PodsGrant
-Sponsor: thebigboss.org <http://thebigboss.org>
+Name: PodsGrantإضافة خصائص للأيربودز
 
 Package: com.miro.libmiro
 Version: 1.1
@@ -1221,8 +1149,8 @@ Section: Development
 Description: Shared library for my tweaks.
 Tag: role::developer, compatible_min::ios14
 Author: MiRO <tweaks_support@miro92.com>
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiro
-Name: libMiRO
+Depiction: https://doplx.github.io/repo/
+Name: libMiROحزمة أساسية لأدوات
 
 Package: com.miro.libmiroprefs
 Version: 1.1
@@ -1239,8 +1167,8 @@ Section: Development
 Description: Shared library for my tweaks' preferences.
 Tag: role::developer, compatible_min::ios14
 Author: MiRO <tweaks_support@miro92.com>
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroprefs
-Name: libMiROPrefs
+Depiction: https://doplx.github.io/repo/
+Name: libMiROPrefsحزمة أساسية لأدوات
 
 Package: com.miro.uyou
 Version: 3.0.1
@@ -1258,9 +1186,9 @@ Section: Tweaks
 Description: The best tweak for the YouTube app
 Tag: purpose::extension, compatible_min::ios13
 Author: MiRO <tweaks_support@miro92.com>
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
+Depiction: https://doplx.github.io/repo/
 Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
-Name: uYou
+Name: uYouإضافة ميزات لتطبيق اليوتيوب
 
 Package: com.miro.uyouimport
 Version: 1.0
@@ -1277,8 +1205,8 @@ Section: Tweaks
 Description: Library for importing songs/videos into the Music app.
 Tag: purpose::extension, compatible_min::ios13
 Author: MiRO <tweaks_support@miro92.com>
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
-Name: uYouImport
+Depiction: https://doplx.github.io/repo/
+Name: uYouImportإستيراد الفيديو للألبوم
 
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.6.4
@@ -1297,6 +1225,7 @@ Description: An awesome library of some sort!!
 Tag: role::developer
 Author: MrGcGamer
 Name: LibGcUniversal
+Depiction: https://doplx.github.io/repo/
 
 Package: com.mtac.ampere
 Version: 1.1
@@ -1312,7 +1241,8 @@ SHA256: 7f1b998367fd1b6bb672f824c62be43a77256c97f641230ac02a73a49c5844ab
 Section: Tweaks
 Description: iOS 16 Style Battery Indicator
 Author: MTAC
-Name: Ampere
+Name: Ampere Ios16مظهر البطارية الخاص ب
+Depiction: https://doplx.github.io/repo/
 
 Package: com.mtac.uptime
 Version: 1.0.1
@@ -1328,7 +1258,8 @@ SHA256: f6bb43f7f22b109b68643ec94bac850dd9444127dc6e7bed1c8030e41188be24
 Section: Tweaks
 Description: Control Center module to view time since boot
 Author: MTAC
-Name: Uptime
+Name: Uptimeإختصار لزمن إقلاع الجهاز بمركز التحكم
+Depiction: https://doplx.github.io/repo/
 
 Package: com.muirey03.libmryipc
 Version: 2.0.1
@@ -1347,6 +1278,7 @@ Description: Easy-to-use, RocketBootstrap-less iOS IPC
 Tag: role::developer
 Author: Muirey03
 Name: libMRYIPC
+Depiction: https://doplx.github.io/repo/
 
 Package: com.nahtedetihw.nowplayingiconxvi
 Version: 1.0
@@ -1362,7 +1294,7 @@ SHA256: bc21f86ff2a1e00b38517950ab4a9c9eb5d70f0744863ac2c5e9862985b4737d
 Section: Tweaks
 Description: Change your now playing app icon to the album artwork of currently playing music!
 Author: Ethan Whited
-Name: NowPlayingIconXVI
+Name: NowPlayingIconإطهار لقطة الفيديو عبر أيقونة التطبيق
 
 Package: com.niceios.nicebarx15-rootless
 Version: 1.0.2.1-85
@@ -1376,10 +1308,10 @@ MD5sum: 010b12185a7abd873ad223409857fb8c
 SHA1: c5ed43e435213fed7ea9f2bcc91520ea1be71896
 SHA256: 30c37d686d93c9684d06e361a9b73a863b01d4c819f85423a779df03d2ceffff
 Section: Tweaks
-Description: 状态栏插件.
+Description: nicebar 15
 Author: niceios
-Name: NiceBarX(iOS15)【Rootless】
-Sponsor: niceios
+Name: تعديل مظهر الستاتوس بار
+Depiction: https://doplx.github.io/repo/
 
 Package: com.niceios.nicecaller15-rootless
 Version: 1.0.1.0-30
@@ -1393,10 +1325,10 @@ MD5sum: 751c13f8669d719f85a57bae30c02d87
 SHA1: 0c261b47ff57c68fdba79a89ae07ea146946d213
 SHA256: 5906dd251574c6f85b060b6ef1d68b4fb398aed698f30b571bfef6cbc7447c4b
 Section: Tweaks
-Description: 通话录音,变声器,背景声音,自动应答,安卓样式拨号键盘,骚扰拦截,窗口电话(Callbar),归属地显示
+Description: nice caller
 Author: NiceiOS
-Name: NiceCaller(iOS15)【Rootless】
-Sponsor: NiceiOS
+Name: NiceCallerتعديل مظهر تلقي المكالمات
+Depiction: https://doplx.github.io/repo/
 
 Package: com.niceios.nicehelper-rootless
 Version: 5.5-2
@@ -1410,10 +1342,9 @@ MD5sum: c8849d352260df4bb92607e02de6d8c0
 SHA1: 903b914262faf0ad145da55d36630b4155a50ec1
 SHA256: 22f816895f794bddb6fe009b26e5c49035f6656b25beec6d0306386e3d4d2572
 Section: Addons
-Description: nice插件依赖组件.
-Author: niceios
-Name: NiceHelper【Rootless】
-Sponsor: niceios
+Description: nice helper
+هAuthor: niceios
+Name: NiceHelperحزمة أساسية لأدوات 
 
 Package: com.niceios.nicelogx13-rootless
 Version: 1.0.1.4-25
@@ -1429,8 +1360,8 @@ SHA256: 4dcfdbf59e5d69098571d33a2bb189d92f9c820fb72c9d2b0e271634dac7828f
 Section: Tweaks
 Description: Functions such as classification and saving of commonly used words, quick input, clipboard content recording, text translation, etc.
 Author: niceios
-Name: NiceLogX【Rootless】
-Sponsor: niceios
+Name: NiceLogXإضافة حفظ النصوص والعديد
+Depiction: https://doplx.github.io/repo/
 
 Package: com.nightwind.boldersreborn
 Version: 1.1.2
