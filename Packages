@@ -212,6 +212,7 @@ Section: Tweaks
 Description: Disables passcode after a respring.
 Author: Brend0n <brendonjkding@126.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: NoPassAfterRespringتجاوز الكود بعد الريسبرنق
 
 Package: com.cydiageek.smoothlockx
@@ -232,7 +233,7 @@ Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
 Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
-Icon: file:///Library/PreferenceBundles/SmoothLockX.bundle/SmoothLockX@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: SmoothLockXتعديل سلس لشاشة القفل
 
 Package: com.eliassfeir.no2theft
@@ -251,6 +252,7 @@ Description: The most complete tweak against pranksters, annoying nosy people an
 Author: elias
 Name: No2Theftمنع سرقة الجهاز
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.foxfort.deluminator
 Version: 4.2.3
@@ -287,6 +289,7 @@ Tag: role::developer
 Author: FoxfortMobile
 Name: FoxFort Tools
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.foxfort.libfoxfortutils
 Version: 1.4.0
@@ -306,6 +309,7 @@ Tag: role::developer
 Author: FoxfortMobile
 Name: libfoxfortutils
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.galacticdev.isponsorblock
 Version: 1.2
@@ -341,6 +345,7 @@ Description: Enable DND when a screen recording is initiated.
 Author: gilshahar7, 0xkuj
 Name: DNDMyRecordingوضع عدم الإزعاج عند تصوير الشاشة
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.ichitaso.otadisabler
 Version: 0.4
@@ -376,6 +381,7 @@ Description: The culmination of something beautiful!
 Author: Nebbs
 Name: Genesis 3تعديل مظهر النظام للأيفون
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.jontelang.snapper2.packix
 Version: 2.7.0
@@ -394,6 +400,7 @@ Description: Pin screenshots on the screen.
 Author: Jonathan Winger-lang
 Name: Snapper 2💢أداة إقتصاص الشاشة 
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.misakaproject.macaron
 Version: 1.0.1
@@ -449,6 +456,7 @@ Section: Tweaks
 Description: An intuitive way to unlock your device
 Author: MTAC <mtac@mtac.app>
 Name: FingerLockشعار بصمة الأصبع لشاشة القفل
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.nahtedetihw.artfull
 Version: 1.0
@@ -516,6 +524,7 @@ SHA256: 572cee26756c43bf371abb157c0c8f25ac38a85700d3dfe5c5ceb0424a26e694
 Section: Tweaks
 Description: Apple Music queue/loved alerts like on iOS 16.4!
 Author: Ethan Whited
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: MusicAlert Ios16تنبيهات الموسيقى الخاصة ب
 
 Package: com.nahtedetihw.volvibes
@@ -534,6 +543,7 @@ Description: Change the Volume Button vibrations, color the Volume HUD, and add 
 Author: Ethan Whited
 Name: VolVibesتغيير شكل خفض ورفع الصوت
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.noisyflake.albummanager
 Version: 1.0.2
@@ -571,6 +581,7 @@ Tag: purpose::library
 Author: opa334 <opa334@protonmail.com>
 Depiction: https://doplx.github.io/repo/
 Dev: opa334
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: libundirect
 
 Package: com.p2kdev.deleteforeverxs
@@ -608,6 +619,7 @@ Description: Useful actions on the Keyboard Dock View!
 Author: P2KDev <p2kdev@gmail.com>
 Name: UnderDockإضافة أوامر بشريط الكيبورد 
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.ps.injectionfoundation
 Version: 1.0.1
@@ -624,6 +636,7 @@ Section: Tweaks
 Description: Inject UIKit tweaks into Foundation apps.
 Author: PoomSmart
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Injection Foundation
 
 Package: com.pwnd2e.snapper3
@@ -641,6 +654,7 @@ Section: Tweaks
 Description: Pin screenshots on the screen. K'd by CBZ.
 Author: Jonathan Winger-lang
 Depiction: pwnd2e
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Snapper 3💢أداة إقتصاص الشاشة
 
 Package: com.pwnd2e.statustime
@@ -696,7 +710,7 @@ SHA256: 4ff8227ec18309fb87c97e2ca0fbe9a5b5c8774348aae224398de8ea2b72ad29
 Section: Tweaks
 Description: Quickly style any text
 Author: Ryan Nair
-Icon: file:///var/jb/Library/PreferenceBundles/Textyle.bundle/cydia.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Textyle 3إضافة ستايل للخط بالكيبورد
 Depiction: https://doplx.github.io/repo/
 
@@ -800,6 +814,7 @@ Description: Make Round the Settings Tables!
 Author: CydiaGeek <lucaluca86@aol.com>
 Name: roundPrefsتدوير حواف خانات الإعدادات
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.yourepo.johnnyb186.barmojiios15
 Version: 2023.4
@@ -904,6 +919,7 @@ SHA256: caa74fd9fbdd7578ddcde24036f0a3c0f1b35b0bc2e15628e5005e3db3d7a1ed
 Section: Tweaks
 Description: injectipa
 Author: Netskao
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: injectipaحقن التطبيقات عن طريق الترمنال
 
 Package: tw.hiraku.datalogoswitcher
@@ -1259,6 +1275,7 @@ Description: Next generation of FastAnimator
 Author: alias20
 Name: Speedy تسريع الأنيميشن للجهاز
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: cc.igerman.tiktokusregion
 Version: 0.0.1
@@ -1553,8 +1570,8 @@ Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
 Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
-Icon: file:///Library/PreferenceBundles/Ermete.bundle/icon@2x.png
-Name: Ermeteتأثير عند فتح التطبيقات
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Name: Ermeteتخصيص سرعة فتح وإغلاق التطبيقات
 
 Package: com.cydiageek.gyration
 Version: 1.1.3-1
@@ -1574,7 +1591,7 @@ Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
 Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
-Icon: file:///var/jb/Library/PreferenceBundles/Gyration.bundle/Gyration@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Gyrationتفعيل دوران الشاشة للتطبيقات
 
 Package: com.cydiageek.igimagesave
@@ -1616,7 +1633,7 @@ Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
 Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
-Icon: file:///Library/PreferenceBundles/Marina.bundle/Marina@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Marinaالتحكم بشريط الدوك
 
 Package: com.cydiageek.nomoredisabled
@@ -1636,6 +1653,7 @@ Description: Prevent Permanent Passcode Locking by Mistake!
 Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Dev: lucaluca86
 Name: NoMoreDisabledمنع قفل رمز المرور الدائم
 
@@ -1657,8 +1675,8 @@ Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
 Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
-Icon: file:///Library/PreferenceBundles/ShyCC.bundle/icon@2x.png
-Name: ShyCCمركز التحكم بشكل جميل
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Name: ShyCCإلغاء ميزة السحب للأسفل لمركز التحكم
 
 Package: com.cydiageek.skinnysettings
 Version: 1.6.5-2
@@ -1678,7 +1696,7 @@ Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
 Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
-Icon: file:///Library/PreferenceBundles/SkinnySettings.bundle/SkinnySettings@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: SkinnySettingsالتحكم بمظهر الإعدادات
 
 Package: com.cydiageek.springanimations
@@ -1699,7 +1717,7 @@ Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
 Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
-Icon: file:///Library/PreferenceBundles/SpringAnimations.bundle/SpringAnimations@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: SpringAnimationsإضافة تأثيرات للأنيميشن
 
 Package: com.exile90.icleanerpro
@@ -1718,7 +1736,7 @@ Section: Tweaks
 Description: The first real iOS system cleanup and management utility
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: https://doplx.github.io/repo/
-Icon: file:///Applications/iCleaner.app/Icon.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: iCleaner Pro🧹منظف التطبيقات
 
 Package: com.f0u4d.onlinenotify
@@ -1736,7 +1754,7 @@ Section: Tweaks
 Description: Track your friends on WhatsApp Messenger!
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://doplx.github.io/repo/
-Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: OnlineNotifyتتبع ظهور أرقام الواتس
 
 Package: com.f0u4d.stalky
@@ -1755,6 +1773,7 @@ SHA256: f40f1ce416666efe48652519d590c187d996a188da626b9f5b6efc2cb9e3fe2e
 Section: Tweaks
 Description: Track & download your contacts latest profile & statuses updates on WhatsApp
 Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Depiction: https://doplx.github.io/repo/
 Name: Stalkyتحميل حالات الواتس 
 
@@ -1792,7 +1811,7 @@ Section: Tweaks
 Description: Sync WhatsApp Profile Pictures to your Contacts
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://doplx.github.io/repo/
-Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: ContactSyncسحب صور الواتس لجهات الإتصال 
 
 Package: com.fouadraheb.watusi3
@@ -1812,7 +1831,7 @@ Section: Tweaks
 Description: The all-in-one tweak for WhatsApp Messenger
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://doplx.github.io/repo/
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Watusi 3ميزات عديدة للواتس
 
 Package: com.ginsu.comet
@@ -1903,7 +1922,7 @@ Section: Tweaks
 Description: A Weather fetching framework
 Author: Ginsu
 Depiction: https://doplx.github.io/repo/
-Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gsweather/icon.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: GSWeather dodoتحديث الطقس لأداة 
 
 Package: com.ginsu.pockettranslator
@@ -1962,6 +1981,7 @@ Depiction: https://doplx.github.io/repo/
 Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios16.3.1
 Author: ichitaso
 Dev: ichitaso
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: IconOrderحفظ تنسيق التطبيقات
 
 Package: com.ichitaso.powerselector11
@@ -2065,6 +2085,7 @@ Description: Color your device in a beautiful and elegant way!
 Author: Nebbs + Max Bridgland
 Name: Edge 2إضافة إطار ملون للشاشة
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.itznebbs.quitallreborn
 Version: 1.0
@@ -2080,6 +2101,7 @@ SHA256: ce65149daf0426b38e559f35d0ab62de3975efde79aac3b9332396d9d7353dd3
 Section: Tweaks
 Description: Easily clear your App Switcher!
 Author: Nebbs
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: QuitAll Rebornإغلاق التطبيقات دفعة واحدة
 Depiction: https://doplx.github.io/repo/
 
@@ -2099,6 +2121,7 @@ Description: Actually disable WiFI and Bluetooth from CC in iOS 11.
 Author: Jake James
 Name: RealCCإغلاق الواي فاي من مركز التحكم
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.jaxroth.supporttheunsupportedrevived
 Version: 1.0.0
@@ -2116,6 +2139,7 @@ Description: Allows iPhones to use “unsupported” charging accessories
 Author: Jax Roth
 Name: SupportTheUnsupportedدعم وصلات الشحن المزورة
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.julioverne.autowall
 Version: 0.0~beta3
@@ -2228,6 +2252,7 @@ Author: lclrc(SquidForce)
 Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
 Name: Hammer Itتغيير نصوص النظام
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.lclrc.mdaus.latchkey
 Version: 2.3.2
@@ -2243,6 +2268,7 @@ SHA256: cd807377bee105a39d3dbd89aaa0baecf2ecbf362f18c39729a415ca9c262d59
 Section: Tweaks
 Description: Latchkey
 Author: Maxwell Dausch <max.dausch@gmail.com>
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Depiction: https://doplx.github.io/repo/
 Name: Latchkeyتغير شعار قفل بصمة الوجه
 
@@ -2316,6 +2342,7 @@ Description: Treat AirPods Pro 2 correctly
 Tag: purpose::extension
 Author: Ruphane <lnsspsd@protonmail.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Dev: lns
 Name: PodsGrantإضافة خصائص للأيربودز
 
@@ -2335,6 +2362,7 @@ Description: Shared library for my tweaks.
 Tag: role::developer, compatible_min::ios14
 Author: MiRO <tweaks_support@miro92.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: libMiROحزمة أساسية لأدوات
 
 Package: com.miro.libmiroprefs
@@ -2353,6 +2381,7 @@ Description: Shared library for my tweaks' preferences.
 Tag: role::developer, compatible_min::ios14
 Author: MiRO <tweaks_support@miro92.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: libMiROPrefsحزمة أساسية لأدوات
 
 Package: com.miro.uyou
@@ -2372,7 +2401,7 @@ Description: The best tweak for the YouTube app
 Tag: purpose::extension, compatible_min::ios13
 Author: MiRO <tweaks_support@miro92.com>
 Depiction: https://doplx.github.io/repo/
-Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: uYouإضافة ميزات لتطبيق اليوتيوب
 
 Package: com.miro.uyouimport
@@ -2391,6 +2420,7 @@ Description: Library for importing songs/videos into the Music app.
 Tag: purpose::extension, compatible_min::ios13
 Author: MiRO <tweaks_support@miro92.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: uYouImportإستيراد الفيديو للألبوم
 
 Package: com.mrgcgamer.libgcuniversal
@@ -2411,6 +2441,7 @@ Tag: role::developer
 Author: MrGcGamer
 Name: LibGcUniversal
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.mtac.ampere
 Version: 1.1
@@ -2425,6 +2456,7 @@ SHA1: d47d90cc7221b8f6c088a43031ad56ed4a106cf5
 SHA256: 7f1b998367fd1b6bb672f824c62be43a77256c97f641230ac02a73a49c5844ab
 Section: Tweaks
 Description: iOS 16 Style Battery Indicator
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Author: MTAC
 Name: Ampere Ios16مظهر البطارية الخاص ب
 Depiction: https://doplx.github.io/repo/
@@ -2445,6 +2477,7 @@ Description: Control Center module to view time since boot
 Author: MTAC
 Name: Uptimeإختصار لزمن إقلاع الجهاز بمركز التحكم
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.muirey03.libmryipc
 Version: 2.0.1
@@ -2463,6 +2496,7 @@ Description: Easy-to-use, RocketBootstrap-less iOS IPC
 Tag: role::developer
 Author: Muirey03
 Name: libMRYIPC
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Depiction: https://doplx.github.io/repo/
 
 Package: com.nahtedetihw.nowplayingiconxvi
@@ -2479,6 +2513,7 @@ SHA256: bc21f86ff2a1e00b38517950ab4a9c9eb5d70f0744863ac2c5e9862985b4737d
 Section: Tweaks
 Description: Change your now playing app icon to the album artwork of currently playing music!
 Author: Ethan Whited
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: NowPlayingIconإظهار لقطة الفيديو عبر أيقونة التطبيق
 
 Package: com.niceios.nicebarx15-rootless
@@ -2495,8 +2530,9 @@ SHA256: 30c37d686d93c9684d06e361a9b73a863b01d4c819f85423a779df03d2ceffff
 Section: Tweaks
 Description: nicebar 15
 Author: niceios
-Name: تعديل مظهر الستاتوس بار
+Name: Nicebar 15تعديل مظهر الستاتوس بار
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.niceios.nicecaller15-rootless
 Version: 1.0.1.0-30
@@ -2514,6 +2550,7 @@ Description: nice caller
 Author: NiceiOS
 Name: NiceCallerتعديل مظهر تلقي المكالمات
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.niceios.nicehelper-rootless
 Version: 5.5-2
@@ -2527,8 +2564,9 @@ MD5sum: c8849d352260df4bb92607e02de6d8c0
 SHA1: 903b914262faf0ad145da55d36630b4155a50ec1
 SHA256: 22f816895f794bddb6fe009b26e5c49035f6656b25beec6d0306386e3d4d2572
 Section: Addons
-Description: nice helper
-هAuthor: niceios
+Description: nice helper 
+Author: niceios
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: NiceHelperحزمة أساسية لأدوات 
 
 Package: com.niceios.nicelogx13-rootless
@@ -2546,7 +2584,7 @@ Section: Tweaks
 Description: Functions such as classification and saving of commonly used words, quick input, clipboard content recording, text translation, etc.
 Author: niceios
 Name: NiceLogXإضافة حفظ النصوص والعديد
-Depiction: https://doplx.github.io/repo/
+Depiction: https://doplx.github.io/repo/Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.nightwind.boldersreborn
 Version: 1.1.2
@@ -2666,6 +2704,7 @@ Description: Securely extend the sandbox of system processes and user applicatio
 Tag: purpose::extension, role::developer
 Author: opa334 <opa334@protonmail.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Dev: opa334
 Name: libSandy
 
@@ -2703,6 +2742,7 @@ Description: Spoof screen recording detection!
 Author: opa334
 Name: NotRecordingمنع إكتشاف تصوير الشاشة
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.opa334.timebomb
 Version: 1.0.1
@@ -2720,6 +2760,7 @@ Description: Spinlock timeout with ease!
 Author: opa334
 Name: TimeBomb
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.opa334.whitepointmodule
 Version: 1.2.2
@@ -2736,7 +2777,7 @@ Section: Tweaks
 Description: Reduce White Point from Control Center!
 Author: opa334
 Depiction: https://doplx.github.io/repo/
-Icon: https://opa334.github.io/depic/WhitePointModule/Resources/icon.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: White Point تقليص حدة الضوء الأبيض
 
 Package: com.p2kdev.alarmtime
@@ -2773,7 +2814,7 @@ Section: Tweaks
 Description: Disable swipe down on LS to open spotlight!
 Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://doplx.github.io/repo/
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.nospotlightonls/icon.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: NoSpotlightOnLSإلغاء خاصية السبوتلايت
 
 Package: com.ps.amber
@@ -2919,6 +2960,7 @@ Description: Android WiFi connection notification
 Author: Baw Appie <pp121324@gmail.com>
 Name: Noti-Fiتنبيه عند الإتصال بالوايفاي
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.ryannair05.cask3
 Version: 1.0.2
@@ -2995,6 +3037,7 @@ Description: Show a progress bar for downloading apps instead! Confirmed worked 
 Author: shepgoba
 Name: DownloadBarإظهار نسبة تحميل التطبيقات
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.skypain.ccautobrightness
 Version: 1.0.0-1
@@ -3157,6 +3200,7 @@ SHA256: b0df3116eba0a73f83c85443d212ff4a2885dcc73b507f746abf12e58459e3b2
 Section: Tweaks
 Description: Unparalleled Keyboard Customisation
 Author: Spark
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Laetusتعديل لوحة المفاتيح
 Depiction: https://doplx.github.io/repo/
 
@@ -3174,6 +3218,7 @@ Section: System
 Description: AppList alternative
 Tag: role::developer
 Author: Spark
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: libSparkAppList
 Depiction: https://doplx.github.io/repo/
 
@@ -3191,6 +3236,7 @@ Section: System
 Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
 Tag: role::developer
 Author: Spark
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: libsparkcolourpicker
 Depiction: https://doplx.github.io/repo/
 
@@ -3210,6 +3256,7 @@ Tag: role::developer
 Author: Spark
 Name: libSparkMessage
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.spark.nomoresmallapps
 Version: 2.0.1
@@ -3225,6 +3272,7 @@ SHA256: 5f3eebaca43ec7f85325df4d0137915269b527be019db759a68edd2e7bada65b
 Section: Tweaks
 Description: Make all apps full screen on notched devices
 Author: Spark
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: NoMoreSmallAppsفتح التطبيقات بكامل الشاشة
 Depiction: https://doplx.github.io/repo/
 
@@ -3247,6 +3295,7 @@ Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
 Name: SnowBoard🎟مدير الثيمات
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.spark.snowboard.dock
 Version: 1.1.3~Beta4-rootless
@@ -3264,6 +3313,7 @@ Description: Dock for SnowBoard
 Author: Spark
 Name: SnowBoard Dock Extension
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.spark.snowboard.effects
 Version: 1.2.2-Beta2-rootless
@@ -3281,6 +3331,7 @@ Description: Icon Effects for SnowBoard
 Author: Spark
 Name: SnowBoard Icon Effects Extension
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.spark.snowboard.fonts
 Version: 1.1.0~Beta4-rootless
@@ -3301,6 +3352,7 @@ Description: Fonts for SnowBoard
 Author: Spark
 Name: SnowBoard Fonts Extension
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.spark.snowboard.labels
 Version: 1.1.1~Beta4-rootless
@@ -3318,6 +3370,7 @@ Description: Labels for SnowBoard
 Author: Spark
 Name: SnowBoard Labels Extension
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.spark.snowboard.masks
 Version: 1.2.2-Beta2-rootless
@@ -3335,6 +3388,7 @@ Description: Icon masks for SnowBoard
 Author: Spark
 Name: SnowBoard Icon Masks Extension
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.spark.snowboard.presetextension
 Version: 1.1.0~Beta4-rootless
@@ -3352,6 +3406,7 @@ Description: SnowBoard Presets Extension
 Author: Spark
 Name: SnowBoard Preset Extension
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.spark.snowboard.settingsicons
 Version: 1.0.26~Beta3-rootless
@@ -3369,6 +3424,7 @@ Description: Settings Icons for SnowBoard
 Author: Spark
 Name: SnowBoard Settings Icons Extension
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.spark.snowboard.statusbar
 Version: 1.1.0-Beta4-rootless
@@ -3386,6 +3442,7 @@ Description: StatusBar for SnowBoard
 Author: Spark
 Name: SnowBoard StatusBar Extension
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.spark.snowboard.ui
 Version: 1.3.0~Beta2-rootless
@@ -3403,6 +3460,7 @@ Description: UI Extension for SnowBoard
 Author: Spark
 Name: SnowBoard UI Extension
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.thuthuatjb.appdataplus
 Version: 1.4.0-p
@@ -3460,6 +3518,7 @@ SHA256: 0cefbaf52f293dca9a3068e4288e3e159e20d72b6d5047281608671944c08ad3
 Section: Tweaks
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Author: TIGI Software
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Filza File ManagerⓂ️مدير الملفات
 Depiction: https://doplx.github.io/repo/
 
@@ -3519,7 +3578,7 @@ Tag: purpose::extension
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
 Depiction: https://doplx.github.io/repo/
 Dev: tomaszpoliszuk
-Icon: file:///Library/PreferenceBundles/DockControllerSettings.bundle/icons/DockController@3x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Dock Controllerتعديل شريط الدوك
 
 Package: com.tomaszpoliszuk.keyboardcontroller
@@ -3539,7 +3598,7 @@ Tag: purpose::extension
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
 Depiction: https://doplx.github.io/repo/
 Dev: tomaszpoliszuk
-Icon: file:///Library/PreferenceBundles/KeyboardControllerPreferences.bundle/icons/KeyboardController@3x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Keyboard Controllerتعديل الكيبورد
 
 Package: com.twickd.john-sklikas.3dbadgeclear
@@ -3560,7 +3619,7 @@ Section: Tweaks
 Description: Clear your badges from the Force Touch / 3D Touch Menu! Only appears on apps that have badges.
 Author: isklikas
 Depiction: https://doplx.github.io/repo/
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.twickd.john-sklikas.3dbadgeclear/icon.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: 3DBadgeClearمسح نقطة الإشعار بالضغط المطول
 
 Package: com.udevs.vpnindicator
@@ -3615,6 +3674,7 @@ Description: Customizing the Jodel app
 Tag: purpose::extension
 Author: ExTBH <natheer@extbh.dev>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Dev: extbh
 Name: Jodel EMPROVEDميزات لتطبيق اليودل
 Depiction: https://doplx.github.io/repo/
@@ -3724,7 +3784,8 @@ Section: Tweaks
 Description: multitasking for iOS15 rootless.
 Author: @akusio_RR
 Depiction: https://doplx.github.io/repo/
-Name: MilkyWay4
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Name: MilkyWay4فتح عدة تطبيقات معاً
 
 Package: jp.dcsyhi.adkeyboard
 Version: 1.3
@@ -3979,6 +4040,7 @@ Tag: role::developer
 Author: jjolano
 Name: HookKit Framework
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: me.jjolano.fmwk.modulous
 Version: 1.0.8
@@ -3997,6 +4059,7 @@ Tag: role::developer
 Author: jjolano
 Name: Modulous Framework
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: me.jjolano.fmwk.rootbridge
 Version: 1.0.1
@@ -4033,6 +4096,7 @@ Tag: role::developer
 Author: jjolano
 Name: RootBridge Framework
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: me.jjolano.hkmodule.dobby
 Version: 1.0.7
@@ -4051,6 +4115,7 @@ Description: This module provides Dobby library support for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (Dobby)
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: me.jjolano.hkmodule.ellekit
 Version: 1.0.7
@@ -4070,6 +4135,7 @@ Description: This module provides the ElleKit API for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (ElleKit)
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: me.jjolano.hkmodule.fishhook
 Version: 1.0.8
@@ -4087,6 +4153,7 @@ Description: This module provides fishhook library support for HookKit Framework
 Author: jjolano
 Name: HookKit Module (fishhook)
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: me.jjolano.hkmodule.substrate
 Version: 1.0.8
@@ -4105,6 +4172,7 @@ Description: This module provides the Cydia Substrate API for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (Cydia Substrate)
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: me.jjolano.shadow
 Version: 3.7.6
@@ -4128,6 +4196,7 @@ Description: jailbreak detection Shadow🥷أفضل أداة لإخفاء الج
 Author: jjolano
 Name: Shadow🥷أفضل أداة لإخفاء الجلبريك للببجي
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: me.lau.atria
 Version: 1.4.1
@@ -4183,7 +4252,7 @@ Description: Enhance the stock CC or Prysm on the fly
 Author: Luki
 Depiction: https://doplx.github.io/repo/
 Icon: https://raw.githubusercontent.com/Luki120/Aria/main/AriaPrefs/Resources/Assets/AriaIcon.png
-Name: Ariaمظهر جميل لمركز التحكم
+Name: Ariaتخصيص صورة لمركز التحكم
 
 Package: me.luki.arizona
 Version: 0.9.2
@@ -4393,6 +4462,7 @@ Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: https://doplx.github.io/repo/
 Mainlibmd5: 921b926fd501306429310a4e8659f913
 Name: DynamicPeninsula 14النوتش الخاص بالأيفون 
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: net.limneos.glow-rootless
 Version: 0.5-11
@@ -4409,7 +4479,7 @@ Section: Tweaks
 Description: Let your lockscreen glow!
 Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: https://doplx.github.io/repo/
-Icon: file:///Library/PreferenceBundles/Glow.bundle/icon.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Mainlibmd5: aceebb028badab927c88b011ff1ba9eb
 Name: Glowتأثيرات جميلة عند شحن الجهاز
 
@@ -4429,6 +4499,7 @@ Description: Simple library that displays bulletins
 Author: Elias Limneos
 Name: libbulletinحزمة أساسية لأدوات إلياس
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: net.limneos.simpleactivationactions-rootless
 Version: 0.1-1
@@ -4445,6 +4516,7 @@ Section: Tweaks
 Description: Simple Activation Actions
  Handles StatusBar actions for simple activation events
 Author: Elias Limneos <limneoselias@gmail.com>
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: SimpleActivationActionsحزمة أساسية لأدوات إلياس
 
 Package: net.limneos.voicechangerx-rootless
@@ -4463,7 +4535,7 @@ Section: Tweaks
 Description: Change your voice during a call!
 Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: https://doplx.github.io/repo/
-Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Mainlibmd5: 8131809d9825837c841f8f54015f50b4
 Name: VoiceChanger XS🎙تغيير الصوت
 
@@ -4480,6 +4552,7 @@ SHA1: 126e7bb7f748e1c54a9201d04be540d4f2f90afd
 SHA256: eec3ae35f6b41142c0c887ed94e9a9c176f78b51992b0ffd79b6f02bc5525b0d
 Section: Cracks
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Description: Filza unlock full functionality, the main program please install in the official source
 Author: Netskao
 Name: Filza Crack🛠كراك مدير الملفات
@@ -4499,6 +4572,7 @@ Author: Evelyn
 Name: Legacy arm64e Sup 64eدعم معالجات 
 Section: Tweaks
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: preferenceloader
 Version: 2.2.6-1
@@ -4513,6 +4587,7 @@ SHA1: abaeb05ac4b4161427d1cc877eaf3c078f575fb2
 SHA256: d5553f68d58fb5dd2ebda950f9b5e4d5119118cd5c8c49a08379521cc9636460
 Section: Tweaks
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Description: load preferences in style
 Tag: role::hacker, purpose::library
 Author: Dhinak G <dhinak@dhinak.net>
@@ -4556,7 +4631,7 @@ Tag: purpose::extension
 Author: BlanxdH <blanxd.h@gmail.com>
 Depiction: https://doplx.github.io/repo/
 Dev: blanxd
-Icon: file:///Library/ControlCenter/Bundles/SSHonCC.bundle/SettingsIcon@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: OpenSSH CC SSHإختصار لفتح منفذ
 
 Package: ws.hbang.alderis
@@ -4597,7 +4672,7 @@ Description: Support library for tweaks
 Tag: role::developer, compatible_min::ios15.0
 Author: HASHBANG Productions <support@hbang.ws>
 Depiction: https://doplx.github.io/repo/
-Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Cephei Tweak Support
 
 Package: ws.hbang.newterm3
@@ -4969,6 +5044,7 @@ Section: Cracks
 Description: iCleaner Pro Crack
 Author: Anna
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: iCleaner Pro Crack🛠كراك منظف التطبيقات
 
 Package: xyz.cypwn.kayoko
@@ -4986,6 +5062,7 @@ Section: Tweaks
 Description: Feature rich clipboard manager for iOS
 Author: Traurige <hello@traurige.dev>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Kayokoإدارة حافظة النصوص
 
 Package: xyz.cypwn.lastlook
@@ -5003,7 +5080,7 @@ Description: An AOD tweak that feels stock, with endless possibilities!
 Author: AnthoPak
 Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/lastlook/icon@3x.png
-Name: LastLook
+Name: LastLookتعديل شاشة القفل
 
 Package: xyz.cypwn.little12
 Version: 1.0.0
@@ -5054,7 +5131,7 @@ Section: Tweaks
 Description: Respring or Safe Mode with hardware keys
 Author: Aarnav Tale
 Depiction: https://doplx.github.io/repo/
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/panic.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Panicعمل زر إختصار للسيف مود 
 
 Package: xyz.cypwn.power4options
@@ -5193,6 +5270,7 @@ Description: Cracked By Ravand
 Author: Ravand
 Depiction: https://doplx.github.io/repo/
 Name: Truecaller Goldفتح ميزات الترو كولر
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: xyz.cypwn.watusicrack
 Version: 0.0.1
@@ -5208,6 +5286,7 @@ Section: Cracks
 Description: Watusi Crack
 Author: CyPwn
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Watusi Crack🛠كراك أداة واتوسي
 
 Package: xyz.cypwn.xinam1ne
@@ -5226,6 +5305,7 @@ Section: Tweaks
 Description: Xinamine bundle. Includes linker, patcher2.4-3, 'chex' link checker, 'chix' link fixer, plus other supporting filza scripts.
 Author: Paisseon, Sudo, NoW4U2Kid
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
 Name: Xinam1ne All-in-Oneحزمة مهمة للأدوات
 
