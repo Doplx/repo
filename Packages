@@ -2584,7 +2584,8 @@ Section: Tweaks
 Description: Functions such as classification and saving of commonly used words, quick input, clipboard content recording, text translation, etc.
 Author: niceios
 Name: NiceLogXإضافة حفظ النصوص والعديد
-Depiction: https://doplx.github.io/repo/Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.nightwind.boldersreborn
 Version: 1.1.2
@@ -4078,6 +4079,7 @@ Tag: role::developer
 Author: jjolano
 Name: RootBridge Framework
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: me.jjolano.fmwk.rootbridge
 Version: 1.0.1
