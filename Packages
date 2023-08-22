@@ -5,7 +5,7 @@ Architecture: iphoneos-arm64
 Maintainer: iGameGod
 Installed-Size: 195060
 Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
-Filename: https://mega.nz/file/LypCWaQD#ItFq_ze5bamdZYv6u7t_Ln8cf0hY26_cQR17N3Ouuwc
+Filename: ./debs/com.gamegod.igg.rootless_0.4.2.1_iphoneos-arm64.deb
 Size: 36601528
 MD5sum: d4310c546a0f8b534006f7cbd0ca03f6
 SHA1: 851421b409f7465fc8c004da3507270633530abb
@@ -13,6 +13,7 @@ SHA256: 4a3b3bb3b1dc907bcaa1fc5ad6b37454d73dbb40b8df52b9c95ab4ecba3287f7
 Section: Tweaks
 Description: Be the god of your games!
 Author: iGameGod
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: iGameGod☣️تهكير الألعاب والتطبيقات
 Depiction: https://doplx.github.io/repo/
 
@@ -21,7 +22,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: mobilesubstrate
-Filename: https://mega.nz/file/b2BC0JYI#J2CLjZDpaj3thHWiMmdsT-722bTCl1ql0_7FAUNpxtg
+Filename: ./debs/xyz.cypwn.ena_1.0.1_iphoneos-arm64.deb
 Size: 61971558
 MD5sum: e9d842d21c96afe4f03e311c32080abf
 SHA1: 03deb70f235e52acf4a583119e68bc2c084cb93b
@@ -49,6 +50,7 @@ SHA256: ecc9d59ba48f04e1595702721d8dfdecc26340785100c994521cd4db6e9d94c4
 Section: Hacks
 Description: CLEO for GTA:SA. Now with extra Rust!
 Author: squ1dd13
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: CLEO ModMenu⭐️هاك لعبة سان أندريس
 Depiction: https://doplx.github.io/repo/
 
@@ -65,6 +67,7 @@ SHA1: c5807c74acbfa0f47ed6b78e5085f3d5568a95c2
 SHA256: 78c2dac7e930115667e1c9154a9a7c93d6d47b2cc0986abde3f344670bb31c6c
 Section: Hacks
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Description: CarX Street iGMM Cheats by Zahir for iOSGods.com!
 Author: Zahir
 Name: CarX Street⭐️تهكير لعبة 
@@ -82,6 +85,7 @@ SHA1: 4caa217a16e20499cf6a3a799da7613f5172fea4
 SHA256: 67c12bcdcf9c55d99d334164b237c6ba10a4197f05b0b669a18e841b7ab8430a
 Section: Hacks
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Description: Stumble Guys iGMM Cheats by TimidNova for iOSGods.com!
 Author: TimidNova
 Name: Stumble Guys⭐️تهكير لعبة
@@ -99,6 +103,7 @@ SHA1: 54b1384a99788f426672c7ee3bad069e0709a980
 SHA256: a1c73d16fd0b9bfe370ce57069e12c52be94f48f97a291cc79410125723b9cdf
 Section: Hacks
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Description: Subway Surfers iGMM Cheats by AlyssaX64 for iOSGods.com!
 Author: AlyssaX64
 Name: Subway Surfers⭐️تهكير لعبة
@@ -119,6 +124,7 @@ Description: Make AltDaemon great again for rootless/Ellekit!
 Author: alias20
 Name: AltDaemonFixإصلاح لتثبيت التطبيقات عن طريق Altsrore
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: alias20.calclog
 Version: 0.0.1
@@ -134,6 +140,7 @@ SHA256: 719f2dec4d3e6d03206667af81b5fa655626a831a12cc9dcd0e64371e7102e0e
 Section: Tweaks
 Description: Create logs calculation history above the result window. Only basic arithmetic operations are supported.
 Author: alias20
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: CalcLogإضافة سجل للحاسبة
 Depiction: https://doplx.github.io/repo/
 
@@ -153,6 +160,7 @@ Description: Blocks Whatsapp message saying you must update
 Tag: purpose::extension
 Author: 0xkuj <kujmank@gmail.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Dev: 0xkuj
 Name: Block WA Updatesمنع تحديثات الواتس
 
@@ -169,6 +177,7 @@ SHA1: 8060a0788d9d49b95346ca437cb7206070a1b668
 SHA256: dfd54e07081b01a6cb1a85fbc36e3981b4ede96120ad72993148a93c7276078c
 Section: Tweaks
 Description: CC Toggle to block ads on demand!
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Author: 0xkuj <0xkujz@gmail.com>
 Name: CCAdsBeGoneإختصار لمنع الإعلانات
 Depiction: https://doplx.github.io/repo/
@@ -177,7 +186,7 @@ Package: com.bossgfx.elysian
 Version: 1.4.1
 Architecture: iphoneos-arm64
 Maintainer: Bossgfx
-Filename: https://mega.nz/file/O7JlzZhb#ZH6trS2aosa8gRXJo-wcep9pTJmf18HkZFxBFyGJxZA
+Filename: ./debs/com.bossgfx.elysian_1.4.1_iphoneos-arm64.deb
 Size: 31477356
 MD5sum: 84884a5806d81f64363de5ca9d0aa212
 SHA1: 3567661d73f4de8910e032ef73fee7e4f2bbc4e8
@@ -257,7 +266,7 @@ SHA256: 7c73e328b3f065f54eaea0fadacad9a2bd56024381da08f7b94e114c3dfa03a0
 Section: Tweaks
 Description: Dark mode for the web
 Author: FoxfortMobile
-Icon: file:///Library/PreferenceBundles/deluminatorsettings.bundle/icon@3x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Deluminatorالوضع الليلي للتطبيقات
 
 Package: com.foxfort.foxforttools
@@ -348,6 +357,7 @@ Section: Tweaks
 Description: Delete and disable OTA badge
 Author: ichitaso
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: OTADisablerمنع التحديث التلقائي للأيفون
 
 Package: com.itznebbs.genesis3
@@ -420,6 +430,7 @@ Description: Haptic For everything!
 Tag: purpose::extension
 Author: mostafa89 <m_r19891989@yahoo.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Dev: mostafa89
 Name: CellTicميزة الإهتزاز عند الضغط
 
@@ -454,6 +465,7 @@ Description: Make the Apple Music app look like iOS 17!
 Author: Ethan Whited
 Name: ArtFull Ios17مظهر مشغل الموسيقى الخاص ب
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.nahtedetihw.centeredlabels-rootless
 Version: 1.3
@@ -487,6 +499,7 @@ SHA256: 34dd91591f9b5d26892a65eb9b592760266a389f9393ded91f85ca981e25d2db
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Ethan Whited
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: CloseAllإغلاق جميع التطبيقات بالسحب للأسفل
 Depiction: https://doplx.github.io/repo/
 
@@ -575,7 +588,7 @@ Section: Tweaks
 Description: Delete Media without moving to Recently Deleted!
 Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://doplx.github.io/repo/
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.deleteforeverxs/icon.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: DeleteForeverحذف الصور بشكل نهائي
 
 Package: com.p2kdev.underdock
@@ -691,7 +704,7 @@ Package: com.thetimeloop.Echoes
 Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: timeloop
-Filename: https://mega.nz/file/XyBzHA6S#aK2WtA7pidlDfctr77B17pNtU0uXPxL5tn89G-5GWig
+Filename: ./debs/com.thetimeloop.Echoes_2.0_iphoneos-arm64.deb
 Size: 47649636
 MD5sum: 2a6be9ab933ec1d1900bdfaa16c1ab12
 SHA1: 2fed93372ae374713dc65e1f3ecae8abfbc53769
@@ -769,6 +782,7 @@ SHA256: 168a5632e5b12128a23c3a66d18edba887e26b29fed69d0a53d5b47a08cd2367
 Section: Tweaks
 Description: Adds a button to switch account in App Store account page on iOS 11+.
 Author: 0xkuj <0xkujz@gmail.com>
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: StoreSwitcher 2التبديل بين حسابات الأبستور
 
 Package: com.yourepo.cydiageek.roundprefs
@@ -802,7 +816,9 @@ Section: Tweaks
 Description: Quick Emoji Access Bar. Updated for rootless iOS 15 & 16.
 Author: CP Digital Darkroom <djservicesri@gmail.com>
 Name: Barmojiوصول سريع للأيموجي أسفل الكيبورد
-‏Depiction: https://doplx.github.io/repo/
+‏Depiction: https://doplx.github.io/
+repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: jp.dcsyhi.zetsurootless15
 Version: 1.2
@@ -854,6 +870,7 @@ SHA256: 1625ddb47e7858341641f18b673aee1abda3056899fd1090e510001fb7516efd
 Section: Tweaks
 Description: Clipboard history manager for iOS!
 Author: TomT000
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: CopyLogإدارة سجل النسخ
 ‏Depiction: https://doplx.github.io/repo/
 
@@ -906,7 +923,7 @@ Tag: purpose::extension
 Author: Hiraku <dev@hiraku.tw>
 ‏Depiction: https://doplx.github.io/repo/
 Dev: hiraku
-Icon: file:///Library/PreferenceBundles/DataLogoSwitcher.bundle/Icon@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: DataLogoSwitcherتغيير شعار شبكة الإتصال
 
 Package: xyz.cypwn.alerto
@@ -1086,6 +1103,7 @@ SHA256: 83af0cab6447a3334d9a6aff7b1b66821f3d437bb45d67cb34fa8149a375686a
 Section: Tweaks
 Description: Process Viewer for iOS GUI, updated for iOS 15 by zp.
 Author: Domo, SXX , zp
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: CocoaTop64عرض عمليات نظام التشغيل
 ‏Depiction: https://doplx.github.io/repo/
 
@@ -1141,7 +1159,7 @@ Section: Tweaks
 Description: Hide apps from your homescreen, library, spotlight
 Author: Paisseon
 Depiction: https://doplx.github.io/repo/
-Icon: https://paisseon.github.io/icons/AppHider.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: App Hiderإخفاء التطبيقات من الشاشة
 
 Package: lilliana.ishtar
@@ -1204,6 +1222,7 @@ Section: Tweaks
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: AppSync تثبيت التطبيقات من مدير الملفات
 
 Package: alias20.coolcc
@@ -1220,6 +1239,7 @@ SHA256: 41ace674b0e77d9f3b1cf9774f1d9e5aa2af117d537ca341276f93199844e071
 Section: Tweaks
 Description: This tweak makes ControlCenter cool! Compatible with iOS 15/rootless.
 Author: alias20
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: CoolCC تغيير مظهر مركز التحكم
 Depiction: https://doplx.github.io/repo/
 
@@ -1275,6 +1295,7 @@ Description: A tweak to add app spoofing capabilities right from your 3D menu an
 Author: 0xkuj
 Name: 3DAppVersionSpooferتزوير إصدار التطبيق
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.0xkuj.iparanger
 Version: 1.8
@@ -1292,6 +1313,7 @@ Description: GUI Based Application for ipatool
 Author: 0xkuj
 Name: IPA Rangerسحب التطبيقات من الأبستور
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.34306.2nd
 Version: 2.0-3+debug
@@ -1309,6 +1331,7 @@ Description: Add second line to your time on statusbar
 Author: 34306
 Name: 2ndإضافة التاريخ للستاتوس بار
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.3bod.syria
 Version: 0.0.1-1+debug
@@ -1326,6 +1349,7 @@ Description: محذوف الاعلانات
 Author: @3bod_syr
 Name: ClassicoNoAdsحذف إعلانات تطبيق كلاسيكو
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.anthopak.addtofolder-rootless
 Version: 1.4
@@ -1373,7 +1397,6 @@ MD5sum: a05b7f0fcdd25e4a1b2aeba0206ed00a
 SHA1: ed4fe3de0458d6ab52f84b1b04869e582de92dac
 SHA256: ae587dfde0240c6b5ebab422fd9883fb99e1d3dc5b62baca3db5426b62c184e4
 Section: Tweaks
-Homepage: https://repo.anthopak.dev
 Description: Quickly dismiss CC from expanded modules
 Author: AnthoPak <anthopakdev@gmail.com>
 Depiction: https://doplx.github.io/repo/
@@ -1412,6 +1435,7 @@ Section: Tweaks
 Description: Control the speed of your game
 Author: Brend0n <brendonjkding@126.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: AccDemoالتحكم بسرعة التطبيقات
 
 Package: com.brend0n.fgotw60fps
@@ -1429,6 +1453,7 @@ Section: Tweaks
 Description: Force Unity Games/Apps render at custom framerate(60/30)
 Author: Brend0n <brendonjkding@126.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Unity60FPSتثبيت الفريمات للتطبيقات
 
 Package: com.brend0n.unityfpsindicator
@@ -1446,6 +1471,7 @@ Section: Tweaks
 Description: real-time fps indicator for games
 Author: Brend0n <brendonjkding@126.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: FPSIndicatorإضافة مؤشر الفريمات بالتطبيق
 
 Package: com.cameronkatri.quickactions
@@ -1485,7 +1511,7 @@ Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
 Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
-Icon: file:///Library/PreferenceBundles/ConfirmToSend.bundle/icon@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: ConfirmToSendطلب التحقق قبل الإرسال
 
 Package: com.cydiageek.cthulhu
@@ -1506,7 +1532,7 @@ Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
 Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
-Icon: file:///Library/PreferenceBundles/Cthulhu.bundle/icon@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Cthulhuتغير نصوص شاشة القفل
 
 Package: com.cydiageek.ermete
@@ -1568,6 +1594,7 @@ Description: Save Instagram Feed/Stories Pictures!
 Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Dev: lucaluca86
 Name: IGImageSaveحفظ صور الإنستا
 
@@ -1746,6 +1773,7 @@ Section: Addons
 Description: Library for Watusi and WhatsApp tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: WatusiToolsأداة مهمة لعمل
 
 Package: com.fouadraheb.contactsync
@@ -1755,6 +1783,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 532
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.6)
 Filename: ./debs/com.fouadraheb.contactsync_1.1.5_iphoneos-arm64.deb
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Size: 91268
 MD5sum: a4b76d786662b6292d4e7fa75022c2d8
 SHA1: 0e203ae5d1a0d40de40c81e186b4e76a7ecd0712
@@ -1774,6 +1803,7 @@ Installed-Size: 6580
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.12)
 Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Filename: ./debs/com.fouadraheb.watusi3_1.2_iphoneos-arm64.deb
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Size: 1960874
 MD5sum: e2911ef4e169de951559af175de1a591
 SHA1: 71cbc0f237800934b6bfec497b7844e85b9a3dd9
@@ -2013,6 +2043,7 @@ SHA256: 8c82069153ef164ac09ddf9ca78bdccbf1fc48ac385247f74801888e3db1126c
 Section: Tweaks
 Description: Backport the iOS 17 AirPods popup to iOS 14-16
 Author: iCraze
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: DarkPodsإنبثاق داكن للسماعات
 Depiction: https://doplx.github.io/repo/
 
@@ -2100,7 +2131,7 @@ Section: Tweaks
 Description: Scheduled Wallpapers
 Author: julioverne
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autowall
-Icon: file:///Library/PreferenceBundles/AutoWallSettings.bundle/icon@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: AutoWallتبديل خلفية الشاشة تلقائياً
 Depiction: https://doplx.github.io/repo/
 
@@ -2139,6 +2170,7 @@ Description: Customize app library
 Tag: cydia::paid
 Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: AppLibraryPlusتعديل مظهر المكتبة
 
 Package: com.kingpuffdaddi.control-center.ccvpn
@@ -2158,7 +2190,7 @@ Tag: purpose::extension
 Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
 Depiction: https://doplx.github.io/repo/
 Dev: kingpuffdaddi
-Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: CCVPNلمركز التحكمvpnإختصار
 
 Package: com.lclrc.cccalc
@@ -2175,6 +2207,7 @@ SHA256: 46eb19098e36ec662b43b5b0a1d5113c85e5e8f432edfb537a1d471406c3c192
 Description: calculator in cc
 Author: gilesgc & paisseon & lclrc
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: CCCalcإختصار الحاسبة لمركز التحكم
 Section: Tweaks
 
@@ -2245,6 +2278,7 @@ Section: Tweaks
 Description: iOS 10 style passcode keypad for iOS 11+
 Author: level3tjg
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: 10Passcodeزيادة أرقام قفل الهاتف
 
 Package: com.level3tjg.bfdecrypt
@@ -2262,6 +2296,7 @@ Section: Tweaks
 Description: bfdecrypt for iOS 11+
 Author: BishopFox
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: bfdecrypt Ipaنسخ التطبيقات بصيغة 
 
 Package: com.lns.pogr
@@ -2571,7 +2606,7 @@ Author: opa334 <opa334@protonmail.com>
 Depiction: https://doplx.github.io/repo/
 Dev: opa334
 Name: AltList
-
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.opa334.ccsupport
 Version: 1.3.10-2
@@ -2589,6 +2624,7 @@ SHA1: c18168922244561b9d13cb23886f314868dcaf40
 SHA256: c5097a205e6cc8370dd69c245b918fd69e2022ddf6a29624b645aaf881b755dd
 Section: Tweaks
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Description: Support tweak for CC modules!
 Tag: purpose::extension
 Author: opa334 <opa334@protonmail.com>
@@ -2608,6 +2644,7 @@ SHA1: 7a3d4fa057ee888543853be6aa2c88da845f353e
 SHA256: 66a503737a9e0b14d7050d6f91ce82ebc7bcc44ff5eabac28f01ca4d8663471e
 Section: Tweaks
 Description: Advanced Tweak Configuration!
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Author: opa334 <opa334@protonmail.com>
 Depiction: https://doplx.github.io/repo/
 Name: Choicyتشغيل التطبيقات بدون حقن أدوات
@@ -2719,6 +2756,7 @@ Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://doplx.github.io/repo/
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.alarmtime/icon.png
 Name: AlarmTimeإظهار الوقت المتبقي للمنبه
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.p2kdev.nospotlightonls
 Version: 1.0
@@ -2753,6 +2791,7 @@ Section: Tweaks
 Description: Amber-ify your flashlight LEDs.
 Author: PoomSmart
 Name: Amberتغيير لون إضاءة الكشاف
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.ps.cahighfps
 Version: 1.3.1
@@ -2769,6 +2808,7 @@ Section: Tweaks
 Description: Make CoreAnimation apps use the highest available FPS.
 Author: PoomSmart
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: CAHighFPSرفع كفاءة الفريمات
 
 Package: com.ps.cconandoff
@@ -2787,6 +2827,7 @@ Section: Tweaks
 Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).
 Author: PoomSmart
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: CCOn&Offإغلاق الوايفاي من مركز التحكم
 
 Package: com.ps.youquality
@@ -2803,6 +2844,7 @@ SHA256: b7c6844733e8b109f3042163faf148f086cbeec68d1ae0fbd46841d6a83813c1
 Section: Tweaks
 Description: View/change video quality in YouTube faster.
 Author: PoomSmart
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: YouQualityتحديد جودة فيديوهات اليوتيوب
 Depiction: https://doplx.github.io/repo/
 
@@ -2841,6 +2883,7 @@ Description: Change your font!
 Author: Baw Appie <pp121324@gmail.com>
 Name: A-Fontتغيير خطوط الجهاز
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.rpgfarm.a-shields
 Version: 1.7
@@ -2858,6 +2901,7 @@ Description: Protect your device
 Author: Baw Appie <pp121324@gmail.com>
 Name: A-Shieldsحماية التطبيقات من التطفل
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.rpgfarm.noti-fi
 Version: 1.0.1
@@ -3042,6 +3086,7 @@ Md5: c03e0da1e0b196f9ceab24f07f6c7eb3
 Name: Always120تثبيت الفريمات للتطبيقات
 Sha265: 0a229d63409dff57af1b661ef6958e016312e013eca1dc10b710dfe6136b367d
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.sop.cachemagicrootless
 Version: 1.1
@@ -3096,6 +3141,7 @@ Description: Unless there are notifications, the device will automatically unloc
 Author: Spark
 Name: AutoUnlockXفتح تلقائي للجهاز 
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.spark.laetus
 Version: 3.5.1-rootless
@@ -3396,7 +3442,7 @@ Tag: purpose::uikit
 Author: TIGI Software <satashi2009@gmail.com>
 Depiction: https://doplx.github.io/repo/
 Dev: satashi2009
-Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Apps ManagerⓂ️مدير التطبيقات
 
 Package: com.tigisoftware.filza
@@ -3451,6 +3497,7 @@ Description: Turn off App Library
 Tag: purpose::extension
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Dev: tomaszpoliszuk
 Name: App Library Disablerتعطيل المكتبة
 Depiction: https://doplx.github.io/repo/
@@ -3659,6 +3706,7 @@ Section: Tweaks
 Description: [iOS15]Add "Toggle Background Mode" action to ControlCenter.
 Author: @akusio_RR
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: BackgrounderActionإختصار عمل التطبيق بالخلفية
 
 Package: jp.akusio.milkyway4
@@ -3694,6 +3742,7 @@ Description: Make keyboard color adaptive to app color.
 Author: Dcsyhi
 Name: ADKeyboardتغير لون لوحة المفاتيح
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: jp.dcsyhi.kbappdock
 Version: 1.5
@@ -3748,7 +3797,7 @@ Priority: optional
 Depiction: https://doplx.github.io/repo/
 Description: Record and playback touch operations, play macro scripts automatically.
 Author: Kent Krantz <kentkrantz@gmail.com>
-Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: AutoTouchاللمس التلقائي بعد التصوير
 
 Package: me.autotouch.autotouch.ios8.inputtext
@@ -3768,7 +3817,7 @@ Priority: optional
 Depiction: https://doplx.github.io/repo/
 Description: Record and playback touch operations, play macro scripts automatically.
 Author: Kent Krantz <kentkrantz@gmail.com>
-Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: AutoTouch InputTextكتابة نصوص باللمس التلقائي
 
 Package: me.ikghd.ikset
@@ -4168,6 +4217,7 @@ SHA256: 3fabcc97b73c385c22c661eb4a3e3d92758af6261dab95af03c0b6b71336ec3f
 Section: Tweaks
 Description: Record on the LS without authenticating for ⇝ iOS 14 +
 Author: Luki
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Depiction: https://doplx.github.io/repo/
 Name: Cannaتصوير الشاشة بالوضع الخفي
 
@@ -4224,6 +4274,7 @@ Description: Priority Hub for iOS 15 (rootless/Ellekit)
 Author: Nepeta & Baw Appie
 Name: Axonتغيير مظهر الإشعارات لشاشة القفل
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: net.limneos.answeringmachinex-rootless
 Version: 2.0-2
@@ -4241,6 +4292,7 @@ Section: Tweaks
 Description: AnsweringMachine XS (iOS 11 to 16)
 Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: AnsweringMachineالرد برسالة صوتية
 
 Package: net.limneos.aquaboardx-rootless
@@ -4259,7 +4311,7 @@ Section: Tweaks
 Description: Amazing Water Effects On SpringBoard
 Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: https://doplx.github.io/repo/
-Icon: file:///Library/PreferenceBundles/AquaPrefs.bundle/AquaBoard@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Mainlibmd5: 50d1adbd223be7e6e59494e2e3e8fca2
 Name: AquaBoard XSتأثير مائي للهوم سكرين
 
@@ -4282,6 +4334,7 @@ Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: https://doplx.github.io/repo/
 Mainlibmd5: 2bd89895e747af47790b0eb2f6bac296
 Name: AudioRecorderXS🎙تسجيل المكالمات
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: net.limneos.autoanswerx-rootless
 Version: 2.0-2
@@ -4298,7 +4351,7 @@ Section: Tweaks
 Description: Auto-answer any calls!
 Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: https://doplx.github.io/repo/
-Icon: file:///Library/PreferenceBundles/AutoAnswer.bundle/AutoAnswerXSettings@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Mainlibmd5: f5ea088a5aa89b09cd693dde75214053
 Name: AutoAnswer XSالرد التلقائي
 
@@ -4320,6 +4373,7 @@ Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: https://doplx.github.io/repo/
 Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
 Mainlibmd5: 4f1110aadbd864aa76fe9e6be32ac34d
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: BioProtectحماية الجهاز والتطبيقات ببصمة الوجه
 
 Package: net.limneos.dynamicpeninsula-rootless
@@ -4583,6 +4637,7 @@ Section: Tweaks
 Description: iOS Accent Colours In macOS Style
 Author: Lillie
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Accentتغيير اللون مثل الماك بوك
 
 Package: xyz.cypwn.aimpro
@@ -4811,6 +4866,7 @@ Section: Tweaks
 Description: Calculator, but smaller
 Author: sourcelocation
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Cardculatorإختصار للحاسبة
 
 Package: xyz.cypwn.debra
