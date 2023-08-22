@@ -1,4 +1,108 @@
 
+Package: com.gamegod.igg.rootless
+Version: 0.4.2.1
+Architecture: iphoneos-arm64
+Maintainer: iGameGod
+Installed-Size: 195060
+Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
+Filename: https://mega.nz/file/LypCWaQD#ItFq_ze5bamdZYv6u7t_Ln8cf0hY26_cQR17N3Ouuwc
+Size: 36601528
+MD5sum: d4310c546a0f8b534006f7cbd0ca03f6
+SHA1: 851421b409f7465fc8c004da3507270633530abb
+SHA256: 4a3b3bb3b1dc907bcaa1fc5ad6b37454d73dbb40b8df52b9c95ab4ecba3287f7
+Section: Tweaks
+Description: Be the god of your games!
+Author: iGameGod
+Name: iGameGod☣️تهكير الألعاب والتطبيقات
+Depiction: https://doplx.github.io/repo/
+
+Package: xyz.cypwn.ena
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: https://mega.nz/file/b2BC0JYI#J2CLjZDpaj3thHWiMmdsT-722bTCl1ql0_7FAUNpxtg
+Size: 61971558
+MD5sum: e9d842d21c96afe4f03e311c32080abf
+SHA1: 03deb70f235e52acf4a583119e68bc2c084cb93b
+SHA256: 59e2614dc643b104df6900064f17c09170c6d8135634dc629e02b7bf2a534c91
+Section: Tweaks
+Description: Extract Nearly Anything
+Author: x1a0
+Depiction: https://doplx.github.io/repo/
+Icon: https://media.havoc.app/64a42e09e02881606102d9ed
+Name: ENAسحب الصور بصيغة ملصقات
+
+Package: com.squ1dd13.cleo
+Version: 2.6.0
+Architecture: iphoneos-arm64
+Maintainer: squ1dd13
+Depends: mobilesubstrate, xyz.cypwn.xinam1ne
+Conflicts: com.squ1dd13.csios, com.squ1dd13.zinc, com.brend0n.gtasa60fps
+Replaces: com.squ1dd13.csios, com.squ1dd13.zinc
+Provides: com.squ1dd13.csios, com.squ1dd13.zinc
+Filename: ./debs/com.squ1dd13.cleo_2.6.0_iphoneos-arm64.deb
+Size: 2957528
+MD5sum: 0295b336719e1d080db2faf62b788580
+SHA1: 7d0dda285741077f6336e3800f9bd2be32d96b35
+SHA256: ecc9d59ba48f04e1595702721d8dfdecc26340785100c994521cd4db6e9d94c4
+Section: Hacks
+Description: CLEO for GTA:SA. Now with extra Rust!
+Author: squ1dd13
+Name: CLEO ModMenu⭐️هاك لعبة سان أندريس
+Depiction: https://doplx.github.io/repo/
+
+Package: iOSGods.com.CarXStreet
+Version: 0.9.4+iOSGods.com
+Architecture: iphoneos-arm64
+Maintainer: iOSGods.com
+Installed-Size: 6412
+Depends: mobilesubstrate, xyz.cypwn.xinam1ne
+Filename: ./debs/iOSGods.com.CarXStreet_0.9.4+iOSGods.com_iphoneos-arm64.deb
+Size: 1262148
+MD5sum: aecbcfd3714e187d445233485c6ecc97
+SHA1: c5807c74acbfa0f47ed6b78e5085f3d5568a95c2
+SHA256: 78c2dac7e930115667e1c9154a9a7c93d6d47b2cc0986abde3f344670bb31c6c
+Section: Hacks
+Depiction: https://doplx.github.io/repo/
+Description: CarX Street iGMM Cheats by Zahir for iOSGods.com!
+Author: Zahir
+Name: CarX Street⭐️تهكير لعبة 
+
+Package: iOSGods.com.StumbleGuys
+Version: 0.53.1+iOSGods.com
+Architecture: iphoneos-arm64
+Maintainer: iOSGods.com
+Installed-Size: 6412
+Depends: mobilesubstrate, xyz.cypwn.xinam1ne
+Filename: ./debs/iOSGods.com.StumbleGuys_0.53.1+iOSGods.com_iphoneos-arm64.deb
+Size: 1262100
+MD5sum: 75be00eb7602823c414fe5ad2fd14db6
+SHA1: 4caa217a16e20499cf6a3a799da7613f5172fea4
+SHA256: 67c12bcdcf9c55d99d334164b237c6ba10a4197f05b0b669a18e841b7ab8430a
+Section: Hacks
+Depiction: https://doplx.github.io/repo/
+Description: Stumble Guys iGMM Cheats by TimidNova for iOSGods.com!
+Author: TimidNova
+Name: Stumble Guys⭐️تهكير لعبة
+
+Package: iOSGods.com.subwaygl
+Version: 3.16.1+iOSGods.com
+Architecture: iphoneos-arm64
+Maintainer: iOSGods.com
+Installed-Size: 6412
+Depends: mobilesubstrate, xyz.cypwn.xinam1ne
+Filename: ./debs/iOSGods.com.subwaygl_3.16.1+iOSGods.com_iphoneos-arm64.deb
+Size: 1261824
+MD5sum: 4dabfb5c36e111afebbc799f4854c988
+SHA1: 54b1384a99788f426672c7ee3bad069e0709a980
+SHA256: a1c73d16fd0b9bfe370ce57069e12c52be94f48f97a291cc79410125723b9cdf
+Section: Hacks
+Depiction: https://doplx.github.io/repo/
+Description: Subway Surfers iGMM Cheats by AlyssaX64 for iOSGods.com!
+Author: AlyssaX64
+Name: Subway Surfers⭐️تهكير لعبة
+
 Package: alias20.altdaemonfix
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -73,7 +177,7 @@ Package: com.bossgfx.elysian
 Version: 1.4.1
 Architecture: iphoneos-arm64
 Maintainer: Bossgfx
-Filename: ./debs/com.bossgfx.elysian_1.4.1_iphoneos-arm64.deb
+Filename: https://mega.nz/file/O7JlzZhb#ZH6trS2aosa8gRXJo-wcep9pTJmf18HkZFxBFyGJxZA
 Size: 31477356
 MD5sum: 84884a5806d81f64363de5ca9d0aa212
 SHA1: 3567661d73f4de8910e032ef73fee7e4f2bbc4e8
@@ -240,7 +344,7 @@ Size: 16884
 MD5sum: 377ac99118b04bdf47ba0a16418ddfa3
 SHA1: ed0297e79f4f4d1b40ad70222c20410ba374f206
 SHA256: 8e1c2dab99ce5e1dd318bf898640ca31c30c1e61d8bbee4c8512c2f009125a8d
-Section: System
+Section: Tweaks
 Description: Delete and disable OTA badge
 Author: ichitaso
 Depiction: https://doplx.github.io/repo/
@@ -555,7 +659,7 @@ Size: 595252
 MD5sum: fb23823d66544ea0f3fd199e99736053
 SHA1: 8de1cfc44d965745d2e4e3cf4bc8f645d33934c0
 SHA256: c3744d8897ad14d330142b8703908713a40cafd0c44dcb89b2cf25973103d8d7
-Section: System
+Section: Tweaks
 Description: AltDaemon allows AltStore to install and refresh apps without a computer. (for rootless/Ellekit)
 Tag: compatible_min::ios12.2
 Author: Riley Testut <support@altstore.io>
@@ -587,7 +691,7 @@ Package: com.thetimeloop.Echoes
 Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: timeloop
-Filename: ./debs/com.thetimeloop.Echoes_2.0_iphoneos-arm64.deb
+Filename: https://mega.nz/file/XyBzHA6S#aK2WtA7pidlDfctr77B17pNtU0uXPxL5tn89G-5GWig
 Size: 47649636
 MD5sum: 2a6be9ab933ec1d1900bdfaa16c1ab12
 SHA1: 2fed93372ae374713dc65e1f3ecae8abfbc53769
@@ -699,57 +803,6 @@ Description: Quick Emoji Access Bar. Updated for rootless iOS 15 & 16.
 Author: CP Digital Darkroom <djservicesri@gmail.com>
 Name: Barmojiوصول سريع للأيموجي أسفل الكيبورد
 ‏Depiction: https://doplx.github.io/repo/
-
-Package: iOSGods.com.CarXStreet
-Version: 0.9.4+iOSGods.com
-Architecture: iphoneos-arm
-Maintainer: iOSGods.com
-Installed-Size: 6412
-Depends: mobilesubstrate
-Filename: ./debs/iOSGods.com.CarXStreet_0.9.4iOSGods.com_iphoneos-arm.deb
-Size: 1876814
-MD5sum: efa0d184c70aa3e8dfaefa2d5fc446f7
-SHA1: b5d9b39a3a23df67863f6460089229c8d0ad1c13
-SHA256: 7f4457fc2f38ff0f4f98921dcc917b43dc06d45ecdefbe49d5ee27b0b4efd557
-Section: Hacks
-Description: CarX Street iGMM Cheats by Zahir
-Author: Zahir
-Name: CarX Street⭐️تهكير لعبة 
-‏Depiction: https://doplx.github.io/repo/
-
-Package: iOSGods.com.StumbleGuys
-Version: 0.53.1+iOSGods.com
-Architecture: iphoneos-arm
-Maintainer: iOSGods.com
-Installed-Size: 6412
-Depends: mobilesubstrate
-Filename: ./debs/iOSGods.com.StumbleGuys_0.53.1iOSGods.com_iphoneos-arm.deb
-Size: 1877746
-MD5sum: c9ad7a869af3061af62fa47e8c5982d5
-SHA1: b341e5879d4ab98147db7ed5babb6b0aba6e94ce
-SHA256: 6ba6f655e9685efed05e3f08fca9b75eced60a5135a23cf4edb37550441eae0a
-Section: Hacks
-‏Depiction: https://doplx.github.io/repo/
-Description: Stumble Guys iGMM Cheats by TimidNova 
-Author: TimidNova
-Name: Stumble Guys⭐️تهكير لعبة
-
-Package: iOSGods.com.subwaygl
-Version: 3.16.1+iOSGods.com
-Architecture: iphoneos-arm
-Maintainer: iOSGods.com
-Installed-Size: 6412
-Depends: mobilesubstrate
-Filename: ./debs/iOSGods.com.subwaygl_3.16.1iOSGods.com_iphoneos-arm.deb
-Size: 1875236
-MD5sum: 53a8ee51950879a91729ef553b97b408
-SHA1: 00dbeedc21057edb0812475948ded286ac855366
-SHA256: cc6991b99aa0248b091bc33faeb5a7a16de3a4150b43f81c126113c88612e6b9
-Section: Hacks
-‏Depiction: https://doplx.github.io/repo/
-Description: Subway Surfers iGMM Cheats by AlyssaX64 
-Author: AlyssaX64
-Name: Subway Surfers⭐️تهكير لعبة
 
 Package: jp.dcsyhi.zetsurootless15
 Version: 1.2
@@ -958,7 +1011,7 @@ Size: 422038
 MD5sum: 9d66183da0d32a51c277dc3e4ef291f8
 SHA1: f92d609dc6680d543bd90812dcb51632a3aca20b
 SHA256: 6d9b944f26a4b09e35c586d48fd4a6ff77db1e9cea39d102deaf2a516ed27620
-Section: System
+Section: Tweaks
 Description: Framework for Hyperixa tweaks
 Author: Hyperixa
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/hyperixakit.png
@@ -1035,25 +1088,6 @@ Description: Process Viewer for iOS GUI, updated for iOS 15 by zp.
 Author: Domo, SXX , zp
 Name: CocoaTop64عرض عمليات نظام التشغيل
 ‏Depiction: https://doplx.github.io/repo/
-
-Package: com.squ1dd13.cleo
-Version: 2.6.0
-Architecture: iphoneos-arm
-Maintainer: squ1dd13
-Depends: mobilesubstrate
-Conflicts: com.squ1dd13.csios, com.squ1dd13.zinc, com.brend0n.gtasa60fps
-Replaces: com.squ1dd13.csios, com.squ1dd13.zinc
-Provides: com.squ1dd13.csios, com.squ1dd13.zinc
-Filename: ./debs/cleo-v2.6.0-stable.deb
-Size: 3025584
-MD5sum: d7031b16115999ef1563a9a4d522c44c
-SHA1: 5b8b999bea68468d63f294fbe6e73c413e5493ac
-SHA256: ce705d9187e9a9a773291042722eb79140708f5688ffdbf5f38172c51e2430da
-Section: Hacks
-Description: CLEO for GTA:SA. Now with extra Rust!
-Author: squ1dd13
-Name: CLEO ModMenu⭐️هاك لعبة سان أندريس
-Depiction: https://doplx.github.io/repo/
 
 Package: emt.paisseon.erika
 Version: 1.13.3
@@ -1749,23 +1783,6 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://doplx.github.io/repo/
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 Name: Watusi 3ميزات عديدة للواتس
-
-Package: com.gamegod.igg.rootless
-Version: 0.4.2.1
-Architecture: iphoneos-arm64
-Maintainer: iGameGod
-Installed-Size: 195060
-Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
-Filename: ./debs/com.gamegod.igg.rootless_0.4.2.1_iphoneos-arm64.deb
-Size: 36601528
-MD5sum: d4310c546a0f8b534006f7cbd0ca03f6
-SHA1: 851421b409f7465fc8c004da3507270633530abb
-SHA256: 4a3b3bb3b1dc907bcaa1fc5ad6b37454d73dbb40b8df52b9c95ab4ecba3287f7
-Section: Tweaks
-Description: Be the god of your games!
-Author: iGameGod
-Name: iGameGodتهكير الألعاب والتطبيقات
-Depiction: https://doplx.github.io/repo/
 
 Package: com.ginsu.comet
 Version: 1.0.4
