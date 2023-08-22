@@ -1183,6 +1183,7 @@ Description: A command-line IPA app installer.
 Tag: role::enduser, purpose::console
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: (App Installer)تثبيت التطبيقات بدون شهادة
 
 Package: ai.akemi.appsyncunified
