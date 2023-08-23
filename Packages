@@ -23,7 +23,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: mobilesubstrate
-Filename: ./debs/xyz.cypwn.ena_1.0.1_iphoneos-arm64.deb
+Filename: ./debs/xyz.cypwn.ena_1.0.1_iphoneos-arm64.deb
 Size: 61925772
 MD5sum: 018ac31ba33bdd8d0b9d0a98d920ed07
 SHA1: dee9f079c9dfbf234766b5fbff5bbc299667faf1
