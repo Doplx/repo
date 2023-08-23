@@ -23,17 +23,18 @@ Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: mobilesubstrate
-Filename: ./debs/xyz.cypwn.ena_1.0.1_iphoneos-arm64.deb
-Size: 61971558
-MD5sum: e9d842d21c96afe4f03e311c32080abf
-SHA1: 03deb70f235e52acf4a583119e68bc2c084cb93b
-SHA256: 59e2614dc643b104df6900064f17c09170c6d8135634dc629e02b7bf2a534c91
+Filename: ./debs/xyz.cypwn.ena_1.0.1_iphoneos-arm64.deb
+Size: 61925772
+MD5sum: 018ac31ba33bdd8d0b9d0a98d920ed07
+SHA1: dee9f079c9dfbf234766b5fbff5bbc299667faf1
+SHA256: 58fd3396ce1cf78702598a0c1721b4c4c878cc2b6922ede42625b5b90d9bea61
 Section: Tweaks
 Description: Extract Nearly Anything
 Author: x1a0
 Depiction: https://doplx.github.io/repo/
 Icon: https://media.havoc.app/64a42e09e02881606102d9ed
 Name: ENA - إستخراج الملصقات من الصور
+Sileodepiction: https://doplx.github.io/repo/
 
 Package: com.tomaszpoliszuk.colorpickerwell
 Version: 1.0.0
