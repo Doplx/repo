@@ -18,24 +18,6 @@ Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/albummanager/icon@3x.png
 Name: AlbumManagerقفل الألبومات برمز الحماية
 
-Package: xyz.cypwn.ena
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate
-Filename: ./debs/xyz.cypwn.ena_1.0.1_iphoneos-arm64.deb
-Size: 61925772
-MD5sum: 018ac31ba33bdd8d0b9d0a98d920ed07
-SHA1: dee9f079c9dfbf234766b5fbff5bbc299667faf1
-SHA256: 58fd3396ce1cf78702598a0c1721b4c4c878cc2b6922ede42625b5b90d9bea61
-Section: Tweaks
-Description: Extract Nearly Anything
-Author: x1a0
-Depiction: https://doplx.github.io/repo/
-Icon: https://media.havoc.app/64a42e09e02881606102d9ed
-Name: ENA - إستخراج الملصقات من الصور
-Sileodepiction: https://doplx.github.io/repo/
-
 Package: com.tomaszpoliszuk.colorpickerwell
 Version: 1.0.0
 Architecture: iphoneos-arm64
