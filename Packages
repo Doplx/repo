@@ -1,4 +1,211 @@
 
+Package: xyz.cypwn.crane
+Version: 1.3.11-5
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/xyz.cypwn.crane_1.3.11-5_iphoneos-arm64.deb
+Size: 879098
+MD5sum: 8cb2638b26aa0843b752191f6b7a9061
+SHA1: a791e38fd3b84c3a884490765d2dd95699e2935d
+SHA256: 1dfbc036f909b37365bd5f7e9ad61510ae17af7a4fedafc3b759c9d908d7daa1
+Section: Tweaks
+Description: Multiple containers for your applications!
+Author: opa334
+Icon: https://media.havoc.app/61ffad4e82c2e1d835f525ba
+Depiction: https://doplx.github.io/repo/
+Name: Name: Craneفتح عدة حسابات بالتطبيق
+
+Package: com.cydiageek.gyrationapps
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/gyrationapps_1.0.0_iphoneos-arm64.deb
+Size: 5508
+MD5sum: 0086ef94f39f8bfa1c4acfc7fc0f8854
+SHA1: 07fa4d43a75549b697aa757bcd7e18512e1f2b99
+SHA256: 761e6134fd83606c49913ebd5ee1e5a37adb82d0def3f3d28106e45569ed1cf9
+Section: Tweaks
+Priority: optional
+Description: Rotation Over All Apps/Custom Select Blacklist
+Tag: purpose::extension
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Dev: lucaluca86
+Name: GyrationAppsحزمة أساسية لأداة دوران الشاشة
+
+Package: com.itznebbs.phoenix
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Nebbs
+Installed-Size: 404
+Depends: firmware (>=15.0)
+Filename: ./debs/phoenix-1.0.4-rootless.deb
+Size: 52320
+MD5sum: 23d33d1d03ca56caedfb34f0b1e36b7f
+SHA1: 5ab0058b86047ece564028503c0a7d7c37b0fa6a
+SHA256: fa15689e85353834f5ef383dc8abe67888401d99525ff96282267fb48ce5a0a8
+Section: Development
+Description: Collection of classes used in my tweaks.
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Author: Nebbs
+Name: Phoenix Nebbsحزمة أساسية لأدوات
+
+Package: com.noisyflake.albummanager
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 690
+Depends: firmware (>=15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy, com.opa334.ccsupport
+Filename: ./debs/com.noisyflake.albummanager_1.0.2_iphoneos-arm64.deb
+Size: 105246
+MD5sum: c05ae506f5f19c36d19bcaf04b23ec7e
+SHA1: 7af061c76a3d5ef752b46aaeb312457f229422c0
+SHA256: 6046f1f823763cf775ccaecc24eea640d58d885e502e43fc8fff78e88f35e1f8
+Section: Tweaks
+Description: Organize and protect your photo albums
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: NoisyFlake <support@noisyflake.com>
+Depiction: https://doplx.github.io/repo/
+Icon: https://img.chariz.cloud/icon/albummanager/icon@3x.png
+Name: AlbumManagerقفل الألبومات برمز حماية
+
+Package: com.ps.letmeblock
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), com.opa334.libsandy
+Filename: ./debs/com.ps.letmeblock_1.1.0_iphoneos-arm64.deb
+Size: 5138
+MD5sum: f730151e98cde5ca13ac267b8f04f746
+SHA1: f44bf106981d76ebe5020a6b1c5d7328b4d9e0ce
+SHA256: 82553dc313c5cb5ae2523796d8327f382ef0c07d69f511098aa3a6d7642e4fa5
+Section: Tweaks
+Description: Make mDNSResponder care more about /etc/hosts
+Author: PoomSmart
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Name: LetMeBlockحجب الإعلانات من التطبيقات
+
+Package: com.ps.ytvideooverlay
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.ps.ytvideooverlay_1.1.0-1_iphoneos-arm64.deb
+Size: 9494
+MD5sum: 1ac0c6106d7d02a9aaf2f8175e6d040d
+SHA1: bcebbf19ce60cb30c78719adf806acf25d6f5b34
+SHA256: a211e4f55f6084d50f84063865d289c40bd947ab8f523588ed15878865058696
+Section: Tweaks
+Description: A helper tweak to add buttons on YouTube video overlay.
+Author: PoomSmart
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Name: YTVideoOverlayحزمة أساسية لأداة يوتيوب
+
+Package: com.qiop1379.swipeextenderx
+Version: 1.6.1
+Architecture: iphoneos-arm64
+Maintainer: qwertyuiop1379 <support@qwertyuiop1379.com>
+Installed-Size: 656
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.qiop1379.swipeextenderx_1.6.1_iphoneos-arm64.deb
+Size: 85714
+MD5sum: dd0d83d3c538fe916567a9bbbb6c5b8c
+SHA1: 2d086082e6dcfe2d268d192b450f0caaef0ec580
+SHA256: ca352a47779d2ed3a3cb780ead20e56c7f05b4074c7c43e98a0209c082c2cd7e
+Section: Tweaks
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Author: qwertyuiop1379 <support@qwertyuiop1379.com>
+Depiction: https://doplx.github.io/repo/
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Name: SwipeExtenderXإضافة ميزة السحب للكيبورد
+
+Package: openssh-server
+Version: 9.2p1
+Architecture: iphoneos-arm64
+Maintainer: Procursus Team <support@procurs.us>
+Installed-Size: 1356
+Depends: libiosexec1 (>= 1.2.2), libssl3, openssh-client (= 9.2p1), openssh-sftp-server, libcrypt2, libpam2, libmd0
+Conflicts: com.midnightchips.localhostssh, openssh (<< 1:0)
+Replaces: openssh (<< 1:0)
+Filename: ./debs/openssh-server_9.2p1_iphoneos-arm64.deb
+Size: 389364
+MD5sum: 3aed815f6a0c9ec9e27c22ab58202e2a
+SHA1: 113dedd971395d2bc262cc005255ec2d15f2c7db
+SHA256: 7dfe06241fc4357b3802055b61a109ad0c379ba0680876aa4a4a379a78e8bdfe
+Section: Development
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Priority: important
+Description: secure shell (SSH) server, for secure access from remote machines
+
+Package: packix-keyring
+Version: 2021.07.19
+Architecture: all
+Maintainer: Procursus Team <support@procurs.us>
+Installed-Size: 4
+Filename: ./debs/packix-keyring_2021.07.19_all.deb
+Size: 2962
+MD5sum: d5265f8bd8d1e672181a2b9679ee1732
+SHA1: adb52a79dc6043080545c2b31008c9b815d0a06c
+SHA256: 663eedeba231a874e065fd4107f5ed29f2217dad9dada9aef54d250b7a77da89
+Section: Development
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Priority: optional
+Description: GnuPG keys for the Packix repository
+
+Package: se.geometric.graphite
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: pwnd2e
+Installed-Size: 656
+Depends: firmware (>= 13.0), mobilesubstrate, firmware (<< 17.0)
+Conflicts: com.muris.libgraphite
+Filename: ./debs/se.geometric.graphite_2.0_iphoneos-arm64.deb
+Size: 89184
+MD5sum: 3f0bf4bb7173e01add27befa95e7ba0b
+SHA1: 8555e852d252d4e1dd6f6c49a34bfaae1baded91
+SHA256: 3b3faf058e748c870d7e1d19d26a5378e78847fb38a9f41d8e36c04f373ece70
+Section: Development
+Description: powerful library for iOS development
+Author: Geometric Software
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Name: Graphite Library
+
+Package: u.blanxd.sshswitch
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 389
+Depends: cy+cpu.arm64 | firmware (>= 11), openssh-server (>= 6.2) | openssh (>= 6.2)
+Conflicts: u.blanxd.opensshport (<< 1.0~b3)
+Breaks: u.blanxd.sshoncc (<= 1.4.0)
+Replaces: u.blanxd.sshoncc (<= 1.4.0)
+Filename: ./debs/sshswitch_1.1.0_iphoneos-arm64.deb
+Size: 204936
+MD5sum: 59f97095dc7e6e0056bbe56d8c3aec57
+SHA1: 5138fb662b2d2457e612b7f2734fe71f9155c26a
+SHA256: 27364b4f94f1ee007702a32e09a4bbf0bda667d294f4851cdbf1172384139df7
+Section: Development
+Description: CLI tool for changing OpenSSH settings
+Tag: purpose::console
+Author: BlanxdH <blanxd.h@gmail.com>
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Dev: blanxd
+Name: SSHswitch
+
 Package: com.gamegod.igg.rootless
 Version: 0.4.2.1
 Architecture: iphoneos-arm64
@@ -22,16 +229,16 @@ Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: mobilesubstrate
-Filename: ./debs/xyz.cypwn.ena_1.0.1_iphoneos-arm64.deb
-Size: 61971558
-MD5sum: e9d842d21c96afe4f03e311c32080abf
-SHA1: 03deb70f235e52acf4a583119e68bc2c084cb93b
-SHA256: 59e2614dc643b104df6900064f17c09170c6d8135634dc629e02b7bf2a534c91
+Filename: ./debs/xyz.cypwn.ena_1.0.1_iphoneos-arm64.deb
+Size: 61925692
+MD5sum: 93b74b4590bbafdd82114dec935d8013
+SHA1: bccdad7104e7f5760d3b334bc7b8201e852c8129
+SHA256: cc3907773010db43fe71ae8e7645ff06dda12250db43fe83efcc4f8fc3271c5a
 Section: Tweaks
 Description: Extract Nearly Anything
 Author: x1a0
-Depiction: https://doplx.github.io/repo/
 Icon: https://media.havoc.app/64a42e09e02881606102d9ed
+Depiction: https://doplx.github.io/repo/
 Name: ENAسحب الصور بصيغة ملصقات
 
 Package: com.squ1dd13.cleo
@@ -545,26 +752,6 @@ Name: VolVibesتغيير شكل خفض ورفع الصوت
 Depiction: https://doplx.github.io/repo/
 Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
-Package: com.noisyflake.albummanager
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: NoisyFlake <support@noisyflake.com>
-Installed-Size: 690
-Depends: firmware (>=15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy, com.opa334.ccsupport
-Filename: ./debs/com.noisyflake.albummanager_v1.0.2_iphoneos-arm64.deb
-Size: 55370
-MD5sum: 00ba4c153126f2d124dd870be8eb6923
-SHA1: 6ce1192450e696810980bbd7a05fc0851e3ea6ce
-SHA256: 666931e068513c66067981aed24449cf28c0f36e5c3ee6c07b63666217f604d9
-Section: Tweaks
-Description: Organize and protect your photo albums
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: NoisyFlake <support@noisyflake.com>
-Depiction: https://doplx.github.io/repo/
-Icon: https://img.chariz.cloud/icon/albummanager/icon@3x.png
-Name: AlbumManagerإخفاء الألبومات وقفلها برمز حماية
-Depiction: https://doplx.github.io/repo/
-
 Package: com.opa334.libundirect
 Version: 1.1.5
 Architecture: iphoneos-arm64
@@ -975,24 +1162,6 @@ Description: Randomize your passcode buttons
 Author: Jordan Koch
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/codescrambler15.png
 Name: CodeScrambler15تخصيص أزرار رمز القفل
-
-Package: xyz.cypwn.crane
-Version: 1.3.11-4
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
-Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Filename: ./debs/xyz.cypwn.crane_1.3.11-4_iphoneos-arm64.deb
-Size: 879088
-MD5sum: 93ec5ba992c4239f6cabd0f29ae66ece
-SHA1: 0316dc3ded6677af8ef3c46d75a5f7534eee3f46
-SHA256: 12ed19be703ca2d30d12a99718b99450cf5de5e9f437c18497c5295f9b1221f1
-Section: Tweaks
-Description: Multiple containers for your applications!
-Author: opa334
-‏Depiction: https://doplx.github.io/repo/
-Icon: https://media.havoc.app/61ffad4e82c2e1d835f525ba
-Name: Craneفتح عدة حسابات بالتطبيق
 
 Package: xyz.cypwn.helix
 Version: 1.5
@@ -2889,25 +3058,6 @@ Author: PoomSmart
 Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: YouQualityتحديد جودة فيديوهات اليوتيوب
 Depiction: https://doplx.github.io/repo/
-
-Package: com.qiop1379.swipeextenderx
-Version: 1.6.1~2
-Architecture: iphoneos-arm64
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 614
-Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.qiop1379.swipeextenderx_1.6.1~2_iphoneos-arm64.deb
-Size: 86084
-MD5sum: d4992f8c6db6f8b1ce17c242d3be0d0e
-SHA1: 3beeec5c769e585675e0466e4898fd1eea711c00
-SHA256: 41e789dcae7e3195b1b6a21804aad35a7fcabc5e170acb24fade92ce1c002877
-Section: Tweaks
-Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
-Tag: compatible_min::ios14.0
-Author: MiRO <tweaks_support@miro92.com>
-Depiction: https://doplx.github.io/repo/
-Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
-Name: SwipeExtenderXإضافة ميزة السحب للكيبورد
 
 Package: com.rpgfarm.a-font
 Version: 1.10
