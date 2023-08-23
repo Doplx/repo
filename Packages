@@ -6,16 +6,34 @@ Maintainer: NoisyFlake <support@noisyflake.com>
 Installed-Size: 690
 Depends: firmware (>=15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy, com.opa334.ccsupport
 Filename: ./debs/com.noisyflake.albummanager_1.0.2_iphoneos-arm64.deb
-Size: 55524
-MD5sum: 3e68590ea8385c1128321d458afb988f
-SHA1: 5d28749f318017af82224d02bc1e3549b382d388
-SHA256: 5c22463e3dd2070d2dc31d693bec616e46b2abf6fee08167e47f05e80402a277
+Size: 55668
+MD5sum: ee3b1f95b14f4a238242ec76f521aef5
+SHA1: b8b3f417154ffcafdb9e3a4bd4dba3bd8d7774d5
+SHA256: df59c83c6a24026ad4a3ef7ba4562ab1b2284bcbc70f00b8d99bab978469e03e
 Section: Tweaks
 Description: Organize and protect your photo albums
+Tag: compatible_min::ios15.0
 Author: NoisyFlake <support@noisyflake.com>
-Icon: https://img.chariz.cloud/icon/albummanager/icon@3x.png
-Name: AlbumManagerقفل الألبومات برمز المرور
 Depiction: https://doplx.github.io/repo/
+Icon: https://img.chariz.cloud/icon/albummanager/icon@3x.png
+Name: AlbumManagerقفل الألبومات برمز الحماية
+
+Package: xyz.cypwn.ena
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: ./debs/xyz.cypwn.ena_1.0.1_iphoneos-arm64.deb
+Size: 61971558
+MD5sum: e9d842d21c96afe4f03e311c32080abf
+SHA1: 03deb70f235e52acf4a583119e68bc2c084cb93b
+SHA256: 59e2614dc643b104df6900064f17c09170c6d8135634dc629e02b7bf2a534c91
+Section: Tweaks
+Description: Extract Nearly Anything
+Author: x1a0
+Depiction: https://doplx.github.io/repo/
+Icon: https://media.havoc.app/64a42e09e02881606102d9ed
+Name: ENA - Extract Nearly Anythingسحب الصورة كملصق
 
 Package: com.tomaszpoliszuk.colorpickerwell
 Version: 1.0.0
