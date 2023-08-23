@@ -1,4 +1,22 @@
 
+Package: com.noisyflake.albummanager
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 690
+Depends: firmware (>=15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy, com.opa334.ccsupport
+Filename: ./debs/com.noisyflake.albummanager_1.0.2_iphoneos-arm64.deb
+Size: 55524
+MD5sum: 3e68590ea8385c1128321d458afb988f
+SHA1: 5d28749f318017af82224d02bc1e3549b382d388
+SHA256: 5c22463e3dd2070d2dc31d693bec616e46b2abf6fee08167e47f05e80402a277
+Section: Tweaks
+Description: Organize and protect your photo albums
+Author: NoisyFlake <support@noisyflake.com>
+Icon: https://img.chariz.cloud/icon/albummanager/icon@3x.png
+Name: AlbumManagerقفل الألبومات برمز المرور
+Depiction: https://doplx.github.io/repo/
+
 Package: com.tomaszpoliszuk.colorpickerwell
 Version: 1.0.0
 Architecture: iphoneos-arm64
