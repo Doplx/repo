@@ -1,4 +1,24 @@
 
+Package: com.tomaszpoliszuk.colorpickerwell
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 198
+Depends: firmware (>= 9.0), org.thebigboss.libcolorpicker | firmware (>= 14.0)
+Filename: ./debs/colorpickerwell_1.0.0_iphoneos-arm64.deb
+Size: 33932
+MD5sum: a2aa9b989fc3cec4e4c107d1d86756ba
+SHA1: e17821fed9407b9e2e2d5028cfd59b20ec21592b
+SHA256: 1d094fb2c23d4e4330d0d334f6fbf4a3eb5e48ca66fe0c9f4138afd61e861a2c
+Section: Development
+Description: Color picker framework for developers
+Tag: role::developer
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Dev: tomaszpoliszuk
+Name: Color Picker Well
+
 Package: xyz.cypwn.crane
 Version: 1.3.11-5
 Architecture: iphoneos-arm64
@@ -56,20 +76,20 @@ Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Author: Nebbs
 Name: Phoenix Nebbsحزمة أساسية لأدوات
 
-Package: com.noisyflake.albummanager
+Package: com.flake.albummanager
 Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: NoisyFlake <support@noisyflake.com>
 Installed-Size: 690
 Depends: firmware (>=15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy, com.opa334.ccsupport
-Filename: ./debs/com.noisyflake.albummanager_1.0.2_iphoneos-arm64.deb
-Size: 105246
-MD5sum: c05ae506f5f19c36d19bcaf04b23ec7e
-SHA1: 7af061c76a3d5ef752b46aaeb312457f229422c0
-SHA256: 6046f1f823763cf775ccaecc24eea640d58d885e502e43fc8fff78e88f35e1f8
+Filename: ./debs/com.flake.albummanager_1.0.2_iphoneos-arm64.deb
+Size: 102942
+MD5sum: 60cb6de80e11c3bf8e1940b8dce42a53
+SHA1: 3565be0200dc05fd5b3f10273cb3e479c24dd905
+SHA256: 531a3377a6dd36f9f700c79fbb274339fd40ae9964f8d7c18198f46969fe07cc
 Section: Tweaks
 Description: Organize and protect your photo albums
-Tag: cydia::commercial, compatible_min::ios15.0
+Tag: compatible_min::ios15.0
 Author: NoisyFlake <support@noisyflake.com>
 Depiction: https://doplx.github.io/repo/
 Icon: https://img.chariz.cloud/icon/albummanager/icon@3x.png
@@ -229,7 +249,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: mobilesubstrate
-Filename: ./debs/xyz.cypwn.ena_1.0.1_iphoneos-arm64.deb
+Filename: ./debs/xyz.cypwn.ena_1.0.1_iphoneos-arm64.deb
 Size: 61925692
 MD5sum: 93b74b4590bbafdd82114dec935d8013
 SHA1: bccdad7104e7f5760d3b334bc7b8201e852c8129
@@ -3687,6 +3707,7 @@ SHA1: edaaf4766eeafcbc2186eecdc99a519b8eca2ed5
 SHA256: 5d354834ad5d44fcd2c1e3bdb4d082c25df6f8ba48f837745c2be1aec3f8f981
 Section: Tweaks
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Author: TIGI Software
 Name: Filza FileManager64Ⓜ️مدير الملفات
 
