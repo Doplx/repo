@@ -1,4 +1,97 @@
 
+Package: com.f0u4d.watusitools
+Version: 2.4.13
+Architecture: iphoneos-arm64
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 10.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.4.13_iphoneos-arm64.deb
+Size: 4630636
+MD5sum: ecd06c18df3cc176c1ca5b425f91931f
+SHA1: 98b9a11872a813f3522d517f857b99f9eeaf58bd
+SHA256: e77ec554ccf819b3b330302687353497184f8d3a861303907d04d32ff5f81552
+Section: Addons
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Name: WatusiToolsأداة مهمة لعمل
+
+Package: com.fouadraheb.watusi3
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6588
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.13)
+Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi3_1.2.1_iphoneos-arm64.deb
+Size: 1962532
+MD5sum: 2ebea2598b94244535c86780852675fa
+SHA1: 3ad3935e1a54ed4954e1271a4ae80753244092a9
+SHA256: a2ae0f6829b06b4c5fb65da8916f2051ff25b2b635aa30c947c60019733c6634
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Name: Watusi 3ميزات عديدة للواتس
+
+Package: com.lclrc.hammerit
+Version: 1.3.6
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 2312
+Depends: mobilesubstrate, com.opa334.altlist, com.opa334.ccsupport, firmware (>= 14.0)
+Filename: ./debs/com.lclrc.hammerit_1.3.6_iphoneos-arm64.deb
+Size: 454582
+MD5sum: c4a4132ede8a8c7653cc27dcb3c2f0c6
+SHA1: a8a4058b6d6d964f5caf68394ba5179c5b76f715
+SHA256: f5db8fde75b1b77dbc64af6c0dde0b0a2618355db968a964a860fc9f666b6bb1
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Name: Hammer Itتغيير نصوص النظام
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+
+Package: com.lclrc.squidgesture
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 916
+Depends: mobilesubstrate, firmware (>= 14.0), com.opa334.altlist
+Filename: ./debs/com.lclrc.squidgesture_1.2.0_iphoneos-arm64.deb
+Size: 167282
+MD5sum: 766f5f01c36a7739a6ee63a9593703f0
+SHA1: 3dff0cf22b47037962a41fb465b7b95be853d088
+SHA256: 51952bc7dfc0deac97ff19b405042ae0e953dfad7f094cf50f010a7da2e81d93
+Section: Tweaks
+Description: Gestures
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/SquidGesturePrefs.bundle/SquidGesture@3x.png
+Depiction: https://doplx.github.io/repo/
+Name: SquidGesture Activatorأداة شبيهةب
+
+Package: me.lightmann.iamlazy
+Version: 2.5.1
+Architecture: iphoneos-arm64
+Maintainer: Lightmann <lightmanns11@gmail.com>
+Installed-Size: 518
+Depends: apt, uikittools, firmware (>= 13.0)
+Conflicts: me.lightmann.iamlazy-cli
+Filename: ./debs/me.lightmann.iamlazy_2.5.1_iphoneos-arm64.deb
+Size: 177384
+MD5sum: 97fbaa495684bb769cc8d6bc8df53836
+SHA1: e9c29ec828d1b61c5d920b8a9d87daafa71c3c4f
+SHA256: 1f4fac87ed2eafe1ce62b27dba31d7a951ed5e178e6ce8a83077d1560cbf8f63
+Section: Tweaks
+Description: Easily backup and restore your tweaks
+Tag: compatible_min::ios13.0
+Author: Lightmann <lightmanns11@gmail.com>
+Depiction: https://doplx.github.io/repo/
+Icon: https://img.chariz.cloud/icon/iamlazy/icon@3x.png
+Name: IAmLazyعمل نسخة إحتياطية للأدوات
+
 Package: com.noisyflake.albummanager
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -1949,24 +2042,6 @@ Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Depiction: https://doplx.github.io/repo/
 Name: Stalkyتحميل حالات الواتس 
 
-Package: com.f0u4d.watusitools
-Version: 2.4.12
-Architecture: iphoneos-arm64
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 10.0), darwintools
-Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
-Filename: ./debs/com.f0u4d.watusitools_2.4.12_iphoneos-arm64.deb
-Size: 4629736
-MD5sum: ea9e384d850f8f38941d19bac738f420
-SHA1: ed6b0913f276e8cc1da10403bea02f714d3ecf7e
-SHA256: 36d7e6724d2cece62e323bca3ee20e68d99078115cbd38938d84d51f768feb9b
-Section: Addons
-Description: Library for Watusi and WhatsApp tweaks
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://doplx.github.io/repo/
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-Name: WatusiToolsأداة مهمة لعمل
-
 Package: com.fouadraheb.contactsync
 Version: 1.1.5
 Architecture: iphoneos-arm64
@@ -1985,26 +2060,6 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://doplx.github.io/repo/
 Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: ContactSyncسحب صور الواتس لجهات الإتصال 
-
-Package: com.fouadraheb.watusi3
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6580
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.12)
-Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
-Filename: ./debs/com.fouadraheb.watusi3_1.2_iphoneos-arm64.deb
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-Size: 1960874
-MD5sum: e2911ef4e169de951559af175de1a591
-SHA1: 71cbc0f237800934b6bfec497b7844e85b9a3dd9
-SHA256: 3a2c91950966b73e4d4a9820c1619a8b1a066f9b38b7c65511ff6e7981ecb146
-Section: Tweaks
-Description: The all-in-one tweak for WhatsApp Messenger
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://doplx.github.io/repo/
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-Name: Watusi 3ميزات عديدة للواتس
 
 Package: com.ginsu.comet
 Version: 1.0.4
@@ -2407,25 +2462,6 @@ Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: CCCalcإختصار الحاسبة لمركز التحكم
 Section: Tweaks
 
-Package: com.lclrc.hammerit
-Version: 1.3.4
-Architecture: iphoneos-arm64
-Maintainer: lclrc(SquidForce)
-Installed-Size: 2288
-Depends: mobilesubstrate, com.opa334.altlist, com.opa334.ccsupport, firmware (>= 14.0)
-Filename: ./debs/com.lclrc.hammerit_1.3.4_iphoneos-arm64.deb
-Size: 439772
-MD5sum: 6df4657c99a53eff24f7a8816cbd5576
-SHA1: 66338697f897ed569bd7b5ef7853106a05993bfb
-SHA256: 4b4579237e56864b4b0f17fb2853ffe4bfa4c4afc58f2abf4ac5dbe8a406ccc3
-Section: Tweaks
-Description: Control your text or translate as you wish.
-Author: lclrc(SquidForce)
-Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
-Name: Hammer Itتغيير نصوص النظام
-Depiction: https://doplx.github.io/repo/
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-
 Package: com.lclrc.mdaus.latchkey
 Version: 2.3.2
 Architecture: iphoneos-arm64
@@ -2443,23 +2479,6 @@ Author: Maxwell Dausch <max.dausch@gmail.com>
 Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Depiction: https://doplx.github.io/repo/
 Name: Latchkeyتغير شعار قفل بصمة الوجه
-
-Package: com.lclrc.squidgesture
-Version: 1.1.3
-Architecture: iphoneos-arm64
-Maintainer: lclrc(SquidForce)
-Installed-Size: 796
-Depends: mobilesubstrate, firmware (>= 14.0), com.opa334.altlist
-Filename: ./debs/com.lclrc.squidgesture_1.1.3_iphoneos-arm64.deb
-Size: 146146
-MD5sum: a9cc40e887d2146be0f81e809f6553bf
-SHA1: 1ffd74ed0b253da66f21b25f4fea158df3f9e4a9
-SHA256: de554a616439fc3f3c2a1701fba19f94b94803bdca8bb832a61e38ac2f852a54
-Section: Tweaks
-Description: Gestures
-Author: lclrc(SquidForce)
-Icon: file:///var/jb/Library/PreferenceBundles/SquidGesturePrefs.bundle/SquidGesture@3x.png
-Name: SquidGesture Activatorأداة شبيهةب
 
 Package: com.level3tjg.10passcode
 Version: 1.0
