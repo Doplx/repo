@@ -18,7 +18,7 @@ Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
 Depiction: https://doplx.github.io/repo/
 Dev: lucaluca86
-Icon: file:///var/jb/Library/PreferenceBundles/Gyration.bundle/Gyration@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: GyrationAppsحزمة أساسية لأداة دوران الشاشة
 
 Package: com.fouadraheb.contactsync
@@ -36,7 +36,7 @@ Section: Tweaks
 Description: Sync WhatsApp Profile Pictures to your Contacts
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://doplx.github.io/repo/
-Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: ContactSyncسحب صور الواتس لجهات الإتصال 
 
 Package: com.foxfort.picarize
@@ -53,7 +53,7 @@ SHA256: f46cd7f46a8455bd64802a3ed1199c15e41aa928bd1d389839cde84acff293e2
 Section: Tweaks
 Description: Remove background from image
 Author: FoxfortMobile
-Icon: file:///Library/PreferenceBundles/picarizesettings.bundle/icon@3x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Depiction: https://doplx.github.io/repo/
 Name: Picarizeإستخراج الملصقات من الصور
 
@@ -72,6 +72,7 @@ SHA256: 0620dd6188fea4f5f6deb0e6ee7164cc842246583344585c58ac26a1b5dbf14c
 Section: Tweaks
 Description: Set custom snooze times, skip alarms, and more with SleeperX.
 Author: Joshua Seltzer <joshua.seltzer90@gmail.com>
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Depiction: https://doplx.github.io/repo/
 Name: SleeperXتخصيص صوت المنبه ومدة الغفوة
 
@@ -129,6 +130,7 @@ SHA256: b1eddd97876efc797e6e8368b407a27bd190db2cca4f780eb01f8cdd063d21fd
 Section: Tweaks
 Description: Stage Manager Reimagined for iPhone
 Author: tomt000
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Depiction: https://doplx.github.io/repo/
 Name: Dynamic Stageإضافة جميلة لتعدد المهام
 
