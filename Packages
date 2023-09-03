@@ -1,4 +1,113 @@
 
+Package: xyz.cypwn.cachemagic
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 180
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/xyz.cypwn.cachemagic_1.3.1_iphoneos-arm64.deb
+Size: 37992
+MD5sum: f29978390fdbf83da4e387a3ed58360f
+SHA1: 48c36df72dc7931e199a09b4f2dd3787106e3845
+SHA256: 5a2307aadcf46e6f154b3c8fbbde03f56fdfcd53c089027293d305806c9c5181
+Section: Tweaks
+Description: Add a button to your Control Center to clear the cache for the entire system. Simply tap the button and confirm the action to remove all cache files and see how much space you have freed up.
+Author: SOPPPra
+Depiction: https://doplx.github.io/repo/
+Icon: https://i.postimg.cc/cJRLqR79/ss.png
+Name: Cache Magicإختصار لحذف المخلفات
+
+Package: xyz.cypwn.cpumagic
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 224
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/xyz.cypwn.cpumagic_1.0_iphoneos-arm64.deb
+Size: 38114
+MD5sum: db8b58d7ed4a5bcde65bda17d9f2798c
+SHA1: 664bc6183855474195420eaca69c4d7686d5d298
+SHA256: 0aa0a493fe2639cdb646e7c03bc95322e55b7ee4dae33ef61d8646b6f6b46fbc
+Section: Tweaks
+Description: Add cpu info to your control center
+Author: SOPPPra
+Depiction: https://doplx.github.io/repo/
+Icon: https://i.postimg.cc/FzKLczmN/cpu.png
+Name: Cpu Magicإختصار لنسبة الذاكرة العشوائية
+
+Package: xyz.cypwn.killapps
+Version: 1.7.8
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 432
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, com.mrgcgamer.libgcuniversal
+Filename: ./debs/xyz.cypwn.killapps_1.7.8_iphoneos-arm64.deb
+Size: 164454
+MD5sum: 6f33abb36b532f42eb7a986622303559
+SHA1: 3f6711715bcf47fed45f1be044f215f31e486992
+SHA256: 82eb7c7d596051bae575853bdf92aff83b71f23d2f8820d4de480f51b71d71f2
+Section: Tweaks
+Description: Customize your app switcher with a variety of options, including the ability to close apps with a downswipe, adding buttons, a grid switcher, and many other features.
+Author: SOPPPra
+Depiction: https://doplx.github.io/repo/
+Icon: https://i.postimg.cc/hGzV6VSP/icon.png
+Name: killappsإغلاق التطبيقات مرة واحدة
+
+Package: xyz.cypwn.memorymagic
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 216
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/xyz.cypwn.memorymagic_1.1.1_iphoneos-arm64.deb
+Size: 63230
+MD5sum: 9fb5d318bc6108a33773e2e57a666bd5
+SHA1: 72337acf09c05a1d967c3634cc2c2346a77318db
+SHA256: 4b45b0e6fa5a79c76c7eb70f7d3822eff3a2f497b6cf9a16e4025a8f324bb1fa
+Section: Tweaks
+Description: Add ram info to your control center
+Author: SOPPPra
+Depiction: https://doplx.github.io/repo/
+Icon: https://i.postimg.cc/bvXdPFnP/Zerode-Plump-Device-RAM-256.png
+Name: Memory Magicإختصار لنسبة الذاكرة المتاحة
+
+Package: xyz.cypwn.networkmagic
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 176
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/xyz.cypwn.networkmagic_1.0_iphoneos-arm64.deb
+Size: 32100
+MD5sum: de64ba737b3e35b8385bbd2a8bf77a5c
+SHA1: e12b1f12de0cb3553672c1960e6172f0864918f2
+SHA256: 283145fdbeb5ceafd2585d2db16bc555a1af974a269d3799fa8397ccbae366bb
+Section: Tweaks
+Description: Display your current upload and download speeds in the Control Center
+Author: SOPPPra
+Depiction: https://doplx.github.io/repo/
+Icon: https://i.postimg.cc/vTmZX3x4/nwicon.png
+Name: Network Magicإختصار لسرعة الإنترنت
+
+Package: xyz.cypwn.settingsrevamp
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 540
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/xyz.cypwn.settingsrevamp_2.1.1_iphoneos-arm64.deb
+Size: 137814
+MD5sum: 99a967ce56770544e09060c8fe699b73
+SHA1: a5a3353a896e03753e0f984b21076a6237148450
+SHA256: d6247e21fd5fb3b79902f875a7beafc7c32a1948407b3505fdb0cb4db5d05242
+Section: Tweaks
+Description: Customize the ios settings page
+Author: SOPPPra
+Depiction: https://doplx.github.io/repo/
+Icon: https://i.postimg.cc/ry1s499R/icon-3x.png
+Name: SettingsRevampترتيب مظهر الإعدادات
+
 Package: com.cydiageek.gyration
 Version: 1.1.4
 Architecture: iphoneos-arm64
@@ -3509,43 +3618,6 @@ Name: Always120تثبيت الفريمات للتطبيقات
 Sha265: 0a229d63409dff57af1b661ef6958e016312e013eca1dc10b710dfe6136b367d
 Depiction: https://doplx.github.io/repo/
 Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-
-Package: com.sop.cachemagicrootless
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: SOPPPra
-Installed-Size: 180
-Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
-Filename: ./debs/com.sop.cachemagicrootless_1.1_iphoneos-arm64.deb
-Size: 26396
-MD5sum: 9df11da67334bbd1d689ae4bd0f426b7
-SHA1: 14e232dfba696c864d69f9e20116eebf2d998095
-SHA256: 99ad01921d9608d7be076aa6bb791efb5c611c19bdc6e8813f3c336d7bf9dfdf
-Section: Tweaks
-Description: Add a button to your Control Center to clear the cache for the entire system. Simply tap the button and confirm the action to remove all cache files and see how much space you have freed up.
-Author: SOPPPra
-Icon: https://i.postimg.cc/cJRLqR79/ss.png
-Name: Cache Magicإختصار لحذف المخلفات
-Depiction: https://doplx.github.io/repo/
-
-Package: com.sop.settingsrevamp
-Version: 2.0.4
-Architecture: iphoneos-arm64
-Maintainer: SOPPPra
-Installed-Size: 540
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets
-Filename: ./debs/com.sop.settingsrevamp_2.0.4_iphoneos-arm64.deb
-Size: 94310
-MD5sum: 0b482e96e77247e9876e489c7a99a196
-SHA1: 7680681534f3313219979b23dde8a6e478f4be6e
-SHA256: 76a748a96cafb7b990c499ce3d753bbbdda5b40d75fd14bdb8756b40d23c271a
-Section: Tweaks
-Description: Customize the ios settings page
-Author: SOPPPra
-Depiction: https://doplx.github.io/repo/
-Icon: https://i.postimg.cc/ry1s499R/icon-3x.png
-Name: SettingsRevampترتيب مظهر الإعدادات
 
 Package: com.spark.autounlockx
 Version: 1.1.0-rootless
