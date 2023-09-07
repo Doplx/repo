@@ -1,4 +1,116 @@
 
+Package: com.joshuaseltzer.sleeperx
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: Joshua Seltzer <joshua.seltzer90@gmail.com>
+Installed-Size: 1788
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>=15.0), firmware (<<16.0)
+Conflicts: org.thebigboss.sleeper, com.joshuaseltzer.sleeper
+Filename: ./debs/com.joshuaseltzer.sleeperx_1.2.1_iphoneos-arm64.deb
+Size: 149628
+MD5sum: 33c557d4e0336d086e60e25b07a4fe51
+SHA1: f1ba4076f763b59d6bdaceea65cc0777783b6068
+SHA256: f2c7a7335d180ebf575008b1cf8cd2571180dda66320e93a8250a63f4e5a8ee5
+Section: Tweaks
+Description: Set custom snooze times, skip alarms, and more with SleeperX.
+Author: Joshua Seltzer <joshua.seltzer90@gmail.com>
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Depiction: https://doplx.github.io/repo/
+Name: SleeperXتخصيص صوت المنبه ومدة الغفوة
+
+Package: com.opa334.timebomb
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.opa334.timebomb_1.1-2_iphoneos-arm64.deb
+Size: 3236
+MD5sum: acdd35bf010fc93629a84c403aa49827
+SHA1: 5cf8693094f866be03b1feb00c3ce348540595d6
+SHA256: 40df8f89b6c5011bee79b0575a9523e7b615c82b955c202c7f6e1977d24efb84
+Section: Tweaks
+Description: Spinlock timeout with ease!
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Author: opa334
+Name: TimeBomb
+
+Package: com.tigisoftware.appdatamanager
+Version: 1.8.2-5
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 9121
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.tigisoftware.appdatamanager_1.8.2-5_iphoneos-arm64.deb
+Size: 2517772
+MD5sum: 3e41ec0d0b322534b2761532c2754b04
+SHA1: e48337997501ebbd835edbfa859106237460bf4d
+SHA256: 070fe7e0258a52f5408f660fec59e084f24d149903eb0ebf108697e783411348
+Section: Utilities
+Priority: optional
+Description: Tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Tag: purpose::uikit
+Author: TIGI Software <satashi2009@gmail.com>
+Depiction: https://doplx.github.io/repo/
+Dev: satashi2009
+Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Name: Apps ManagerⓂ️مدير التطبيقات
+
+Package: xyz.cypwn.designer
+Version: 1.2.1.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/xyz.cypwn.designer_1.2.1.1_iphoneos-arm64.deb
+Size: 1573012
+MD5sum: b94723a0e584f68f57bbd1f91040eebb
+SHA1: 40dbbcfdbdb0e0232cabacd35c5a5b8491e5f328
+SHA256: d548171ee7eb0e9069b4b6e558b47672574b5493ca089fe9cea11de5c72cd15f
+Section: Addons (Tweaks)
+Description: Design layouts for lockscreen and homescreen
+Author: JunesiPhone
+Depiction: https://doplx.github.io/repo/
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/designer.png
+Name: Designerتصميم شاشة القفل والهوم سكرين
+
+Package: xyz.cypwn.lynxtwo
+Version: 2.4.3
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/xyz.cypwn.lynxtwo_2.4.3_iphoneos-arm64.deb
+Size: 681918
+MD5sum: 5b37d17c224592090eadbe917eb0654a
+SHA1: 2726c5926ddd3cda2f8305d09695bc98bfea84fd
+SHA256: bc06b88a7308c7a134bc1a911a5a382127e5a0b0ca95a2b0a437620c5f08a633
+Section: Tweaks
+Description: Ultimate iDevice Customization for iOS 14+
+Author: MTAC
+Depiction: Depiction: https://doplx.github.io/repo/
+Icon: https://media.havoc.app/61f896da1630a63286dc419c
+Name: Lynx 2التعديل على نظام الأيفون
+
+Package: xyz.cypwn.xinam1ne
+Version: 2.4-4
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate | ellekit, oldabi | xinaa15 | cy+cpu.arm64, firmware (>= 15.0), file, odcctools, plutil, com.tigisoftware.filza64bit (>= 4.0)
+Replaces: emt.paisseon.xinamine, xinamine
+Provides: emt.paisseon.xinamine (= 99), xinamine (= 99)
+Filename: ./debs/xyz.cypwn.xinam1ne_2.4-4_iphoneos-arm64.deb
+Size: 74312
+MD5sum: 4f3175fee453c37ad75de8bb52e07019
+SHA1: 9111dc7c60c5904a71bd40b22d12af84f3644c77
+SHA256: 5ebc4c879913ddcf2ec1ddb9068c0c7d9d3d0da82e837fb65f02b1cf4ade4b75
+Section: Utilities
+Description: Xinamine bundle. Includes linker, patcher, 'chex' link checker, 'chix' link fixer, plus other supporting filza scripts.
+Author: Paisseon, Sudo, NoW4U2Kid
+Depiction: https://doplx.github.io/repo/
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
+Name: Xinam1ne All-in-Oneحزمة مهمة للأدوات
+
 Package: xyz.cypwn.cachemagic
 Version: 1.3.1
 Architecture: iphoneos-arm64
@@ -166,25 +278,6 @@ Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Depiction: https://doplx.github.io/repo/
 Name: Picarizeإستخراج الملصقات من الصور
 
-Package: com.joshuaseltzer.sleeperx
-Version: 1.2.0
-Architecture: iphoneos-arm64
-Maintainer: Joshua Seltzer <joshua.seltzer90@gmail.com>
-Installed-Size: 1788
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>=15.0), firmware (<<16.0)
-Conflicts: org.thebigboss.sleeper, com.joshuaseltzer.sleeper
-Filename: ./debs/com.joshuaseltzer.sleeperx_1.2.0_iphoneos-arm64.deb
-Size: 149790
-MD5sum: ed0f948444958720cd826357ed952bde
-SHA1: ecf576d5606005e133041a8cfe46a0f7d63307fc
-SHA256: 0620dd6188fea4f5f6deb0e6ee7164cc842246583344585c58ac26a1b5dbf14c
-Section: Tweaks
-Description: Set custom snooze times, skip alarms, and more with SleeperX.
-Author: Joshua Seltzer <joshua.seltzer90@gmail.com>
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-Depiction: https://doplx.github.io/repo/
-Name: SleeperXتخصيص صوت المنبه ومدة الغفوة
-
 Package: me.ikghd.youtubekiller
 Version: 1.13
 Architecture: iphoneos-arm64
@@ -337,23 +430,6 @@ Author: iKarwan <ikghd3@gmail.com>
 Depiction: https://doplx.github.io/repo/
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.instakiller.png
 Name: iNstaKillerإضافة ميزات للإنستا
-
-Package: xyz.cypwn.designer
-Version: 1.2.0
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/xyz.cypwn.designer_1.2.0_iphoneos-arm64.deb
-Size: 1488762
-MD5sum: 0d3d972b87756774ea819820ba568367
-SHA1: ef29ba47368e5be1b0ae2d79576b60ab59690411
-SHA256: 2ea117e762c788f907bc23eed9046b3b9755f8cfded5ae4af8cd83724c4d0b0b
-Section: Tweaks
-Description: Design layouts for lockscreen and homescreen
-Author: JunesiPhone
-Depiction: https://doplx.github.io/repo/
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/designer.png
-Name: Designerتصميم شاشة القفل والهوم سكرين
 
 Package: xyz.cypwn.velvet2
 Version: 2.1.2
@@ -3251,24 +3327,6 @@ Name: NotRecordingمنع إكتشاف تصوير الشاشة
 Depiction: https://doplx.github.io/repo/
 Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
-Package: com.opa334.timebomb
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: opa334
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.opa334.timebomb_1.0.1_iphoneos-arm64.deb
-Size: 2778
-MD5sum: cb5477d33c9c33420753d1d9eb8e46a0
-SHA1: 843c81e6433e72123076d7ca3be0f1c763850a83
-SHA256: 30d1e5ec44fe1aaf6bf8bec788036ac6ded88d91be02b0829d12a15248ecc0e6
-Section: Tweaks
-Description: Spinlock timeout with ease!
-Author: opa334
-Name: TimeBomb
-Depiction: https://doplx.github.io/repo/
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-
 Package: com.opa334.whitepointmodule
 Version: 1.2.2
 Architecture: iphoneos-arm64
@@ -3932,27 +3990,6 @@ Author: Fouad Raheb & Netskao
 Depiction: https://doplx.github.io/repo/
 Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
 Name: AppDataميزات عبر الضغط المطول للتطبيق
-
-Package: com.tigisoftware.appdatamanager
-Version: 1.8.2-5
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 9121
-Depends: firmware (>= 7.0), ldid
-Filename: ./debs/appsmanager_1.8.2-5_iphoneos-arm64.deb
-Size: 2517320
-MD5sum: c21dd211678c92b797c45629cadb9f51
-SHA1: e68b83818605efa719084932753444283b971acb
-SHA256: d8ce1ed3d5ca7eea030e65221cc77ffce5a0bf2ae18690a84b02349ec1f0ab64
-Section: Tweaks
-Priority: optional
-Description: Tool to WIPE, BACKUP, RESTORE AppData for installed Apps
-Tag: purpose::uikit
-Author: TIGI Software <satashi2009@gmail.com>
-Depiction: https://doplx.github.io/repo/
-Dev: satashi2009
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-Name: Apps ManagerⓂ️مدير التطبيقات
 
 Package: com.tigisoftware.filza
 Version: 4.0.1-2
@@ -5438,23 +5475,6 @@ Depiction: https://doplx.github.io/repo/
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/little12.png
 Name: Little12 12إيماءات أيفون 
 
-Package: xyz.cypwn.lynxtwo
-Version: 2.4.2
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
-Filename: ./debs/xyz.cypwn.lynxtwo_2.4.2_iphoneos-arm64.deb
-Size: 665554
-MD5sum: 6765746fea9850c5e352d306fbbca5f4
-SHA1: d8c923f62536e1d3c7052448bca564cf68dc4bda
-SHA256: c8d94f0fbb3df09901afc8543e569651efa51c274314d8314b170401bb777c2c
-Section: Tweaks
-Description: Ultimate iDevice Customization for iOS 14+
-Author: MTAC
-Depiction: https://doplx.github.io/repo/
-Icon: https://media.havoc.app/61f896da1630a63286dc419c
-Name: Lynx 2التعديل على نظام الأيفون
-
 Package: xyz.cypwn.panic
 Version: 1.1.2
 Architecture: iphoneos-arm64
@@ -5609,24 +5629,4 @@ Author: CyPwn
 Depiction: https://doplx.github.io/repo/
 Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Watusi Crack🛠كراك أداة واتوسي
-
-Package: xyz.cypwn.xinam1ne
-Version: 2.4-3
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate | ellekit, oldabi | xinaa15 | cy+cpu.arm64, firmware (>= 15.0), file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0)
-Replaces: emt.paisseon.xinamine, xinamine
-Provides: emt.paisseon.xinamine (= 99), xinamine (= 99)
-Filename: ./debs/xyz.cypwn.xinam1ne_2.4-3_iphoneos-arm64.deb
-Size: 121556
-MD5sum: 0d64b3d1625c5e28f93d65a6d01dee0e
-SHA1: 54d416d7af1f30e0bbf2b63b941eef5824392a1e
-SHA256: 7d18711e82868f5701d78a012206f37d31cad02781b04934bef7e3ee29175e72
-Section: Tweaks
-Description: Xinamine bundle. Includes linker, patcher2.4-3, 'chex' link checker, 'chix' link fixer, plus other supporting filza scripts.
-Author: Paisseon, Sudo, NoW4U2Kid
-Depiction: https://doplx.github.io/repo/
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinam1ne.png
-Name: Xinam1ne All-in-Oneحزمة مهمة للأدوات
 
