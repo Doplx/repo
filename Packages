@@ -1,4 +1,186 @@
 
+Package: com.f0u4d.onlinenotify
+Version: 3.4.4
+Architecture: iphoneos-arm64
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 696
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.7)
+Filename: ./debs/com.f0u4d.onlinenotify_3.4.4_iphoneos-arm64.deb
+Size: 182724
+MD5sum: f3e34c09bcadcb74549adeb447704b03
+SHA1: 031be62ca2e7c042af4e5d531c2d165846a0cdcb
+SHA256: dd4aeacdf93806335fd63a3e99325e11bf7912a1fc05aed2820f5d285c0f4473
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Name: OnlineNotifyتتبع ظهور أرقام الواتس
+
+Package: com.fouadraheb.watusi3
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6588
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.13)
+Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi3_1.2.4_iphoneos-arm64.deb
+Size: 1965804
+MD5sum: cb9db3ff6acb2640c35102b9ab4a9048
+SHA1: a17f1c19f64652d53d732b0c8db7760bd5b3b9ea
+SHA256: 372415efc1496748a1c06d76664fc310d24374438644a5e8ff5861c174ae3812
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Name: Watusi 3ميزات عديدة للواتس
+
+Package: com.foxfort.foxforttools
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: FoxfortMobile
+Installed-Size: 1664
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.4.0)
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.foxforttools
+Filename: ./debs/com.foxfort.foxforttools_1.4.3_iphoneos-arm64.deb
+Size: 391130
+MD5sum: 2697acdf5eb7a732b50c8e5ceaf76978
+SHA1: 7e3489773d42eb67b6e28f88627184b67da24d62
+SHA256: af6b0d052a0c596957bdefd9b84a96250456c7952b1cd6f807ff3d0505b2fb4c
+Section: Development
+Description: Helper tools for Foxfort tweaks
+Tag: role::developer
+Author: FoxfortMobile
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Name: FoxFort Tools
+
+Package: com.ginsu.ytmusicultimate
+Version: 1.5.2
+Architecture: iphoneos-arm64
+Maintainer: Ginsu
+Installed-Size: 444
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ginsu.ytmusicultimate_1.5.2_iphoneos-arm64.deb
+Size: 82764
+MD5sum: d6852d1786038073597557b5bd418269
+SHA1: 1372a0c606f9df3cde117529b32784f2036ef537
+SHA256: 2f335daa9d2c4a80bc0996b4f48b5d8d1db85ed75e44f186f7438e811ff2895e
+Section: Tweaks
+Description: YouTube Music Premium
+Author: Ginsu
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.ytmusicultimate/icon.png
+Name: YTMusicUltimateتفعيل يوتيوب ميوزك
+Depiction: https://doplx.github.io/repo/
+
+Package: com.lclrc.hammerit
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 2312
+Depends: mobilesubstrate, com.opa334.altlist, com.opa334.ccsupport, firmware (>= 14.0)
+Filename: ./debs/com.lclrc.hammerit_1.4.0_iphoneos-arm64.deb
+Size: 457252
+MD5sum: d62ca55931316e4bfd3664968a069112
+SHA1: e76f4807253bf07e5e4754326aad723f4734bd0d
+SHA256: 35f0017ac5ed8a1f7b36445ad69aa82464a53dab232564199e51e14a0ec96c0b
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Name: Hammer Itتغيير نصوص النظام
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+
+Package: com.lclrc.squidgesture
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 932
+Depends: mobilesubstrate, firmware (>= 14.0), com.opa334.altlist
+Filename: ./debs/com.lclrc.squidgesture_1.2.4_iphoneos-arm64.deb
+Size: 178640
+MD5sum: 0136502a1b7c6127b68589eca53b6885
+SHA1: dfb7d8135b650cf3f2137139620ac4f7a2c0d1f1
+SHA256: e48190d4f985cd8dc3acf8a9e64d5f4d7b431f4164ff18ae61e1617d84a2fc14
+Section: Tweaks
+Description: Gestures
+Author: lclrc(SquidForce)
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+Depiction: https://doplx.github.io/repo/
+Name: SquidGesture Activatorأداة شبيهةب
+
+Package: com.niceios.nicehelper-rootless
+Version: 5.6-1
+Architecture: iphoneos-arm64
+Maintainer: niceios
+Installed-Size: 2480
+Conflicts: com.niceios.nicehelper
+Filename: ./debs/com.niceios.nicehelper-rootless_5.6-1_iphoneos-arm64.deb
+Size: 1007980
+MD5sum: 8b7a40e6bc5b4d5f623664f99e0f6565
+SHA1: 4e8efebcd103df1c98502fc6fc6db4ffe35e3e14
+SHA256: 35a7d8053902ed0f4c03bf0c247ba627b10b7454ec539dfda324758a22b808e9
+Section: Addons
+Description: niceHelper.
+Author: niceios
+Name: NiceHelperحزمة أساسية لأدوات 
+Depiction: https://doplx.github.io/repo/
+Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
+
+Package: xyz.cypwn.bigshotsnapper3plugin
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 532
+Depends: mobilesubstrate, firmware(>=14.0), com.opa334.ccsupport
+Filename: ./debs/xyz.cypwn.bigshotsnapper3plugin_1.1_iphoneos-arm64.deb
+Size: 38098
+MD5sum: ed5033b5f10b70d88c6078017aa4a90b
+SHA1: d67c4b0421bb99d5e8b5ea78148a8d78c8ef57da
+SHA256: 1589e750a4520069d1b40636603eb7038fccaf834f17aad4a3430e140f99efe9
+Section: Tweaks
+Description: BigShot CC module for iOS 14/15/16 and Snapper 3 plugin. Snapper 3 is NOT required to use this. It can be used as a standalone CC module.
+Author: Jonathan Winger-lang
+Depiction: https://doplx.github.io/repo/
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/bigshotsnapper3.png
+Name: BigShot for Snapper 3إختصار لأداة
+
+Package: xyz.cypwn.crane
+Version: 1.3.12
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/xyz.cypwn.crane_1.3.12_iphoneos-arm64.deb
+Size: 879866
+MD5sum: 90ce7fae0cdaf546ea8690dfa336c971
+SHA1: 327045d27f57966c49ef6bb3685f15fa649e6732
+SHA256: fe82f8d1b18675e23deaeb20325bdd63cefdebbbf4ce538a82c8f03ba5c8a2fa
+Section: Tweaks
+Description: Multiple containers for your applications!
+Author: opa334
+Depiction: https://doplx.github.io/repo/
+Icon: https://media.havoc.app/61ffad4e82c2e1d835f525ba
+Name: Craneفتح عدة حسابات بالتطبيق
+
+Package: xyz.cypwn.debra
+Version: 2.8.5
+Architecture: all
+Maintainer: CyPwn
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/xyz.cypwn.debra_2.8.5_all.deb
+Size: 19502
+MD5sum: a73a24f40df2a15b18fffb62a405a342
+SHA1: c79e1b00b24d5769e0ea10f6df5e37e672a0ed7c
+SHA256: d6bb119578e566c5b2ca0cc1f450f21c9ed9beedcb89c3e9d1120a1832e9e9c4
+Section: Utilities
+Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal. For rooted & rootless jailbreaks.
+Author: Sudo & Paisseon
+Depiction: https://doplx.github.io/repo/
+Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
+Name: Debraأوامر داخل التيرمنال
+
 Package: com.joshuaseltzer.sleeperx
 Version: 1.2.1
 Architecture: iphoneos-arm64
@@ -47,7 +229,7 @@ Size: 2517772
 MD5sum: 3e41ec0d0b322534b2761532c2754b04
 SHA1: e48337997501ebbd835edbfa859106237460bf4d
 SHA256: 070fe7e0258a52f5408f660fec59e084f24d149903eb0ebf108697e783411348
-Section: Utilities
+Section: Tweaks
 Priority: optional
 Description: Tool to WIPE, BACKUP, RESTORE AppData for installed Apps
 Tag: purpose::uikit
@@ -104,7 +286,7 @@ Size: 74312
 MD5sum: 4f3175fee453c37ad75de8bb52e07019
 SHA1: 9111dc7c60c5904a71bd40b22d12af84f3644c77
 SHA256: 5ebc4c879913ddcf2ec1ddb9068c0c7d9d3d0da82e837fb65f02b1cf4ade4b75
-Section: Utilities
+Section: Tweaks
 Description: Xinamine bundle. Includes linker, patcher, 'chex' link checker, 'chix' link fixer, plus other supporting filza scripts.
 Author: Paisseon, Sudo, NoW4U2Kid
 Depiction: https://doplx.github.io/repo/
@@ -468,61 +650,6 @@ Depiction: https://doplx.github.io/repo/
 Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: WatusiToolsأداة مهمة لعمل
 
-Package: com.fouadraheb.watusi3
-Version: 1.2.1
-Architecture: iphoneos-arm64
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6588
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.13)
-Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
-Filename: ./debs/com.fouadraheb.watusi3_1.2.1_iphoneos-arm64.deb
-Size: 1962532
-MD5sum: 2ebea2598b94244535c86780852675fa
-SHA1: 3ad3935e1a54ed4954e1271a4ae80753244092a9
-SHA256: a2ae0f6829b06b4c5fb65da8916f2051ff25b2b635aa30c947c60019733c6634
-Section: Tweaks
-Description: The all-in-one tweak for WhatsApp Messenger
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://doplx.github.io/repo/
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-Name: Watusi 3ميزات عديدة للواتس
-
-Package: com.lclrc.hammerit
-Version: 1.3.6
-Architecture: iphoneos-arm64
-Maintainer: lclrc(SquidForce)
-Installed-Size: 2312
-Depends: mobilesubstrate, com.opa334.altlist, com.opa334.ccsupport, firmware (>= 14.0)
-Filename: ./debs/com.lclrc.hammerit_1.3.6_iphoneos-arm64.deb
-Size: 454582
-MD5sum: c4a4132ede8a8c7653cc27dcb3c2f0c6
-SHA1: a8a4058b6d6d964f5caf68394ba5179c5b76f715
-SHA256: f5db8fde75b1b77dbc64af6c0dde0b0a2618355db968a964a860fc9f666b6bb1
-Section: Tweaks
-Description: Control your text or translate as you wish.
-Author: lclrc(SquidForce)
-Name: Hammer Itتغيير نصوص النظام
-Depiction: https://doplx.github.io/repo/
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-
-Package: com.lclrc.squidgesture
-Version: 1.2.0
-Architecture: iphoneos-arm64
-Maintainer: lclrc(SquidForce)
-Installed-Size: 916
-Depends: mobilesubstrate, firmware (>= 14.0), com.opa334.altlist
-Filename: ./debs/com.lclrc.squidgesture_1.2.0_iphoneos-arm64.deb
-Size: 167282
-MD5sum: 766f5f01c36a7739a6ee63a9593703f0
-SHA1: 3dff0cf22b47037962a41fb465b7b95be853d088
-SHA256: 51952bc7dfc0deac97ff19b405042ae0e953dfad7f094cf50f010a7da2e81d93
-Section: Tweaks
-Description: Gestures
-Author: lclrc(SquidForce)
-Icon: file:///var/jb/Library/PreferenceBundles/SquidGesturePrefs.bundle/SquidGesture@3x.png
-Depiction: https://doplx.github.io/repo/
-Name: SquidGesture Activatorأداة شبيهةب
-
 Package: me.lightmann.iamlazy
 Version: 2.5.1
 Architecture: iphoneos-arm64
@@ -581,24 +708,6 @@ Depiction: https://doplx.github.io/repo/
 Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Dev: tomaszpoliszuk
 Name: Color Picker Well
-
-Package: xyz.cypwn.crane
-Version: 1.3.11-5
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
-Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Filename: ./debs/xyz.cypwn.crane_1.3.11-5_iphoneos-arm64.deb
-Size: 879098
-MD5sum: 8cb2638b26aa0843b752191f6b7a9061
-SHA1: a791e38fd3b84c3a884490765d2dd95699e2935d
-SHA256: 1dfbc036f909b37365bd5f7e9ad61510ae17af7a4fedafc3b759c9d908d7daa1
-Section: Tweaks
-Description: Multiple containers for your applications!
-Author: opa334
-Icon: https://media.havoc.app/61ffad4e82c2e1d835f525ba
-Depiction: https://doplx.github.io/repo/
-Name: Craneفتح عدة حسابات بالتطبيق
 
 Package: com.itznebbs.phoenix
 Version: 1.0.4
@@ -1003,26 +1112,6 @@ Description: Dark mode for the web
 Author: FoxfortMobile
 Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Deluminatorالوضع الليلي للتطبيقات
-
-Package: com.foxfort.foxforttools
-Version: 1.4.2
-Architecture: iphoneos-arm64
-Maintainer: FoxfortMobile
-Installed-Size: 1664
-Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.4.0)
-Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.foxforttools
-Filename: ./debs/com.foxfort.foxforttools_1.4.2_iphoneos-arm64.deb
-Size: 387978
-MD5sum: b1de9eb55d36be3acad44f30c42545c0
-SHA1: 87a92232bcb18d41a1a3477776b7cce492c4ce02
-SHA256: d80f9f7801a09a2f59a1c83ebc8d34f6ce5e1a8774a6ae89bd647f0c890adaca
-Section: Development
-Description: Helper tools for Foxfort tweaks
-Tag: role::developer
-Author: FoxfortMobile
-Name: FoxFort Tools
-Depiction: https://doplx.github.io/repo/
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.foxfort.libfoxfortutils
 Version: 1.4.0
@@ -2434,24 +2523,6 @@ Depiction: https://doplx.github.io/repo/
 Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: iCleaner Pro🧹منظف التطبيقات
 
-Package: com.f0u4d.onlinenotify
-Version: 3.4.3
-Architecture: iphoneos-arm64
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 692
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.7)
-Filename: ./debs/com.f0u4d.onlinenotify_3.4.3_iphoneos-arm64.deb
-Size: 182110
-MD5sum: 94849e2930d89f8b6abe15283f4ac934
-SHA1: d717d243959e2b459d6eab7c134d333b1494bba6
-SHA256: f319f1a059504b416505658d50f15805c4ea40614a6e3d20fc4d2095d2101b46
-Section: Tweaks
-Description: Track your friends on WhatsApp Messenger!
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://doplx.github.io/repo/
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-Name: OnlineNotifyتتبع ظهور أرقام الواتس
-
 Package: com.ginsu.comet
 Version: 1.0.4
 Architecture: iphoneos-arm64
@@ -2560,24 +2631,6 @@ Author: Ginsu
 Depiction: https://doplx.github.io/repo/
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.pockettranslator/icon.png
 Name: PocketTranslatorترجمة من مركز التحكم
-
-Package: com.ginsu.ytmusicultimate
-Version: 1.4.1
-Architecture: iphoneos-arm64
-Maintainer: Ginsu
-Installed-Size: 528
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.ginsu.ytmusicultimate_1.4.1_iphoneos-arm64.deb
-Size: 95844
-MD5sum: 4c0b5bfe63a4c69bd4fa0d4b729658b3
-SHA1: 3feaac0ee1092e8eff4d6a361304b2aee64380bf
-SHA256: 5e375a6ec81c243be5df6694edaa3dc1e140685d38dc45bfa5ce9b3eebc32bd1
-Section: Tweaks
-Description: YouTube Music Premium
-Author: Ginsu
-Depiction: https://doplx.github.io/repo/
-Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.ytmusicultimate/icon.png
-Name: YTMusicUltimateتفعيل يوتيوب ميوزك
 
 Package: com.ichitaso.iconorder
 Version: 1.0.2
@@ -3133,23 +3186,6 @@ Author: NiceiOS
 Name: NiceCallerتعديل مظهر تلقي المكالمات
 Depiction: https://doplx.github.io/repo/
 Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-
-Package: com.niceios.nicehelper-rootless
-Version: 5.5-2
-Architecture: iphoneos-arm64
-Maintainer: niceios
-Installed-Size: 2480
-Conflicts: com.niceios.nicehelper
-Filename: ./debs/com.niceios.nicehelper-rootless_5.5-2_iphoneos-arm64.deb
-Size: 1010288
-MD5sum: c8849d352260df4bb92607e02de6d8c0
-SHA1: 903b914262faf0ad145da55d36630b4155a50ec1
-SHA256: 22f816895f794bddb6fe009b26e5c49035f6656b25beec6d0306386e3d4d2572
-Section: Addons
-Description: nice helper 
-Author: niceios
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-Name: NiceHelperحزمة أساسية لأدوات 
 
 Package: com.niceios.nicelogx13-rootless
 Version: 1.0.1.4-25
@@ -5335,23 +5371,6 @@ Author: sourcelocation
 Depiction: https://doplx.github.io/repo/
 Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: Cardculatorإختصار للحاسبة
-
-Package: xyz.cypwn.debra
-Version: 2.8.4
-Architecture: all
-Maintainer: CyPwn
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/xyz.cypwn.debra_2.8.4_all.deb
-Size: 19488
-MD5sum: 7fc4fca247cc71bfebf218a447a9f8a7
-SHA1: 3291e3373d6653c28074728651c32500d0f465d6
-SHA256: ff0b483064ba8b251d8c05bcabb13a551d964b0b7bbb3e349eca08a4c34f05ef
-Section: Tweaks
-Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal. For rooted & rootless jailbreaks.
-Author: Sudo & Paisseon
-Depiction: https://doplx.github.io/repo/
-Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
-Name: Debraأوامر داخل التيرمنال
 
 Package: xyz.cypwn.ding
 Version: 1.1.0
