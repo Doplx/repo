@@ -181,25 +181,6 @@ Depiction: https://doplx.github.io/repo/
 Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
 Name: Debraأوامر داخل التيرمنال
 
-Package: com.joshuaseltzer.sleeperx
-Version: 1.2.1
-Architecture: iphoneos-arm64
-Maintainer: Joshua Seltzer <joshua.seltzer90@gmail.com>
-Installed-Size: 1788
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>=15.0), firmware (<<16.0)
-Conflicts: org.thebigboss.sleeper, com.joshuaseltzer.sleeper
-Filename: ./debs/com.joshuaseltzer.sleeperx_1.2.1_iphoneos-arm64.deb
-Size: 149628
-MD5sum: 33c557d4e0336d086e60e25b07a4fe51
-SHA1: f1ba4076f763b59d6bdaceea65cc0777783b6068
-SHA256: f2c7a7335d180ebf575008b1cf8cd2571180dda66320e93a8250a63f4e5a8ee5
-Section: Tweaks
-Description: Set custom snooze times, skip alarms, and more with SleeperX.
-Author: Joshua Seltzer <joshua.seltzer90@gmail.com>
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-Depiction: https://doplx.github.io/repo/
-Name: SleeperXتخصيص صوت المنبه ومدة الغفوة
-
 Package: com.opa334.timebomb
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -442,24 +423,6 @@ Depiction: https://doplx.github.io/repo/
 Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 Name: ContactSyncسحب صور الواتس لجهات الإتصال 
 
-Package: com.foxfort.picarize
-Version: 1.0.4
-Architecture: iphoneos-arm64
-Maintainer: FoxfortMobile
-Installed-Size: 19288
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, com.foxfort.foxforttools (>= 1.4.1)
-Filename: ./debs/com.foxfort.picarize_1.0.4_iphoneos-arm64.deb
-Size: 16052210
-MD5sum: 02a67d85c6f8e280fb79557048e63fdb
-SHA1: 36a13d19dea80274d0963521cf7b9121bca407ae
-SHA256: f46cd7f46a8455bd64802a3ed1199c15e41aa928bd1d389839cde84acff293e2
-Section: Tweaks
-Description: Remove background from image
-Author: FoxfortMobile
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-Depiction: https://doplx.github.io/repo/
-Name: Picarizeإستخراج الملصقات من الصور
-
 Package: me.ikghd.youtubekiller
 Version: 1.13
 Architecture: iphoneos-arm64
@@ -499,24 +462,6 @@ Author: iKarwan <ikghd3@gmail.com>
 Depiction: https://doplx.github.io/repo/
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
 Name: YTKillerPlusإضافة ميزات للتطبيقات
-
-Package: me.tomt000.stageduo
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: tomt000
-Installed-Size: 7340
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
-Filename: ./debs/me.tomt000.stageduo_1.0.1_iphoneos-arm64.deb
-Size: 4137380
-MD5sum: 6da46d6fb70422cab51b846e430055b8
-SHA1: fb04a2e3ec8d8aa4b3cb4d7a023ec7202d9d9a4f
-SHA256: b1eddd97876efc797e6e8368b407a27bd190db2cca4f780eb01f8cdd063d21fd
-Section: Tweaks
-Description: Stage Manager Reimagined for iPhone
-Author: tomt000
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
-Depiction: https://doplx.github.io/repo/
-Name: Dynamic Stageإضافة جميلة لتعدد المهام
 
 Package: xyz.cypwn.bhtwitter
 Version: 4.0
@@ -3692,26 +3637,6 @@ Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://doplx.github.io/repo/
 Icon: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/icon.png
 Name: Togglowالتعديل على مركز التحكم
-
-Package: com.snail.always120.rootless
-Version: 1.0.9
-Architecture: iphoneos-arm64
-Maintainer: Snail <mu514983786@gmail.com>
-Installed-Size: 696
-Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
-Filename: ./debs/com.snail.always120.rootless_1.0.9_iphoneos-arm64.deb
-Size: 200414
-MD5sum: 64cd3c56c24dedc306569e72162a19fa
-SHA1: 9595e77e9bbbee3f36ba46ddbc2636f56ad07784
-SHA256: 3232770b5ca7b745bade9f2df8f7a0e01745b192553cec317a9623257a2e19b5
-Section: Tweaks
-Description: Always120
-Author: Snail <mu514983786@gmail.com>
-Md5: c03e0da1e0b196f9ceab24f07f6c7eb3
-Name: Always120تثبيت الفريمات للتطبيقات
-Sha265: 0a229d63409dff57af1b661ef6958e016312e013eca1dc10b710dfe6136b367d
-Depiction: https://doplx.github.io/repo/
-Icon: https://www7.0zz0.com/thumbs/2023/08/22/15/483264506.png
 
 Package: com.spark.autounlockx
 Version: 1.1.0-rootless
